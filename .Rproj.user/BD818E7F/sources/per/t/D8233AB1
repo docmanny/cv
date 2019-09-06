@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567790598299.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3677212309",
+    "id" : "D8233AB1",
+    "lastKnownWriteTime" : 1544728323,
+    "last_content_update" : 1544728323,
+    "path" : "/mnt/linux/home/manny/projects/committeeMeetings/2018/2018-committeeMeetingReport.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "85,9",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

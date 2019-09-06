@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567790605300.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "194351321",
+    "id" : "DD2BF982",
+    "lastKnownWriteTime" : 1564947229,
+    "last_content_update" : 1564947229,
+    "path" : "/mnt/linux/home/manny/projects/committeeMeetings/2019/2019-committeeMeetingReport.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "80,0",
+        "scrollLine" : "73"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

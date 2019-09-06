@@ -1,0 +1,17 @@
+]0;/home/manny/projects/cv[34;1mmanny@kronos [37;1m[[33;1m~/projects/cv[37;1m] [37;1m○ [32;1m [500C[10D [35;1m[[37;1m11:28:37[35;1m]
+[37;1m> [0m[K[37;1m> [0mls
+total 188K
+drwxr-xr-x  3 manny manny 4.0K Nov  1 11:28 [0m[01;34m.[0m
+-rw-r--r--  1 manny manny 143K Nov  1 11:28 [00;32mtemplate-2pg-cv.pdf[0m
+-rw-r--r--  1 manny manny  11K Nov  1 11:28 template-2pg-cv.Rmd
+-rw-r--r--  1 manny manny 8.2K Nov  1 10:19 [00;32mrap-latex-cv.tex[0m
+-rw-r--r--  1 manny manny 1.1K Nov  1 10:15 [00;32mrap-latex-cv.log[0m
+drwxr-xr-x  4 manny manny 4.0K Nov  1 09:20 [01;34m.Rproj.user[0m
+-rw-r--r--  1 manny manny  205 Nov  1 09:20 cv.Rproj
+drwxr-xr-x 29 manny manny 4.0K Nov  1 09:19 [01;34m..[0m
+]0;/home/manny/projects/cv[34;1mmanny@kronos [37;1m[[33;1m~/projects/cv[37;1m] [37;1m○ [32;1m [500C[10D [35;1m[[37;1m11:28:43[35;1m]
+[37;1m> [0mmv template-2pg-cv.Rmd juan[K[K[K[KKJ[K[KJuanVazquezCV.Rmd
+]0;/home/manny/projects/cv[34;1mmanny@kronos [37;1m[[33;1m~/projects/cv[37;1m] [37;1m○ [32;1m [500C[10D [35;1m[[37;1m11:29:00[35;1m]
+[37;1m> [0mrm template-2pg-cv.pdf 
+]0;/home/manny/projects/cv[34;1mmanny@kronos [37;1m[[33;1m~/projects/cv[37;1m] [37;1m○ [32;1m [500C[10D [35;1m[[37;1m11:29:03[35;1m]
+[37;1m> [0m

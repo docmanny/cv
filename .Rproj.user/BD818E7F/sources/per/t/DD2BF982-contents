@@ -1,0 +1,1019 @@
+---
+biblio-style: apalike
+bibliography: 2018report.bib
+geometry: margin=35pt
+indent: yes
+link-citations: no
+output:
+  pdf_document:
+    citation_package: natbib
+  html_document:
+    df_print: paged
+papersize: letter
+---
+\nocite{*}
+\noindent
+\large\textbf{2019 Committee Meeting Report} \hfill \textbf{Juan Manuel Vazquez} \
+\normalsize \textbf{Committee Members:} \hfill \textbf{Advisor:} Vincent J Lynch  \
+Marcelo Nobrega \hfill \textbf{Department:} Human Genetics  \
+Joseph Thorton \hfill \textbf{Date:} 2019/07/02  \
+\hfill Yang Li  \
+\hfill Yoav Gilad (_ex officio_)  \
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval=T, echo=F, message = F, warning = F)
+library(tidyverse)
+options(readr.num_columns = 0)
+library(ggtree)
+library(ggpubr)
+library(ggplotify)
+library(UpSetR)
+library(wordcloud)
+library(cowplot)
+library(viridis)
+library(ggimage)
+library(ggstance)
+library(magrittr)
+library(RColorBrewer)
+library(wordcloud)
+multi_join <- function(list_of_loaded_data, join_func, ...){
+    
+    require("dplyr")
+    
+    output <- Reduce(function(x, y) {join_func(x, y, ...)}, list_of_loaded_data)
+    
+    return(output)
+}
+dir.create("output")
+source("~/projects/chiropteraStressTest/code/general_functions.R")
+```
+
+```{r Data, include=F}
+biblio <- bibtex::read.bib("./2018report.bib")
+## Data
+genomes.df <- read_csv("~/projects/smRecBlast/data/portTable.csv", col_names = c("tport", "utport", "Genome", "Name", "Species"))
+genomes.list <- system("ls ~/projects/RecBlast/output", intern = TRUE) %>% str_subset("README.md|figures|recBlastDBPrep",negate = T) %>% set_names(.,.) 
+species.list <- pull(genomes.df, Species) %>% unique %>% na.omit()
+species.tree <- read.newick("data/RBB_species_list.nwk")
+species.tree$tip.label %<>% str_replace_all("_", " ")
+```
+
+# Progress since last committee meeting (2018/08/24) 
+  
+## Grants and Awards:  
+
+  - _(In review)_ Diana Jacobs Kalman/AFAR Scholarships for Research in the Biology of Aging \hfill 2019/07
+  - Yale Ciencia Academy Fellowship \hfill 2018-2019/12
+  - NIH U13: NIH Support for Conferences and Scientific Meetings \hfill 05/2019
+  - University of Chicago Biological Sciences Division Diversity and Inclusion Small Projects Grant \hfill 2019/03
+  - University of Chicago Office of The Provost Diversity and Inclusion Pilot Project ($5000+) Grant \hfill 2018/12
+
+## Manuscripts in Progress:  
+
+  - _A duplicated TP53 locus leads to enhanced DNA damage sensitivity_ \hfill Esimated Submission:  
+  _in the little brown bat Myotis lucifugus_  \hfill Fall 2019  
+    Final experiments in the pipeline
+  - _A survey of gene duplication events across all mammals_ \hfill Estimated Submission:   
+    165 genomes searched and first-pass analysis complete. \hfill Winter 2019  
+
+## Oral Presentations:  
+
+  - Gordon Research Conference, Biology of Aging \hfill 2019/07  
+    Vazquez JM, Lynch VJ, Miller R. _Stress Response and a P53 Duplication in the Long-Lived Bat, Myotis Lucifugus_.
+  - University of Chicago Molecular Biosciences Retreat \hfill 2018/11  
+    Vazquez JM, Lynch VJ, Miller R. _P53 Duplicates And Stress Response In The Little Brown Bat, Myotis Lucifugus_.
+  - Human Genetics Work in Progress \hfill 2019/01  
+    Vazquez JM, Lynch VJ, Miller R. _P53 Duplicates And Stress Response In The Little Brown Bat, Myotis Lucifugus_  
+  
+## Poster Presentations:  
+
+  - SACNAS National Conference \hfill __2018/10__  
+    Vazquez JM, Lynch VJ. _Gene Duplications and Peto's Paradox in the African Elephant and Paenungulates_.
+  - University of Chicago Molecular Biosciences Retreat \hfill 2018/11  
+    Vazquez JM, Lynch VJ. _Gene Duplications and Peto's Paradox in the African Elephant and Paenungulates_.
+
+## Teaching Assistantship Requirements:  
+
+  - Swift Elementary _Ideal Student Workshop and Test Prep_ \hfill Spring 2019  
+  Taught for a course on executive functioning, organization, and testing strategy for 1 hour each week to 8th graders for a 12-week period.  
+  - BIOS 20235 _Biological Systems_ \hfill Winter 2019  
+  [Undergraduate] The second class of a honors introductory biology class series, students learn about networks and feedbacks in biology in the context of development and epidemiology.
+  - BIOS 21306 _Human Genetics and Evolution_ \hfill Fall 2017  
+  [Undergraduate] An introductory course in Human Genetics, including modern methodology, evolutionary history, and population genetics
+
+  
+\pagebreak
+
+
+## Additional Coursework:  
+
+  - myCHOICE Mini Course: _Perfecting Your Pitch Presentation_ \hfill Spring 2019
+  - myCHOICE Mini Course: _Strategies & Processes of Negotiation_ \hfill Spring 2019
+  - myCHOICE Mini Course: _The Art of Successful Grantsmanship: What You Need to Know_  
+  _Before You Write_ \hfill Spring 2019
+  - myCHOICE Mini Course: _Conflict Resolution_ \hfill Winter 2018
+  - myCHOICE Mini Course: _Academic Research: The Application, Acceptance, and Negotiation Process_ \hfill Winter 2018
+  - ENGL 33000: _Academic and Professional Writing (The Little Red Schoolhouse)_ \hfill Fall 2018
+
+
+## Extracurriculars:  
+
+  - Corresponding Chair, Gordon Research Seminar on the Biology of Aging \hfill __2019/07__  
+  Fundraised and organized for the Biology of Aging Gordon Research Seminar, with 64 attendees.  
+  - Computational Biology Tutorial, Rauner College Prep \hfill 2019/05  
+  Assisted with teaching high school students at Rauner College Prep about basic Python programming and using data science to solve biological problems.  
+  - Tutoring with Daniel Murphey Scholarship Fund \& LINK Unlimited \hfill 2016-Present  
+  Tutoring high school students in all subjects at Regular, AP, and Collegiate levels  
+  - President, UCSACNAS \hfill 2018-Present  
+  Lead teams of graduates and undergraduates in organizing and excecuting various general interest and personal/professional development events  
+  - Organizing Committee Chair, 2nd Annual Midwest Regional SACNAS Conference \hfill 2018/04  
+  Lead a team of organizers from the SACNAS Leadership Board to create a day-long conference with 150 attendees, 6 workshops, and a keynote speaker.
+
+  
+\pagebreak
+
+# Updates since Qualifying Exam  
+
+## __Aim 1__ Identification of Gene Duplications in _Paenungulata_, _Chiroptera_, and _Balaenidae_ using Reciprocal Best-Hit BLAT  
+
+\indent I have tested optimal set of search parameters by running my Reciprocal Best-Hit BLAT pipeline on various species in _Afrotheria_; the optimal parameter choice was a 50% target/query length cutoff, with a 75% percent-identity cutoff. Other factors, such as the hit length and maximum number of exons, were ineffective at improving the quality of results.
+
+\indent Previously, certain gene families such as the Protocadherins and Hox genes were leading to false-positive duplicate identification. These "duplicates" were robust to changing search parameters, and additional methods of culling them lead to losses in _bona fide_ gene duplicate identification. I have resolved this issue in two parts: first, by searching for these family duplicates and removing offending genes from the initial query list; and second, by implementing a concatenation step that merges overlapping hits from distinct proteins into a single hit. The latter implementation can merge hits from isoforms of the same gene, and drops hits where highly homologous genes cross-validate each other. 
+
+\indent Afrotheria was analyzed to completion using the full pipeline. The data is show in Figure 1 & 2. I have highlighted interesting candidate genes in the elephant which may merit further study. Selene Clay (Ph. D. Candidate in the lab of Carole Ober, Human Genetics) worked closely with me during her rotation to characterize the MAD2L1 duplicates, and I have done some preliminary work in characterizing the SOD1 duplicates (data not shown). 
+
+```{r Afrotheria, eval-F, eval=T}
+# Color Scheme for Afrotheria
+afrotheria.clades <- c("Afroinsectivora", "Xenarthra", "Pseudoungulata","Paenungulata", "Tethytheria", "Elephantidae")
+afrotheria.cladesPlusOne <- c("Other", "Afroinsectivora", "Xenarthra", "Pseudoungulata","Paenungulata", "Tethytheria", "Elephantidae")
+afrotheria.colorScheme <- brewer.pal(length(afrotheria.cladesPlusOne), name = "Dark2")
+#names(afrotheria.colorScheme) <- afrotheria.cladesPlusOne  # Kills the whole thing
+afrotheria.colorScheme.species <- list(
+  "Loxodonta africana" = "#A6761D",
+  "Loxodonta cyclotis" = "#976C1B",
+  "Mammuthus primigenius" = "#886118",
+  "Mammuthus columbi" = "#795616",
+  "Elephas maximus" = "#5B4110",
+  "Mammut americanum" = "#3D2B0B",
+  "Trichechus manatus" = "#E6AB02",
+  "Procavia capensis" = "#66A61E",
+  "Orycteropus afer" = "#E7298A",
+  "Echinops telfairi" = "#7570B3",
+  "Chrysochloris asiatica" = "#605C93",
+  "Elephantulus edwardii" = "#4B4872",
+  "Choloepus hoffmanni" = "#D95F02",
+  "Dasypus novemcinctus" = "#C65702"
+)
+
+# Data
+afrotreeria <- read.newick("~/projects/RecBlast/data/tree/afrotheria.tree")
+afrotreeria$tip.label %<>% gsub("_"," ", .)
+afrotheria.lifesize <- read.delim("~/projects/RecBlast/data/other/anage_data.txt", stringsAsFactors = FALSE) %>% 
+  as_tibble() %>% 
+  unite(SciName, c("Genus", "Species"), sep=" ", remove=F) %>% 
+  filter(SciName %in% afrotreeria$tip.label) %>% 
+  select(SciName, Family, Genus, Species, Maximum.longevity..yrs., Adult.weight..g.) %>%
+  dplyr::rename(id=SciName)
+afrotheria.lifesize %<>% full_join(tibble(id=afrotreeria$tip.label), ., by="id")
+afrotheria.lifesize$Family[1:6] <- rep("Elephantidae", 6)
+afrotheria.lifesize$Genus[1] <- "Loxodonta"
+afrotheria.lifesize$Genus[3:4] <- rep("Mammuthus",2)
+afrotheria.lifesize$Genus[6] <- "Mammut"
+afrotheria.lifesize$Species[1] <- "cyclotis"
+afrotheria.lifesize$Species[3] <- "columbi"
+afrotheria.lifesize$Species[4] <- "primigenius"
+afrotheria.lifesize$Species[6] <- "americanum"
+afrotheria.lifesize$Adult.weight..g.[10] <- 47  #https://animaldiversity.org/accounts/Chrysochloris_asiatica/
+afrotheria.lifesize$Adult.weight..g.[1] <- 2.7e+6  # http://www.arkive.org/forest-elephant/loxodonta-cyclotis/#text=Facts ; Spinage, C. (1994) Elephants. T. & A. D. Poyser Ltd, London.
+afrotheria.lifesize$Adult.weight..g.[3] <- 1e+7
+afrotheria.lifesize$Adult.weight..g.[4] <- 6e+6
+afrotheria.lifesize$Adult.weight..g.[6] <- 5.5e+6
+# Also see http://library.sandiegozoo.org/factsheets/_extinct/mammoth/mammoth.htm for more estimates
+
+# Add in the color
+afrotheria.lifesize %<>% 
+  mutate(
+    Col=sapply(
+      id, 
+      function(x, colscheme=afrotheria.colorScheme.species){
+        colscheme[[x]]
+        }
+      )
+    )
+
+# Labeling the tree by clade
+afrotreeria %<>% groupClade(., afrotheria.clades)
+
+# Graphing
+afrotreeria.phy <- afrotreeria %>% 
+  ggtree(
+    aes(color=factor(group))
+) + 
+    geom_tiplab(col="black") +
+    scale_color_manual(
+      # Ok a breakdown: groupClade assigns numbers to each clade based on the ORIGINAL order in afrotheria.clades,
+      # so in the named vector for values, we need to assign colors to said numbers, NOT to the group names
+        values=c(
+            "0"="#1B9E77",
+            "1"="#7570B3",
+            "2"="#D95F02",
+            "3"="#E7298A",
+            "4"="#66A61E",
+            "5"="#E6AB02",
+            "6"="#A6761D",
+            # Now, because I decided "hey let's add in the literal colors as a column," R will use that column as the 
+            # KEYS for which to assign colors. In other words, now I need a named vector that has the colors assigned 
+            # to themselves...
+            "#A6761D" = "#A6761D",
+            "#976C1B" = "#976C1B",
+            "#886118" = "#886118",
+            "#795616" = "#795616",
+            "#5B4110" = "#5B4110",
+            "#3D2B0B" = "#3D2B0B",
+            "#E6AB02" = "#E6AB02",
+            "#66A61E" = "#66A61E",
+            "#E7298A" = "#E7298A",
+            "#7570B3" = "#7570B3",
+            "#605C93" = "#605C93",
+            "#4B4872" = "#4B4872",
+            "#D95F02" = "#D95F02",
+            "#C65702" = "#C65702"),
+        labels=c(
+          # Leave out the colors' names, we don't need them
+            "0"="Other",
+            "1"="Afroinsectivora",
+            "2"="Xenarthra",
+            "3"="Pseudoungulata",
+            "4"="Paenungulata",
+            "5"="Tethytheria",
+            "6"="Elephantidae"),
+        limits=c(
+          # Only define in limits the names of items from the color scale that we care about showing in the legend
+          # In other words, only show the clade color scheme, but leave the color scheme for species unexplained.
+          # Really the species-specific hues are for visual appeal, but its not essential for the understanding of 
+          # the graphs, since the bar graphs are lined with with the species names.
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"),
+        name="Clades"
+    ) +
+    #geom_text2(aes(subset=!isTip, label=node), hjust=-.3) +
+    xlim_tree(15)
+
+afrotreeria.phy %<>% flip(tree_view = ., 26, 25) # Flip to have LoxAfr on top
+
+afrotreeria.phy.lifespan <- facet_plot(
+  p=afrotreeria.phy, 
+  panel='Lifespan - log(yrs)', 
+  data=afrotheria.lifesize, 
+  geom=geom_segment, 
+  aes(
+    x=0, 
+    xend=log10(`Maximum.longevity..yrs.`), 
+    y=y, 
+    yend=y,
+    color=Col
+    )
+  ) 
+afrotreeria.phy.lifespan.size <- facet_plot(
+  p=afrotreeria.phy.lifespan, 
+  panel='Adult Weight - log(g)', 
+  data=afrotheria.lifesize, 
+  geom=geom_segment, 
+  aes(
+    x=0, 
+    xend=log10(`Adult.weight..g.`), 
+    y=y, 
+    yend=y,
+    color=Col
+    )
+  )
+# afrotreeria.phy.lifespan.size + 
+#   theme_tree2() + 
+#   theme_minimal()
+#     ) +
+#   xlim_tree(30)
+
+genomes <- list(
+  "loxAfr3",
+  "triMan1",
+  "proCap1", 
+  "oryAfe1",
+  "echTel2",
+  "dasNov3"
+  ) %>% set_names(.,.)
+
+tt <- read_tsv("~/projects/RecBlast/output/recBlastDBPrep/UP000005640.withheader.filtered.tsv")
+  
+rbbs <- genomes %>% 
+  lapply(
+    ., 
+    function(g){
+      dir(path = str_glue("~/projects/RecBlast/output/{g}/AvA-pcScore0.1_pcIdent0.8_pcQuerySpan0.5/other/"), pattern=".*_RBB_GeneNames_merged\\.bed12", full.names = T) %>% 
+        read_tsv(., col_names = F, col_types = "ccccc") %>% 
+        mutate(
+          X4 = X4 %>% 
+            str_remove_all("_[0-9]+") %>% 
+            str_split(",") %>% 
+            sapply(
+              .,
+              . %>% 
+                unique %>% 
+                str_flatten(",")
+            )
+        )
+      }
+  )
+rbbs.overlaps <- rbbs %>% lapply(
+  .,
+  . %>% pull(X4) %>% .[!str_detect(.,",")]
+)
+
+hit.dat <- genomes %>% 
+  lapply(
+    .,
+    function(g){
+      list(
+        base::dir(path = paste("~/projects/RecBlast/output/", g, "/AvA-pcScore0.1_pcIdent0.8_pcQuerySpan0.5/other/genesymbol/", sep=""), pattern="_geneNames_all.txt", full.names = T) %>% read_lines(file=.),
+        base::dir(path = paste("~/projects/RecBlast/output/", g, "/AvA-pcScore0.1_pcIdent0.8_pcQuerySpan0.5/other/genesymbol/", sep=""), pattern="_geneNames_dups.txt", full.names = T) %>% read_lines(file=.)
+        ) %>% 
+        set_names(c(str_glue("{g}_Hits"), str_glue("{g}_Duplicates")))
+    }
+  )
+count.dat <- hit.dat %>% 
+  lapply(
+    .,
+    function(g){
+      lapply(
+        g, 
+        length
+        )
+    }
+  ) %>% 
+  unlist %>% 
+  cbind %>% 
+  as.data.frame %>% 
+  rownames_to_column("g") %>% 
+  rename(Count=".") %>% 
+  separate(
+    g, 
+    c("id","Class"),
+    sep="_"
+  ) %>% 
+  mutate(
+    id=sapply(
+      id,
+      function(g){
+        ifelse(
+          g=="loxAfr3.loxAfr3",
+          "L.africana\nloxAfr3",
+          ifelse(
+            g=="proCap1.proCap1",
+            "P.capensis\nproCap1",
+            ifelse(
+              g=="triMan1.triMan1",
+              "T.manatus\ntriMan1",
+              ifelse(
+                g=="oryAfe1.oryAfe1",
+                "O.afer\noryAfe1",
+                ifelse(
+                  g=="echTel2.echTel2",
+                  "E.telfairi\nechTel2",
+                  ifelse(
+                    g=="dasNov3.dasNov3",
+                    "D.novemcinctus\ndasNov3",
+                    NA
+                  )
+                )
+              )
+            )
+          )
+          )
+      }
+      )
+  )
+
+genomes.searched <- read.newick("~/projects/RecBlast/data/tree/genomes.tree")
+genomes.searched$tip.label <- gsub("\\\\n","\n", genomes.searched$tip.label)
+
+afrotheria.colorScheme2 <- list(
+  "#1B9E77",
+  "Afroinsectivora"="#7570B3",
+  "D.novemcinctus\\ndasNov3"="#7570B3",
+  "Xenarthra"="#D95F02",
+  "E.telfairi\\nechTel2"="#D95F02",
+  "Pseudoungulata"="#E7298A",
+  "O.afer\\noryAfe1"="#E7298A",
+  "Paenungulata"="#66A61E",
+  "P.capensis\\nproCap1"="#66A61E",
+  "Tethytheria"="#E6AB02",
+  "T.manatus\\ntriMan1"="#E6AB02",
+  "L.africana\\nloxAfr3"="#A6761D"
+)
+
+b <- genomes.searched %>% 
+  groupClade(., c(10,11,12,13,14)) %>% 
+  ggtree(
+    aes(
+      color=factor(group)
+      )
+    ) +
+  geom_tiplab(
+    color="black"
+  )
+b %<>% flip(tree_view = ., 1, 2)
+
+
+plot.tree.hit_stats <- b %>% 
+  facet_plot(
+    p=.,
+    panel="Hits",
+    data = count.dat,
+    geom=geom_barh,
+    mapping = aes(
+      x = Count,
+      fill = as.factor(Class)
+    ),
+    position=position_dodgev(height=1),
+    stat="identity"
+  ) %>% 
+  facet_plot(
+    p=.,
+    panel="Hits",
+    data = count.dat,
+    geom=geom_text,
+    mapping = aes(
+      x = Count,
+      group = as.factor(Class),
+      label=as.character(Count)
+    ),
+    position=position_dodgev(height=1),
+    hjust=-0.5,
+    color="black"
+  ) +
+theme_tree2() + 
+  theme_pubclean() +
+  theme(
+    legend.position="bottom",
+  ) +
+  scale_color_manual(
+    values=c(
+      "0"="#1B9E77",
+      "4"="#7570B3",
+      "5"="#D95F02",
+      "1"="#E7298A",
+      "2"="#66A61E",
+      "3"="#E6AB02"
+    ),
+    labels=c(
+      "0"="Other",
+      "4"="Afroinsectivora",
+      "5"="Xenarthra",
+      "1"="Pseudoungulata",
+      "2"="Paenungulata",
+      "3"="Tethytheria"),
+    limits=c("0", "1", "2", "3", "4", "5"),
+    name="Clades"
+  ) +
+  scale_fill_viridis(
+    discrete = T,
+    name="Count",
+    label=c("Duplicated", "Singleton")
+    )+
+  xlim_tree(c(0,8))+
+  xlim_expand(c(0, max(count.dat$Count)+5000), "Hits")
+ORAs <- c(genomes, "mm10") %>% 
+  set_names(.,.) %>% 
+  lapply(
+    ., . %>% 
+      {
+        base::dir(
+          path = str_glue("~/projects/RecBlast/output/{.}/AvA-pcScore0.1_pcIdent0.8_pcQuerySpan0.5/other/genesymbol/Project_{.}_AvA-pcScore0.1_pcIdent0.8_pcQuerySpan0.5_geneNames_dups"), 
+          pattern="enrichment_results", 
+          full.names = T
+        ) %>% 
+          read_tsv(.)}
+  )
+
+interesting_hits <- tribble(
+  ~Gene, ~Reactome.Pathway, ~Copies, ~TPMs,
+  "PCNA", "Translesion syntheis by REV1", 2, "259.401672;0.085464",
+  "RFC5", "Translesion syntheis by REV1", 2, "12.613674;0",
+  "RPA2", "Translesion syntheis by REV1", 2, "7.924984;6.832592",
+  "UBE2C", "Cellular response to stress", 4, "28.034910;72.136497;6.145966;0",
+  "DNAJC2","Cellular response to stress", 2, "4.600700;0",
+  "ATOX1", "Cellular response to stress", 2, "10.121429;0",
+  "SOD1", "Cellular response to stress", 2, "113.214508;10.245503",
+  "MAD2L1", "Mitotic Prometaphase", 7, "53.247437;46.728935;1.984854;53.247437;6.405835;37.413486;0"
+) %>% 
+  separate_rows(TPMs, sep=";") %>% 
+  group_by(Gene) %>% 
+  mutate(id=1:max(Copies)) %>% 
+  ungroup %>% 
+  mutate(
+    Gene=as.factor(Gene),
+    id=as.factor(id),
+    TPMs=as.numeric(TPMs),
+    Reactome.Pathway=as.factor(Reactome.Pathway)
+  )
+
+plot.ihits <- interesting_hits %>% 
+    ggplot(
+      aes(
+        x=id, 
+        y=TPMs, 
+        color=Reactome.Pathway
+        )
+      ) +
+    geom_point(
+      size=3
+    )+
+    geom_segment(
+      aes(
+        x=id,
+        xend=id,
+        y=0,
+        yend=TPMs
+      )
+    )+
+    scale_y_sqrt()+
+    scale_color_brewer(palette = "Dark2", name="Reactome Pathway", guide=guide_legend(nrow = 2))+
+    theme_pubclean()+
+    labs(
+      x="Copy",
+      y="TPM"
+    )+
+    facet_grid(~Gene, scales = "free")+ 
+  theme(
+    legend.position="bottom"
+  )
+```
+
+
+```{r Figure 1: Afrotheria Summary, eval-F, eval=T, fig.cap="Afrotheria results summary. For each genome, the total hits (yellow) and the total number of duplicates (purple) are shown."}
+plot.tree.hit_stats
+```
+
+```{r Figure 2: Elephant Genes, eval-F, eval=T, fig.cap="Elephant genes identified using the RecBlat pipeline. Genes are colored based its unique membership in a significantly enriched (FDR<0.1) payhway according to WebGestalt. All duplicates shown have at least 2 transcripts per million mapping to the gene; expression levels for each gene duplicate is shown. "}
+plot.ihits
+```
+
+
+\indent I ran the completed Reciprocal Best-Hit BLAT pipeline available on [https://github.com/docmanny/smRecSearch](https://github.com/docmanny/smRecSearch) on `r length(species.list)` species and `r length(genomes.list)` genomes up to and including calculating Estimated Copy Number by Coverage (ECNC). Summary statistics of hits and duplicates are shown in Figure 3. This step proved to be more computationally expensive than expected, and took many more months than originally anticipated.
+
+```{r Figure 3: Full RecBlat Results, echo=F, fig.align="center", fig.cap="Summary of all-genomes RecBlat search. A) Full tree of all species searched using RecBlat. Vertebrate clades of special note are highlighted; the unhighlighted root clades represent Clupeocephala and invertebrate species. B) Summary of overall results from the RecBlat pipeline. ", warnings=F, message=F}
+## Tree
+node.mrca <- list(
+  "Afrotheria"= tidytree::MRCA(species.tree, "Loxodonta africana", "Dasypus novemcinctus"), 
+  "Glires" =  tidytree::MRCA(species.tree, "Cavia aperea", "Oryctolagus cuniculus"),
+  "Primates" = 247,#tidytree::MRCA(species.tree, "Homo sapiens", "Otolemur garnettii"),
+  "Chiroptera" = 218,
+  "Carnivora" = 179,
+  "Perissodactyla" = 195,
+  "Cetacea" = 200,
+  "Cetartiodactyla" = 212,
+  "Metatheria" = 164,
+  "Sauria" = 151#,
+  #"Clupeocephala" = tidytree::MRCA(species.tree, "Archocentrus centrarchus", "Danio rerio")
+  )
+nodes.colors <- #brewer.pal(length(node.mrca), "Set3") %>% set_names(x = ., value = names(node.mrca))
+  c("#4f8c9d", "#df8a1d", "#6e56d0", "#7fac0c", "#eb3e86", "#09c553", "#d7050d", "#8de4d3", "#883844", "#2a6b2a")%>% set_names(x = ., value = names(node.mrca))
+rbb.tree <- ggtree(species.tree, layout="circular") + 
+  geom_hilight(node.mrca$Afrotheria, fill = nodes.colors["Afrotheria"]) + 
+  geom_cladelabel(node.mrca$Afrotheria, label="Afrotheria", color=c(nodes.colors["Afrotheria"], "black"), align = T, offset.text = 50, hjust=1)+
+  geom_hilight(node.mrca$Glires, fill = nodes.colors["Glires"]) + 
+  geom_cladelabel(node.mrca$Glires, label="Glires", color=c(nodes.colors["Glires"], "black"), align = T, offset.text = 50, hjust=1)+
+  geom_hilight(node.mrca$Primates, fill = nodes.colors["Primates"]) + 
+  geom_cladelabel(node.mrca$Primates, label="Primates", color=c(nodes.colors["Primates"], "black"), align = T, offset.text = 00, hjust=1)+
+  geom_hilight(node.mrca$Carnivora, fill = nodes.colors["Carnivora"]) + 
+  geom_cladelabel(node.mrca$Carnivora, label="Carnivora", color=c(nodes.colors["Carnivora"], "black"), align = T, offset.text = 50, hjust=0)+
+  geom_hilight(node.mrca$Chiroptera, fill = nodes.colors["Chiroptera"]) + 
+  geom_cladelabel(node.mrca$Chiroptera, label="Chiroptera", color=c(nodes.colors["Chiroptera"], "black"), align = T, offset.text = 50, hjust=1)+
+  geom_hilight(node.mrca$Perissodactyla, fill = nodes.colors["Perissodactyla"]) + 
+  geom_cladelabel(node.mrca$Perissodactyla, label="Perissodactyla", color=c(nodes.colors["Perissodactyla"], "black"), align = T, offset.text = 0, hjust=1)+
+  geom_hilight(node.mrca$Cetacea, fill = nodes.colors["Cetacea"]) + 
+  geom_cladelabel(node.mrca$Cetacea, label="Cetacea", color=c(nodes.colors["Cetacea"], "black"), align = T, offset.text = 0, hjust=0)+
+  geom_hilight(node.mrca$Cetartiodactyla, fill = nodes.colors["Cetartiodactyla"]) + 
+  geom_cladelabel(node.mrca$Cetartiodactyla, label="Cetartiodactyla", color=c(nodes.colors["Cetartiodactyla"], "black"), align = T, offset.text = 0, hjust=0)+
+  geom_hilight(node.mrca$Metatheria, fill = nodes.colors["Metatheria"]) + 
+  geom_cladelabel(node.mrca$Metatheria, label="Metatheria", color=c(nodes.colors["Metatheria"], "black"), align = T, offset.text = 50, hjust=0)+
+  geom_hilight(node.mrca$Sauria, fill = nodes.colors["Sauria"])+ 
+  geom_cladelabel(node.mrca$Sauria, label="Sauria", color=c(nodes.colors["Sauria"], "black"), align = T, offset.text = 50, hjust=0) # + 
+  # geom_hilight(node.mrca$Clupeocephala, fill = nodes.colors["Clupeocephala"])+ 
+  # geom_cladelabel(node.mrca$Clupeocephala, label="Clupeocephala", color=c(nodes.colors["Clupeocephala"], "black"), align = T, offset.text = 50, hjust=0) + 
+
+## Hit Table
+# hit.table <- read_delim("~/projects/RecBlast/output/RBB-hits-genome.tsv", col_names = c("N. Hits", "Genome"), delim = " ", col_types = list("N. Hits"=col_number(), "Genome"=col_character())) %>% mutate(Genome = Genome %>% basename %>% str_remove("_RecBlastOutput.*$")) %>% filter(!Genome %in% c("README.md","figures","recBlastDBPrep"))
+
+hit.table <- genomes.list %>% 
+  lapply(
+    ., 
+    . %>% 
+      file.path("~/projects/RecBlast/output", ., "AvA-pcScore0.1_pcIdent0.8_pcQuerySpan0.5/RBB/") %>% 
+      dir(., pattern=".bed.rbb$", full.names = T)
+  ) %>% 
+  compact() %>% 
+  lapply(
+    .,
+    . %>% 
+      read_tsv(., col_names = F)
+  ) %>% 
+  compact() %>% 
+  lapply(
+    .,
+    . %>% 
+      pull(X4) %>% 
+      str_remove("_\\d*$")
+  ) %>% 
+  lapply(
+    .,
+    function(x){
+      tibble("N. Hits" = n_distinct(x), "N. Duplicates" = duplicated(x) %>% sum(.))
+    }
+  ) %>% 
+  bind_rows(., .id="Genome")
+
+plot.hit.table <- genomes.df %>% select(Name, Species, Genome) %>% distinct %>% inner_join(., hit.table, by="Genome") %>% distinct %>% summarise(Species = n_distinct(Species), Genomes = n_distinct(Genome), "Median Hits" = median(`N. Hits`), "Median Duplicates" = median(`N. Duplicates`)) %>% ggtexttable(., rows = NULL, theme = ttheme("minimal"))
+
+ggarrange(rbb.tree, plot.hit.table, nrow=2, ncol=1, labels = "AUTO")
+```
+
+\indent At the final step, the BED files generated must be intersected with orthogonal lines of data - namely, RNA-seq transcripts showing transcription of the exons of the putative duplicated genes. Currently I am figuring out the most computationally-effective method of assembling over 14 TB of RNA-seq reads and mapping them to the genomes.  
+
+\indent As demonstrated in the _Afrotheria_ dataset in my last committee meeting, gene duplicates at each stage can be analyzed using Gene Set Enrichment Analysis via WebGestalt and a script I created previously that automates said analysis. In addition, I will use _CAFE_ (Computational Analysis of gene Family Evolution) to see if, independent of specific duplicates, gene family expansion correlates with increasing size and lifespan in each phylogenetic clade. To assist us with this, Vincent and I have generated an ancestral size estimation across all mammalian lineages using a combination of extant and extinct body size data. 
+
+## __Aim 2__ Characterization of a CDKN2C Duplicate in Balaenidae  
+
+\indent Owing to recent circumstances, it will not be possible to obtain Bowhead whale cells to validate the CDKN2C results I have obtained until now. The possibility remains that we can work with a collaborator to validate the data thus far obtained _in cellula_ in Bowhead and Right Whale cells; however, __I will be proposing to replace this aim with the previously completed characterization of the _LIF6_ retrogene in _Loxodonta africana_.__
+
+## __Aim 3__  Characterization of UCHl3 Duplicates in various long-lived organisms  
+
+\indent The prior next steps of calculating ECNC of UCHL3 across various species has been done as a part of Aim 1. I heeded the advice of the committe after our 2018 meeting, and have indefinitely postponed further progress on this aim in favor of increasing the depth and rigor of Aims 1&4. Given the size and scope of Aim 1, __I will consolidate the progress of this aim into any future publications resulting from Aim 1 as an exemplary highlight of my findings there.__
+
+## __Aim 4__  Characterization of TP53 Duplicates in _Chiroptera_  
+
+\indent Previously, I had demonstrated that a second, full-locus duplication of TP53 in the Little Brown Bat, _Myotis lucifugus_, is expressed in both living bats and our cell lines. I have further validated the expression of these two copies after treatment with various forms of stress: paraquat (mitochondrial oxidative stress), hydrogen peroxide (general oxidative stress), etoposide (double-strand breaks), and tunicamycin (ER UPR stress). The results of the RT-qPCR experiment are shown in Figure X. I have further validated the PCR primers via sequencing, and confirmed that the TP53 primers amplify a single product each that maps uniquely to their respective copy of TP53. 
+
+\indent I have tested the kinetics of cell death across all bat species (_M. lucifugus_, _M. evotis_, _M. thysanodes_, _M. yumanensis_, _E. fuscus_) over 36 hours in response to the aforementioned stressors (Figure 4A-D). Thereafter, I used this data to select an optimal time for assaying viability, cytotoxicity, and apoptosis across all species using the ApoTox Glo assay (Figure 5A-D). Currently, using the R package `drc`, I am calculating EC50s for each drug and each species corresponding to apoptosis, as well as for viability and cytotoxicity effects, at the optimal timepoints; I will be using a phylogenetically-corrected linear regression to investigate any correlations between size, lifespan, and these EC50s. 
+
+```{r data, include=F, echo=F, message=F, warning=F}
+RTG.etoposide <- read_tsv(
+  "~/projects/chiropteraStressTest/output/etoposide/bats.RTG.etoposide.tsv"#,
+  # col_types = list(
+  #   "Row" = col_character(),
+  #   "Col" = col_character(),
+  #   "cell_line" = col_character(),
+  #   "passage" = col_integer(),
+  #   "Treatment" = col_double(),
+  #   "Vehicle" = col_character(),
+  #   "Value" = col_double(),
+  #   "Time" = col_double(),
+  #   "Test" = readr::col_factor(),
+  #   "Drug" = col_character(),
+  #   "Vehicle.Mean" = col_double(),
+  #   "Value.Norm" = col_double(),
+  #   "individual" = col_character()
+  # )
+  )
+ATG.etoposide <- read_tsv(
+  "~/projects/chiropteraStressTest/output/etoposide/bats.ATG.etoposide.tsv"#,
+  # col_types = list(
+  #   "Row" = col_character(),
+  #   "Col" = col_character(),
+  #   "cell_line" = col_character(),
+  #   "passage" = col_integer(),
+  #   "Treatment" = col_double(),
+  #   "Vehicle" = col_character(),
+  #   "Value" = col_double(),
+  #   "Time" = col_character(),
+  #   "Test" = readr::col_factor(),
+  #   "Drug" = col_character(),
+  #   "Vehicle.Mean" = col_double(),
+  #   "Value.Norm" = col_double(),
+  #   "individual" = col_character()
+  # )
+  )
+RTG.paraquat <- read_tsv(
+  "~/projects/chiropteraStressTest/output/paraquat/bats.RTG.paraquat.tsv"#,
+  # col_types = list(
+  #   "Row" = col_character(),
+  #   "Col" = col_character(),
+  #   "cell_line" = col_character(),
+  #   "passage" = col_integer(),
+  #   "Treatment" = col_double(),
+  #   "Vehicle" = col_character(),
+  #   "Value" = col_double(),
+  #   "Time" = col_double(),
+  #   "Test" = readr::col_factor(),
+  #   "Drug" = col_character(),
+  #   "Vehicle.Mean" = col_double(),
+  #   "Value.Norm" = col_double(),
+  #   "individual" = col_character()
+  # )
+  )
+ATG.paraquat <- read_tsv(
+  "~/projects/chiropteraStressTest/output/paraquat/bats.ATG.paraquat.tsv"#,
+  # col_types = list(
+  #   "Row" = col_character(),
+  #   "Col" = col_character(),
+  #   "cell_line" = col_character(),
+  #   "passage" = col_integer(),
+  #   "Treatment" = col_double(),
+  #   "Vehicle" = col_character(),
+  #   "Value" = col_double(),
+  #   "Time" = col_double(),
+  #   "Test" = readr::col_factor(),
+  #   "Drug" = col_character(),
+  #   "Vehicle.Mean" = col_double(),
+  #   "Value.Norm" = col_double(),
+  #   "individual" = col_character()
+  # )
+  )
+RTG.peroxide <- read_tsv(
+  "~/projects/chiropteraStressTest/output/peroxide/bats.RTG.peroxide.tsv"#,
+  # col_types = list(
+  #   "Row" = col_character(),
+  #   "Col" = col_character(),
+  #   "cell_line" = col_character(),
+  #   "passage" = col_integer(),
+  #   "Treatment" = col_double(),
+  #   "Vehicle" = col_character(),
+  #   "Value" = col_double(),
+  #   "Time" = col_double(),
+  #   "Test" = readr::col_factor(),
+  #   "Drug" = col_character(),
+  #   "Vehicle.Mean" = col_double(),
+  #   "Value.Norm" = col_double(),
+  #   "individual" = col_character()
+  # )
+  )
+ATG.peroxide <- read_tsv(
+  "~/projects/chiropteraStressTest/output/peroxide/bats.ATG.peroxide.tsv"#,
+  # col_types = list(
+  #   "Row" = col_character(),
+  #   "Col" = col_character(),
+  #   "cell_line" = col_character(),
+  #   "passage" = col_integer(),
+  #   "Treatment" = col_double(),
+  #   "Vehicle" = col_character(),
+  #   "Value" = col_double(),
+  #   "Time" = col_double(),
+  #   "Test" = readr::col_factor(),
+  #   "Drug" = col_character(),
+  #   "Vehicle.Mean" = col_double(),
+  #   "Value.Norm" = col_double(),
+  #   "individual" = col_character()
+  # )
+  )
+RTG.tunicamycin <- read_tsv(
+  "~/projects/chiropteraStressTest/output/tunicamycin/bats.RTG.tunicamycin.tsv"#,
+  # col_types = list(
+  #   "Row" = col_character(),
+  #   "Col" = col_character(),
+  #   "Value" = col_double(),
+  #   "Time" = col_double(),
+  #   "Test" = readr::col_factor(),
+  #   "Treatment" = col_double(),
+  #   "Vehicle" = col_character(),
+  #   "cell_line" = col_character(),
+  #   "passage" = col_integer(),
+  #   "Vehicle.Mean" = col_double(),
+  #   "Value.Norm" = col_double()
+  # )
+  ) %>% mutate(Temp=37)
+ATG.tunicamycin <- read_tsv(
+  "~/projects/chiropteraStressTest/output/tunicamycin/bats.ATG.tunicamycin.tsv"#,
+  # col_types = list(
+  #   "Row" = col_character(),
+  #   "Col" = col_character(),
+  #   "cell_line" = col_character(),
+  #   "passage" = col_integer(),
+  #   "Treatment" = col_double(),
+  #   "Vehicle" = col_character(),
+  #   "Value" = col_double(),
+  #   "Time" = col_double(),
+  #   "Test" = readr::col_factor(),
+  #   "Drug" = col_character(),
+  #   "Vehicle.Mean" = col_double(),
+  #   "Value.Norm" = col_double(),
+  #   "individual" = col_character()
+  # )
+  )
+ATG.all.bats <-  rbind(ATG.tunicamycin, ATG.paraquat, ATG.peroxide, ATG.etoposide)
+# RTG.all.bats <- rbind(RTG.tunicamycin, RTG.paraquat, RTG.peroxide, RTG.etoposide)
+siTP53.etoposide.tunicamycin <- read_tsv(
+  "~/projects/chiropteraStressTest/output/siTP53-etoposide-tunicamycin/bats.ATG.siTP53-etoposide-tunicamycin.tsv"
+)
+siTP53.paraquat.peroxide <- read_tsv(
+  "~/projects/chiropteraStressTest/output/siTP53-peroxide-paraquat/bats.ATG.siTP53-peroxide-paraquat.tsv"
+)
+siTP53 <- bind_rows(siTP53.etoposide.tunicamycin, siTP53.paraquat.peroxide)
+
+nutlin.treatments <- list(
+  nut.eto=read_tsv("~/projects/chiropteraStressTest/output/nutlin-etoposide/bats.ATG.nutlin-etoposide.tsv"),
+  nut.pqt=read_tsv("~/projects/chiropteraStressTest/output/nutlin-paraquat/bats.ATG.nutlin-paraquat.tsv"),
+  nut.tun=read_tsv("~/projects/chiropteraStressTest/output/nutlin-tunicamycin/bats.ATG.nutlin-tunicamycin.tsv")
+)
+```
+
+```{r, fig.align="center", message=F, warning=F, error=F}
+species <- ATG.all.bats %>%  pull(cell_line) %>% unique
+species.passage <- ATG.all.bats %>% unite("sample", c("cell_line", "passage"), sep=", P", remove = F) %>% pull(sample) %>% unique
+individual <- ATG.all.bats %>% pull(individual) %>% unique
+individual.passage <- ATG.all.bats %>% unite("sample", c("individual", "passage"), sep=", P", remove = F) %>% pull(sample) %>% unique
+
+species.colorScheme <- brewer.pal(length(species), "Dark2")
+species.colorScheme <- set_names(species.colorScheme, species)
+
+species.passage.colorScheme <- colorRampPalette(species.colorScheme)(length(species.passage))
+species.passage.colorScheme <- set_names(species.passage.colorScheme, species.passage)
+
+individual.colorScheme <- colorRampPalette(species.colorScheme)(length(individual)) %>% 
+  set_names(., individual)
+individual.passage.colorScheme <- colorRampPalette(species.colorScheme)(length(individual.passage)) %>% 
+  set_names(., individual.passage)
+transfections = c("CTL", "siP53")
+transfection.colorScheme <- viridis(length(transfections), option = "D") %>% 
+  set_names(., transfections)
+treatments <- lapply(nutlin.treatments, . %>% pull(Treatment)) %>% unlist %>% unique()
+nutlin.colorScheme <- brewer.pal(n = length(treatments), "Dark2") %>% 
+  set_names(., treatments)
+```
+
+```{r Fig4a RTG Etoposide, include=F, echo=F, message=F, warning=F}
+f4a <- RTG.etoposide %>% 
+  unite("sample", c("cell_line", "passage"), sep=", P", remove = F) %>% 
+  mutate(Treatment = paste(Treatment, " uM", sep="")) %>% 
+  plot_RTG_curves(colorscheme=species.passage.colorScheme) %>% 
+  make_pretty_graph()
+f4a
+```
+```{r Fig4b ATG Etoposide, include=F, echo=F, message=F, warning=F}
+
+f4b <- ATG.etoposide %>%
+  filter(Time=="24h") %>% 
+  #unite("sample", c("cell_line", "passage"), sep=", P", remove = F) %>% 
+  mutate(sample=cell_line) %>% 
+  plot_ATG_curves(colorscheme = species.colorScheme) %>% 
+  make_pretty_graph()
+f4b
+```
+```{r Fig4c RTG Paraquat, include=F, echo=F, message=F, warning=F}
+
+f4c <- RTG.paraquat %>%
+  unite("sample", c("cell_line", "passage"), sep=", P", remove = F) %>% 
+  mutate(Treatment = paste(Treatment, " uM", sep="")) %>% 
+  plot_RTG_curves(colorscheme=species.passage.colorScheme) %>% 
+  make_pretty_graph()
+f4c
+```
+```{r Fig4d ATG Paraquat, include=F, echo=F, message=F, warning=F}
+
+f4d <- ATG.paraquat %>%
+  filter(Time=="48h") %>% 
+  #unite("sample", c("cell_line", "passage"), sep=", P", remove = F) %>% 
+  mutate(sample=cell_line) %>% 
+  plot_ATG_curves(colorscheme = species.colorScheme) %>% 
+  make_pretty_graph()
+f4d
+```
+```{r Fig4e RTG Hydrogen Peroxide, include=F, echo=F, message=F, warning=F}
+
+f4e <- RTG.peroxide %>%
+  unite("sample", c("cell_line", "passage"), sep=", P", remove = F) %>% 
+  mutate(Treatment = paste(Treatment, " uM", sep="")) %>% 
+  plot_RTG_curves(colorscheme=species.passage.colorScheme) %>% 
+  make_pretty_graph()
+f4e
+```
+```{r Fig4f ATG Hydrogen Peroxide, include=F, echo=F, message=F, warning=F}
+
+f4f <- ATG.peroxide %>%
+  filter(Time=="24h") %>% 
+  #unite("sample", c("cell_line", "passage"), sep=", P", remove = F) %>% 
+  mutate(sample=cell_line) %>% 
+  plot_ATG_curves(colorscheme = species.colorScheme) %>% 
+  make_pretty_graph()
+f4f
+```
+```{r Fig4g RTG Tunicamycin, include=F, echo=F, message=F, warning=F}
+
+f4g <- RTG.tunicamycin %>%
+  unite("sample", c("cell_line", "passage"), sep=", P", remove = F) %>% 
+  mutate(Treatment = paste(Treatment, " uM", sep="")) %>% 
+  plot_RTG_curves(colorscheme=species.passage.colorScheme) %>% 
+  make_pretty_graph()
+f4g
+```
+```{r Fig4h ATG Tunicamycin, include=F, echo=F, message=F, warning=F}
+f4h <- ATG.tunicamycin %>%
+  filter(Time=="24h") %>% 
+  #unite("sample", c("cell_line", "passage"), sep=", P", remove = F) %>% 
+  mutate(sample=cell_line) %>% 
+  plot_ATG_curves(colorscheme = species.colorScheme) %>% 
+  make_pretty_graph()
+f4h
+```
+```{r Figure 4, include=T, echo=F, message=F, warning=F, fig.height=10, fig.width=7.5, fig.cap="RealTime Glo results of various bat lines treated with either Etoposide (A), Paraquat (B), Peroxide (C), or Tunicamycin (D). Apoptosis and Necrosis were kinetically measured across 3 doses over 36 hours."}
+ggarrange(f4a, f4c, f4e, f4g, nrow=4, ncol=1, labels="AUTO")
+```
+
+
+```{r Figure 5, include=T, echo=F, message=F, warning=F, fig.height=10, fig.width=7.5, fig.cap="ApoTox Glo results of various bat lines treated with either Etoposide (A), Paraquat (B), Peroxide (C), or Tunicamycin (D). Viability, cytotoxicity, and apoptosis were measured across 12 doses at either 24 hours (A,C,D) or at 48 hours (D)."}
+ggarrange(f4b, f4d, f4f, f4h, nrow=4, ncol=1, labels="AUTO")
+```
+
+
+
+\indent I have designed and validated the efficacy of siRNAs against TP53 in _Myotis lucfigus_ via RT-qPCR, and tested the effects of a TP53-knockdown using the ApoTox Glo assay (Figure 6). Similarly, to determine the effects of TP53 on apoptosis in response to each treatment, I repeated the ApoTox Glo assay for each treatment with all species by treating them with either Nutlin-3a (an inhibitor of TP53 degradation that increases TP53 levels intracellularly); the treatment EC50 dose of _Myotis lucifugus_; or both (Figure 7). If TP53 is involved in increasing apoptosis in _Myotis lucifugus_, then apoptosis levels should decrease after knocking down TP53 in these cells; and it should increase by a greater order of magnitude in response to Nutlin-3a compared to the other species. Due to issues with the plate, the "nutlin+peroxide" experiment was not performed and will be redone. 
+
+```{r Figure 6, echo=F, fig.align="center", message=F, warning=F, error=F, fig.cap="Viability, Cytotoxicity, and Apoptosis measurements for 4 individuals of Myotis lucifugus transfected with either TP53 siRNA or a scrambled control."}
+fig5 <- siTP53 %>%
+  filter(Time=="24h") %>% 
+  #unite("sample", c("cell_line", "passage"), sep=", P", remove = F) %>% 
+  mutate(sample=individual) %>% 
+  plot_ATG_boxplot_highlight_3(time="24h", colorscheme = transfection.colorScheme) %>% 
+  make_pretty_graph() +
+  theme(legend.position = "bottom")
+fig5
+```
+
+```{r Figure 7, echo=F, fig.align="center", message=F, warning=F, error=F, fig.cap="Viability, Cytotoxicity, and Apoptosis measurements for various species treated with either Nutlin, the EC50 for apoptosis in Myotis lucifugus, or both."}
+fig6.list <- lapply(
+    nutlin.treatments,
+    function(df){
+      df %>% 
+        mutate(sample=cell_line) %>% 
+        plot_ATG_boxplot_highlight_2(colorscheme = nutlin.colorScheme) %>% 
+        make_pretty_graph() +
+        theme(legend.position = "bottom")
+    }
+  )
+fig6.list[[1]]
+fig6.list[[2]]
+fig6.list[[3]]
+```
+
+\indent A recent study also demonstrated that cellular senescence in response to Etoposide increases as a function of size and lifespan across various mammals, including _Myotis lucifugus_. Using a P21-Luciferase reporter I recently acquired, I have performed a dual-lucferase assay for each species and treatment to investigate senescence rates after treatment with the stressor (Figure 8).
+
+```{r Figure 8, echo=F, fig.align="center", message=F, warning=F, error=F, fig.cap="Various bat cell lines were transfected with a 1:10 ratio of Renilla Luciferase to pP21-driven Firefly Luciferase, and were then treated with either Tunicamycin, Etoposide, Paraquat, Peroxide, or a vehicle control. Measurements are presented at 24 hours post-treatment."}
+p21 <- read_tsv("~/projects/chiropteraStressTest/output/pP21/bats-DLux-pP21.tsv")
+fig7 <- p21 %>% 
+  ggplot(
+    aes(
+      x=cell_line,
+      y=Value.Norm,
+      fill=Treatment
+    )
+  ) +
+  geom_boxplot(position="dodge") + 
+  scale_y_log10() + 
+  geom_point(position=position_jitterdodge())+
+  theme_pubclean() + 
+  labs(x="Cell Line", y="RLU (log10)") +
+  facet_wrap(~Drug, nrow = 4, ncol=1) + 
+    stat_compare_means(
+      aes(group = Treatment),
+      label = "p.signif",
+      hide.ns = T
+      )
+```
+
+
+\indent The next steps involve completing a series of Western Blots to investigate TP53 levels after stress and in response to the siRNA; and performing ChIP-qPCR and RT-qPCR for two of TP53's target genes: Bax (representing the apoptotic effects of TP53) and P21 (representing the senescence effects of TP53). The Western Blots will help inform us of the results thus obtained by informing us of cytosolic-vs-nuclear localization of TP53 in these cells, while the ChIP-qPCR and RT-qPCR will elucidate part of the downstream effects of TP53 activation in these species. 
+
+\pagebreak
+
+## Next Steps  
+
+### Aim 1:  
+
+  - Intersect findings with RNA-seq data for each species and genome \hfill 2019/10  
+  - Perform Gene Set Enrichment Analyses on duplicate gene sets \hfill 2019/08-10
+  - Analyze gene families to determine relationship between size and lifespan \hfill 2019/12
+
+### Aim 2:  
+
+  - Collaborate with other labs in Rochester and/or Utah to validate current results _in cellula_ \hfill 2019-2020
+  
+### Aim 3:  
+
+  - Further characterize the duplication as a part of Aim 1 \hfill 2019/12
+  
+### Aim 4:  
+
+  - Finalize Western Blots \hfill 2019/08-09
+  - Perform TP53 ChIP-qPCR and RT-qPCR for TP53-downstream genes \hfill 2019/09-10
+
+## In Addition
+
+- Work with a visiting graduate student, Stephanie Bulls, for the past 6 months has lead to significant progress in laying the groundwork for Peto's Paradox research in reptiles, and a future publication  
+- My previous undergrad mentee, Eric Chen, has moved on to a summer rotation in a developmental lab at MBL, and will be working with Rick Fehon and Ed Munro on computational modeling of pathways using emperical data, including a possible side-project adapting current systems bio models of TP53 into a 2-TP53 system.  
+- Will be giving a talk for the lab of Peter Sudmant at UC Berkeley in August as part of a post-doc interview. 
+
+

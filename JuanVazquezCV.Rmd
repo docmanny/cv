@@ -1,0 +1,343 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Juan Manuel Vazquez
+orcid: "orcid.org/0000-0002-8341-2390"
+jobtitle: "PhD Candidate at the University of Chicago, Department of Human Genetics"
+address: "CLSC Room 317-18, 920 E 58th St · Chicago · IL 60637"
+fontawesome: yes
+email: juan@vazquez.bio
+github: docmanny
+twitter: TheMainManManny
+linkedin: juanvazquezbio
+#phone: "+1 555 5555"
+web: 'vazquez.bio'
+updated: yes
+
+keywords: aging, stress response, Peto's Paradox, comparative biology, functional genomics, R, Python, molecular biology, bats, elephants, whales, open science, diversity and inclusion
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# RESEARCH INTERESTS \hrulefill
+
+I have always been fascinated by aging and cancer; in particular, I am interested in the genetic and epigenetic basis underlying the wide diversity in lifespans across mammals. I study how large and/or long-lived species, such as African Elephants, the Bowhead Whale, and the Little Brown Bat respond to stress relative to closely-related smaller, shorter-lived species; and how their unique evolutionary histories have led to genetic adaptations that enhance their stress response and lower their per-cell cancer risk. Using primary cell culture models and functional genomics, I aim to explore next how differences in transcritomic and epigenetic responses to stress and aging contribute to differences in lifespan. 
+
+
+# EDUCATION \hrulefill
+
+_University of Chicago_, Ph.D. Human Genetics \hfill __2015 - __ 
+
+> Laboratory of: Vincent J Lynch, Department of Human Genetics  
+> Dissertation title: _The Role of Gene Duplicates in Resolving Peto's Paradox in Elephants and Bats_  
+> Committee Members: Marcelo Nobrega, Joseph Thorton, Yang Li, Vincent J Lynch, Yoav Gilad  
+
+_University of Rochester_, B.S. Biology, Molecular Genetics \hfill __2011 - 2015__
+
+_University of Rochester_, B.A. Chemistry \hfill __2011-2015__
+
+
+# RESEARCH EXPERIENCE \hrulefill
+
+_Graduate Research Assistant, Vincent J Lynch, University of Chicago_ \hfill __2016 - __
+
+> Studying Peto's Paradox and the duplication of tumor suppressor genes in large, long-lived species such as the African Elephant (_Loxodonta africana_), the Bowhead Whale (_Balaena mysticetus_), and the Little Brown Bat (_Myotis lucifugus_). The project involves searching for tumor suppressor homologues in other genomes using a custom Reciprocal Best-Hit BLAT pipeline I designed and programmed, followed by functional characterization of functional duplicates _in cellula_.  
+> Developed a clade of recently-diverged bats as a model for Peto's Paradox research.  
+> Mentored various undergraduate and graduate students rotating in the lab. As students all worked on subsets of my project, a major mentorship component was frequent informal journal clubs of papers related to our work. Additionally, students were all taught both basic skills like cell culture, and advanced skills like qPCR, Western blotting, and flow cytometry.  
+
+_Rotation, Alex Ruthenberg, University of Chicago_ \hfill __Summer 2016__
+
+> Worked on optimizing an Internally Calibrated ChIP (ICeChip) methodology in _C. elegans_ to study H3K4me3 patterns at the onset of sexual maturity. 
+
+_Research Assistant, Vera Gorbunova and Andrei Seluanov, University of Rochester_ \hfill __January 2014 - May 2015__
+
+> Analyzed the oxidative stress tolerance across various rodent species by culturing cells in high and low oxygen condition, using statistical analysis of growth rates to determine tolerance. Studied the effects of MEF SIRT6-KO cells in cancer cultures compared to wild-type MEF, and the role of the ADP-ribosylation function of SIRT6 in tumorigenesis. Created self-assembly hydrogels using hyaluronic acid derived from naked mole rat cells, and experimented with their use in maintaining 3D cell cultures, especially in the context of cancer and pluripotent stem cells. Studied the role played by RHAMM in the cancer resistance of the naked mole rat (_Heterocephalus glaber_).  
+
+
+
+# SCHOLARSHIP \hrulefill
+
+### Journal Articles 
+
+__Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in Elephants Is Upregulated by TP53 to Induce Apoptosis in Response to DNA Damage.” Cell Reports, 24(7), 1765-1776.  
+
+Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.”, Aging, 8 (5), 841-847.  
+
+### __Manuscripts in preparation__
+
+__Vazquez JM__, Chen E, Miller RA, Lynch VJ. \hfill _ETA: Fall 2019_  
+"A TP53 Locus Duplication Enhances the Stress Response of the Little Brown Bat, _Myotis lucifugus_."  
+
+__Vazquez JM__, Lynch VJ. \hfill _ETA: Winter 2019_  
+"A Survey of Gene Duplications in Mammals Reveals Genes That May Contribute to the Resolution of Peto's Paradox."  
+
+Bulls SE, __Vazquez JM__, Lynch VJ, Chiari Y, Glaberman S. \hfill _ETA: Summer 2020_  
+"Long-Lived _Testudines_ Demonstrate a High Tolerance to Various Forms of Cellular Stress."  
+
+### __Oral Presentations__  
+
+__Vazquez JM__, Chen E, Miller RA, Lynch VJ. "Stress Response and a P53 Duplication in the Long-Lived Bat, _Myotis lucifugus_." North American Society for Bat Research,  24 October 2019, Kalamazoo, MI, USA.  
+
+__Vazquez JM__, Chen E, Miller RA, Lynch VJ. "Stress Response and a P53 Duplication in the Long-Lived Bat, _Myotis lucifugus_." Biology of Aging Gordon Research Conference,  16 July 2019, Sunday River, MA, USA.  
+
+### __Poster Presentations__  
+
+__Vazquez JM__, Lynch VJ. "Gene Duplications and Peto's Paradox in the African Elephant and Paenungulates." 2018 SACNAS: The National Diversity in STEM Conference, 12 October 2018, San Antonio, TX, USA.  
+
+__Vazquez JM__, Lynch VJ. "A Role for Gene Duplication in Peto's Paradox." Biology of Aging Gordon Research Seminar and Conference, 8-14 July 2017, Les Diablerets, CH.  
+
+
+
+# TEACHING AND MENTORING EXPERIENCE \hrulefill
+
+### __Teaching__
+
+__Teacher__, Ideal Student Workshop and Test Prep, 8th Grade Class, Swift Elementary School. \hfill __Spring 2019__
+
+> Taught a 10-week, 1-hour series on executive life skills, study skills, and practice for taking standardize tests such as the NWEA-MAP exam. Classes were a combination of experiential, game-based learning; group work; and interactive lectures.  
+
+__Teaching Assistant__, BIOS 20235 Biological Systems, University of Chicago. \hfill __Winter 2019__
+
+> The second part of the introductory Biology course series for advanced students, focusing on developmental, ecology, and evolutionary biology. In addition to grading and organizing the course, TAs guided discussion sections for students to discuss weekly papers in a collaborative setting.  
+
+__Volunteer Assistant Instructor__, Introduction to Python with Real-World Applications, Rauner College Prep. \hfill __2018__
+
+> Taught data science to a class of 12 high school biology students in the context of genomics along with 4 other volunteers.   
+
+__Teaching Assistant__, BIOS 21306 Human Genetics and Evolution, University of Chicago. \hfill __Winter 2017__
+
+> Undergraduate course focusing on historic and modern advances in our understanding of human genetics at various scales. In addition to keeping attendance and organizing the course, he taught a lesson on classic and modern techniques for sequencing DNA & RNA; detecting epigenetic modifications in the genome; and on detecting signatures of selection in the genome.  
+
+__Teaching Assistant__, BIOS 21306 Human Genetics and Evolution, University of Chicago. \hfill __Winter 2017__
+
+> Undergraduate course focusing on historic and modern advances in our understanding of human genetics at various scales. In addition to keeping attendance and organizing the course, he taught a lesson on classic and modern techniques for sequencing DNA & RNA; detecting epigenetic modifications in the genome; and on detecting signatures of selection in the genome.  
+
+__Tutor & Workshop Leader__, Educational Endeavors. \hfill __2016 - Present__
+
+> Over 600 hours of experience teaching and tutoring students at the high school and undergraduate levels. Tutored in all subjects ranging from STEM fields (Biology, Physical Sciences, Math, Forensics), to language arts (English, Spanish, French) and social sciences (History, Economics) at regular, AP, and collegiate levels. Assisted with and led various tutoring workshops with students from the Daniel Murphy Scholarship Fund and LINK Unlimited.  
+  
+__Laboratory and Lecture Teaching Assistant__, CHM 210H Honors Organic Chemistry Lab, University of Rochester. \hfill __Spring 2013__
+
+> Assisted in the instruction of the lab lecture, lead workshop-style discussions to create the experimental procedures for the labs with students. Oversaw and administered the proper functioning of the lab. Aided and taught students, as well as assessed them for quality work and analytic skills in lab work and in lab reports.  
+
+__Laboratory and Lecture Teaching Assistant__, CHM 173Q Freshman Organic Chemistry Lab, University of Rochester. \hfill __Fall 2012__
+
+> Oversaw an organic chemistry lab of 16 freshmen students, grading reports and ensuring the proper functioning of the lab. Ran weekly workshops and lectures for students to design their experiments for the week.  
+
+
+### __Mentoring__
+
+__Supervisor__ for Stephanie E. Bulls, M.S, University of South Alabama. \hfill __2019 - __ 
+
+> Masters student in the Biology Department at the University of South Alabama. She visited the University of Chicago from 01-07/2019 for me to teach and direct her investigation on Peto's Paradox and stress response in _Testudines_. The manuscript in preparation which summarizes our findings - "Long-Lived Testudines Demonstrate a High Tolerance to Various Forms of Cellular Stress" - will be released on BioRxiv at the start of 2020.  
+
+__Supervisor__ for Eric Chen, B.s, University of Chicago. \hfill __2018 - 2019__
+
+> Undergraduate student in the Colllege of Arts and Science at the University of Chicago. Under my leadership, he performed various molecular biology experiments characterizing a TP53 duplication in _Myotis lucifugus_. His results are featured in the manuscript in progress "A TP53 Locus Duplication Enhances the Stress Response of the Little Brown Bat, _Myotis lucifugus_," to be released on BioRxiv shortly. I have written various letters of recommendation for him, in addition to assisting him with poster and oral presentations.  
+
+__Mentor__ for Nadya Ali, Ph.D, University of Chicago. \hfill __2018 - __ 
+
+> Ph.D. Candidate in the Committee on Evolutionary Biology at the University of Chicago. Her thesis is focused on the endangered Black-Footed Ferret, and how epigenetic factors contribute to infertility in this species. She has been working with to learn how to perform COMET assays to test for DNA damage in single cells, as well as for general expertise in DNA damage and other aging-related pathologies in sperm.  
+
+
+
+# MEDIA, SERVICE, AND OUTREACH \hrulefill
+
+### __Interviews__
+
+__NPR__, Science Friday: Flatow, Ira. "How A ‘Zombie Gene’ Helped Elephants Evolve Protection From Cancer." Audio blog post. Science Friday. NPR, 08/17/2018. https://www.sciencefriday.com/segments/how-a-zombie-gene-helped-elephants-evolve-protection-from-cancer/.  
+
+
+### __Public Outreach Events__
+
+__Volunteer Demonstrator__, _Science Works_, Museum of Science and Industry. \hfill __2016 - 2018__
+
+> _Science Works_ is an event hosted by the Museum of Science and Industry of Chicago that showcases real-life scientists and science to the general public.  
+> Alongside other Human Genetics personnel, the team organized and participated in a variety of scientific demonstrations.  
+
+__Volunteer Demonstrator__, _Stand Up for Science_, Field Museum. \hfill __2018__
+
+> Organized and participated in various demonstrations, and spoke about science to members of the general public at the Field Museum.  
+
+
+### __Panels and Presentations__
+
+_Panelist, _Discover UChicago_, University of Chicago_ \hfill __2018__
+
+> The _Discover UChicago_ program provides undergraduates with an opportunity to come to the University for a week and learn about campus life and research. At the program's conclusion, current students come to give attendees general advice about professional skills, applying to graduate programs, and selecting mentors and programs.  
+
+
+
+# FUNDING, AWARDS, AND FELLOWSHIPS \hrulefill
+
+### __Grants__  
+
+__Conference Grant for 2019 Biology of Aging Gordon Research Conference (NIA U-13 Supplement)__, Harvard University. \hfill $13,757.11 \hfill __2019__
+
+> Wrote a supplement to the U13 Conference Grant by Marcia Haigis and Thomas Rando for the 2019 Biology of Aging Gordon Research Conference.  
+> Funding covered the Registration fee for all 48 attendees, and travel costs for all 15 speakers. Full grant was awarded $36,242.89, of which the Gordon Research Seminar supplement was allocated $13,757.11.  
+
+__Diversity and Inclusion Pilot Program Grant__, University of Chicago. \hfill $5,000.00 \hfill __2019__
+
+> The Office of Diversity and Inclusion at the University of Chicago provides opportunities for members of the university to submit proposals for projects of various scales. At the largest scale, the Grant funds Pilot Programs at a maximum of $5000 for programs and projects that will further diversity and inclusion on campus.  
+> Co-written with Lauren Blake, 2019 Treasurer for the _Society for the Advancement of Chicanos/Hispanics and Native Americans in Science_ (SACNAS).  
+> Funded in full for the 2019 Midwest Regional SACNAS Conference.  
+
+__Diversity and Inclusion Small Projects Grant__, University of Chicago. \hfill $2,000.00 \hfill __2019__
+
+> The Biological Sciences Division of the University of Chicago offers grants for competitve proposals that will enhance diversity and inclusion in the Division.  
+> Grant was submitted on behalf of SACNAS for the 2018 Midwest Regional SACNAS Conference, and was awarded in full.  
+
+__Diversity and Inclusion Pilot Program Grant__, University of Chicago. \hfill $10,000.00 \hfill __2018__
+
+> The Office of Diversity and Inclusion at the University of Chicago provides opportunities for members of the university to submit proposals for projects of various scales. At the largest scale, the Grant funds Pilot Programs at a maximum of $10,000.00 for programs and projects that will further diversity and inclusion on campus.  
+> Co-written with Christina Roman, 2018 President of SACNAS.  
+> Funded in full for the 2019 Midwest Regional SACNAS Conference.  
+
+__Diversity and Inclusion Small Projects Grant__, University of Chicago. \hfill $2,000.00 \hfill __2018__
+
+> The Biological Sciences Division of the University of Chicago offers grants for competitve proposals that will enhance diversity and inclusion in the Division.  
+> Co-written with Christina Roman, 2018 President of SACNAS.  
+> Grant was submitted on behalf of SACNAS for the 2018 Midwest Regional SACNAS Conference, and was awarded in full.  
+
+
+### __Fellowships, Scholarships, and Training Grants__
+
+__Yale Ciencia Academy Fellowship__, Yale University _(Awarding Institution)_. \hfill __2019__
+
+> The YCA Fellowship provides outstanding students in the Biological Sciences with professional development and scientific outreach training in a year-long program. The program requires the completion of a scientific outreach program that is designed by the Fellow, and executed in groups throughout the year.  
+> Program pays for in-person training and attendance at the 2019 American Association for the Advancement of Science Meeting in Washington D.C, USA.  
+
+__Initiative to Maximize Student Development Trainee (NIGMS R25)__, University of Chicago. \hfill __2015__
+
+> Pilot Program funded by the NIH to support and enhance the training, mentoring, and education of incoming graduate students, with the goal of improving diversity in the biological sciences.  
+> Competitve entry into training grant cohort.  
+
+__Dean's Scholarship__, University of Rochester. \hfill __2011 - 2015__
+
+> Merit Scholarship.  
+> "Winners of Dean’s Scholarships have demonstrated both academic achievement and the potential to make unique contributions to Rochester student life. The Dean’s Scholarship is a reward for students’ hard work in high school and a statement of our trust in their continued success here on campus."  
+
+__Howard Bryant Memorial Scholarship__, University of Rochester. \hfill __2012 - 2014__
+
+> Merit Scholarship.  
+> "The Fund was established in 2004 to honor Howard’s legacy of caring and support by providing aid to students interested in pursuing a career in Sciences or Engineering. Two students are picked to receive the scholarship each year, beginning in their sophomore year for two years."  
+
+
+### __Awards and Recognitions__
+
+__SACNAS Chapter of the Year Award__, Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS). \hfill __2019__
+
+> The Chapter of the Year Award is presented to the SACNAS chapter which demonstrates exceptional leadership and aptitude in chapter development, professional development, recruiment and membership, community outreach, and fundraising.   
+
+
+__SACNAS Chapter Role Model Award for Outstanding Professional Development__, Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS). \hfill __2018__
+
+> In recognition of the UChicago SACNAS Chapter's exceptional work in organizing and executing the first-ever Midwest Regional SACNAS Conference.  
+
+
+# PROFESSIONAL ACTIVITIES \hrulefill
+
+### __Conferences__ 
+
+__Chair__, Gordon Research Seminar on the Biology of Aging, Sunday River, MA, USA. \hfill __2017 - 2019__
+
+> Organized the 2019 Biology of Aging Gordon Research Seminar, with 48 attendees.  
+> Co-chair: Victor Bustos.  
+> Raised $14,257.11, allowing reimbursements of registration and conference fees for all attendees; and travel reimbursements for speakers.  
+
+__Chair__, Midwest Regional SACNAS Conference, Chicago, IL, USA. \hfill __2019__
+
+> A full-day, 200-person, free conference with multiple panels, workshops, student speakers, poster session, and keynote address; target audience is underrepresented groups in STEM and STEM-allied fields.  
+> Lead a team of 5 co-chairs.  
+> Raised $14,000 for conference expenses, with $2000 of travel funding for attendees.  
+
+__Co-chair__, Inaugural Midwest Regional SACNAS Conference, Chicago, IL, USA. \hfill __2018__
+
+> A full-day, 220-person, free conference with multiple panels, workshops, student speakers, poster session, and keynote address; target audience is underrepresented groups in STEM and STEM-allied fields.  
+> One of 5 co-chairs working with Conference Chair.  
+> Raised $16,000 for conference expenses, with $2500 of travel funding for attendees.  
+
+
+### __Organizations__
+
+__President__, Society for the Advancement of Chicanos and Native Americans in Science, University of Chicago. \hfill __2018 - __
+
+> Received the SACNAS National Chapter of the Year Award.  
+> Organized various monthly professional development workshops catering to undergraduates, graduates, and post-docs. 
+> Led the 2019 Midwest Regional SACNAS Conference Planning Team.  
+> Established the SACNAS Midwest Meeting Planning Commmittee for facilitating inter-chapter communication, organization, and conference planning.  
+
+__Treasurer__, Society for the Advancement of Chicanos and Native Americans in Science, University of Chicago. \hfill __2017 - 2018__
+
+> Raised over $16,000.00.  
+> Received the SACNAS National Chapter Role Model Award for Outstanding Professional Development.  
+> Assisted in organizing various workshops for a primarily undergraduate audience; assisted team with organizing the first-ever Midwest Regional SACNAS Conference.  
+
+__Student Representative__, Deparment of Human Genetics, University of Chicago. \hfill __2017 - 2018__
+
+> Planned and ran various events for Human Genetics students.  
+> Assisted with recruitment activities and planning.  
+> Assisted with the planning and running of the 2017 University of Chicago Molecular Biosciences Retreat.  
+
+
+### __Committees__
+
+__Committee Member__, Biological Sciences Division Diversity & Inclusion Representative Selection Committee, University of Chicago. \hfill __2017 - 2018__
+
+> Part of a 4-person committee tasked with designing the procedures for selecting a student representative for the nascent Diversity and Inclusion Committee.  
+
+
+### __Panels and Presentations__
+
+__Panelist__, "How to be an Effective Student Leader", Midwest Regional SACNAS Conference, Chicago, IL. \hfill __April 2019__
+
+> Part of a larger talk on how to start-up and lead an organization, panelists consisted of student leaders from across the Midwest answering questions from attendees.  
+
+__Panelist__, "How to Succeed in Grad School", Summer Graduate Research Program, University of Chicago. \hfill __August 2018__
+
+> Panel focused on the experiences of panelists as underrepresented minorities in STEM, and how they navigated life through their PhDs. Panelists shared their advice and stories about how they overcame various obstacles in academia.  
+
+
+# CERTIFICATES AND MINI-COURSES \hrulefill
+
+_Successfully Managing Your Team of Scientists, University of Chicago myCHOICE program _ \hfill __Summer 2018__
+
+> 16-hour workshop introducing concepts in team management in industry and academia. Attendees were able to apply knowledge from each session in practical exercises under various scenarios.  
+
+_Introduction to Effective Teaching in STEM, University of Chicago myCHOICE program_ \hfill __Spring 2018__
+
+> Attendees honed their teaching skills through lectures and practical exercises in this evidence-based pedagogy course.
+
+_Beyond the Bench: The Business of Running a Lab, University of Chicago myCHOICE program_ \hfill __Fall 2017__
+
+> A rotating panel of primary investigators and heads of facilities at the University of Chicago taught students every week about the behind-the-scenes work that went into starting and running their labs.  
+
+
+# PROFESSIONAL MEMBERSHIPS \hrulefill
+
+
+American Aging Association \hfill __2019 - __  
+Society for the Advancement of Chicanos/Hispanics and Native Americans in Science \hfill __2018 - __  
+American Association for the Advancement of Science \hfill __2015 - 2016__  
+
+
+# ADDITIONAL SKILLS \hrulefill
+
+__Languages: __ English (native), Spanish (native), French (fluent), German (conversational)  
+__Programming: __ Python (expert), R (intermediate), Bash (expert), Julia (novice), Rust (novice)  
+__Sequencing: __ _de novo_ transcriptomics (study design, library prep, downstream analysis via Tuxedo Suite or Kalisto); ChIP-seq (IcE-ChIP, native, and denatured)  
+__Microscopy: __ Confocal Microscopy (Leica SP6, SP8); live cell imaging (Olympus Viva View FL)  
+__Flow Cytometry: __ Cell-cycle (EdU-Hoescht, Fucci), TUNEL  
+__Molecular Biology: __ qPCR (RT, ChIP); Western Blot  
+__Other skills and interests: __ Sailing, hiking, guitar, public speaking
+  

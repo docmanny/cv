@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541084692236.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2913776538",
+    "id" : "34955140",
+    "lastKnownWriteTime" : 1541085589,
+    "last_content_update" : 1541085589086,
+    "path" : "~/projects/cv/rap-latex-cv.tex",
+    "project_path" : "rap-latex-cv.tex",
+    "properties" : {
+        "cursorPosition" : "241,830",
+        "scrollLine" : "214"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "tex"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554232480621.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3764057843",
+    "id" : "294A9F5",
+    "lastKnownWriteTime" : 1563864454,
+    "last_content_update" : 1563864454545,
+    "path" : "~/projects/cv/JuanVazquezCV.Rmd",
+    "project_path" : "JuanVazquezCV.Rmd",
+    "properties" : {
+        "cursorPosition" : "16,24",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

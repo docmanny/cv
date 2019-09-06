@@ -1,0 +1,167 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Juan Manuel Vazquez
+orcid: "orcid.org/0000-0002-8341-2390"
+jobtitle: "PhD Candidate at the University of Chicago, Department of Human Genetics"
+address: "CLSC Room 301-22, 920 E 58th St · Chicago · IL 60637"
+fontawesome: yes
+email: juan@vazquez.bio
+github: docmanny
+twitter: TheMainManManny
+linkedin: juanvazquezbio
+#phone: "+1 555 5555"
+web: 'vazquez.bio'
+updated: yes
+
+#keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*University of Chicago*, Ph.D. Human Genetics \hfill Present
+
+> Laboratory of: Vincent J Lynch, Department of Human Genetics  
+> Dissertation title: *The Role of Gene Duplicates in Resolving Peto's Paradox in Elephants and Bats*  
+> Committee Members: Marcelo Nobrega, Joseph Thorton, Yang Li, Vincent J Lynch  
+
+*University of Rochester*, B.S. Biology, Molecular Genetics \hfill 2015
+
+*University of Rochester*, B.A. Chemistry \hfill 2015
+
+
+# RESEARCH EXPERIENCE
+
+*Graduate Research Assistant, Vincent J Lynch, University of Chicago* \hfill Fall 2016-Present  
+
+> Studying Peto's Paradox and the duplication of tumor suppressor genes in large, long-lived species such as the African Elephant (*Loxodonta africana*), the Bowhead Whale (*Balaena mysticetus*), and the Little Brown Bat (*Myotis lucifugus*). The project involves searching for tumor suppressor homologues in other genomes using a custom Reciprocal Best-Hit BLAT pipeline I designed and programmed, followed by functional characterization of functional duplicates *in cellula*.  
+> Mentored various undergraduate and graduate students rotating in the lab. As students all worked on subsets of my project, a major mentorship component was frequent informal journal clubs of papers related to our work. Additionally, students were all taught both basic skills like cell culture, and advanced skills like qPCR, Western blotting, and flow cytometry.  
+
+*Rotation, Alex Ruthenberg, University of Chicago* \hfill Summer 2016  
+
+> Worked on transfering an Internally Calibrated ChIP (ICeChip) methodology to *C. elegans* to study H3K4me3 patterns at the onset of sexual maturity. 
+
+*Research Assistant, Vera Gorbunova and Andrei Seluanov, University of Rochester* \hfill January 2014 - May 2015
+
+> Analyzed the oxidative stress tolerance across various rodent species by culturing cells in high and low oxygen condition, using statistical analysis of growth rates to determine tolerance. Studied the effects of MEF SIRT6-KO cells in cancer cultures compared to wild-type MEF, and the role of the ADP-ribosylation function of SIRT6 in tumorigenesis. Created self-assembly hydrogels using hyaluronic acid derived from naked mole rat cells, and experimented with their use in maintaining 3D cell cultures, especially in the context of cancer and pluripotent stem cells. Studied the role played by RHAMM in the cancer resistance of the naked mole rat (heterocephalus glaber).
+
+
+# PUBLICATIONS
+
+## **Journal Articles**
+
+**Vazquez JM**, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF, Gene in Elephants Is Upregulated by TP53 to Induce Apoptosis in, Response to DNA Damage.” Cell Reports, 24(7), 1765-1776.
+
+Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, **Vazquez JM**, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture, to atmospheric oxygen does not correlate with species lifespan.”, Aging, 8 (5), 841-847.
+
+
+# TEACHING EXPERIENCE
+
+*Tutor, Educational Endeavors* \hfill 2015-Present
+
+> Taught high schoolers and undergraduates, for a total of over 450 hours. Tutored in all subjects ranging from STEM fields (Biology, Physical Sciences, Math, Forensics), to language arts (English, Spanish, French) and social sciences (History, Economics) at regular, AP, and collegiate levels. Additionally, helped run and participated in various tutoring workshops with students from the Daniel Murphy Scholarship Fund and LINK Unlimited.  
+  
+*Teaching Assistant, BIOS 21306 Human Genetics and Evolution, University of Chicago* \hfill Winter 2017
+
+> Undergraduate course focusing on historic and modern advances in our understanding of human genetics at various scales. In addition to keeping attendance and organizing the course, he taught a lesson on classic and modern techniques for sequencing DNA & RNA; detecting epigenetic modifications in the genome; and on detecting signatures of selection in the genome.  
+
+*Teaching Assistant, CHM 210H Honors Organic Chemistry Lab, University of Rochester* \hfill Spring 2013
+
+> Assisted in the instruction of the lab lecture, lead workshop-style discussions to create the experimental procedures for the labs with students. Oversaw and administered the proper functioning of the lab. Aided and taught students, as well as assessed them for quality work and analytic skills in lab work and in lab reports.
+
+*Teaching Assistant, CHM 173Q Freshman Organic Chemistry Lab, University of Rochester* \hfill Fall 2012
+
+>Oversaw an organic chemistry lab of 16 freshmen students, grading reports and ensuring the proper functioning of the lab. Ran weekly workshops and lectures for students to design their experiments for the week.  
+
+
+# PUBLIC MEDIA
+
+Guest on Science Friday: Flatow, Ira. "How A ‘Zombie Gene’ Helped Elephants Evolve Protection From Cancer." Audio blog post. Science Friday. NPR, 08/17/2018. https://www.sciencefriday.com/segments/how-a-zombie-gene-helped-elephants-evolve-protection-from-cancer/.
+
+
+# FUNDING AND AWARDS
+
+**2011-2015**  *Dean's Scholarship*, University of Rochester. Winners of Dean’s Scholarships have demonstrated both academic achievement and the potential to make unique contributions to Rochester student life. The Dean’s Scholarship is a reward for students’ hard work in high school and a statement of our trust in their continued success here on campus.
+
+**2012-2014**  *Howard Bryant Memorial Scholarship*, University of Rochester. The Fund was established in 2004 to honor Howard’s legacy of caring and support by providing aid to students interested in pursuing a career in Sciences or Engineering. Two students are picked to receive the scholarship each year, beginning in their sophomore year for two years.
+
+**2018** *SACNAS Chapter Award for Professional Development*. Awarded by the Society for the Advancement of Chicanos and Native Americans in Science in recognition of the UChicago SACNAS Chapter's exceptional work in organizing and executing the first-ever Midwest Regional SACNAS Conference. 
+
+
+# SCHOLARLY AND PROFESSIONAL AFFILIATIONS
+
+**Corresponding Chair**, *Gordon Research Seminar on the Biology of Aging* \hfill 2017-2019
+
+> Along with Co-Chair Victor Bustos, working to organize and fundraise for the 2019 GRS on the Biology of Aging. Responsibilities include securing keynote speakers and funding for the conference, curating abstracts for speakers and abstracts, and general planning of various details of the conference.
+
+**President**, *Society for the Advancement of Chicanos and Native Americans in Science, University of Chicago* \hfill 2018-Present
+
+> Organized various monthly professional development workshops catering to undergraduates, graduates, and post-docs. Coordinated outreach between Chicago-area SACNAS Chapters. Leading the team of organizers for the 2019 Midwest Regional SACNAS Conference in Chicago.  
+
+**Treasurer**, *Society for the Advancement of Chicanos and Native Americans in Science, University of Chicago* \hfill 2017-2018
+
+> Helped run various workshops catering to a primarily undergraduate audience. Helped raise over $16,000 in funds for the first-ever Midwest Regional SACNAS Conference. As part of a team, helped organize and execute the first-ever Midwest Regional SACNAS Conference in Chicago.  
+
+*Student Representative for Human Genetics, University of Chicago* \hfill 2017-2018  
+
+> Planned and ran various events for Human Genetics students. Assisted with recruitment activities and planning. Assisted with the planning and running of the Molecular Biosciences Retreat.
+
+
+# PROFESSIONAL ACTIVITIES
+
+*Committee Member, Biological Sciences Division Diversity & Inclusion Representative Selection Committee* \hfill 2017-2018  
+
+> Part of a 4-person committee tasked with designing the procedures for selecting a student representative for the nascent Diversity and Inclusion Committee.  
+
+*Panelist, "How to Succeed in Grad School", *Summer Graduate Research Program*, University of Chicago* \hfill August 2018  
+
+> Panel focused on the experiences of panelists as underrepresented minorities in STEM, and how they navigated life through their PhDs. Panelists shared their advice and stories about how they overcame various obstacles in academia.
+
+
+# OUTREACH ACTIVITIES
+
+*Invited student, *Discover UChicago*, University of Chicago* \hfill October 2018  
+
+> The *Discover UChicago* program provides undergraduates with an opportunity to come to the University for a week and learn about campus life and research. At the program's conclusion, current students come to give attendees general advice about professional skills, applying to graduate programs, and selecting mentors and programs.
+
+*Volunteer, *Science Works*, Museum of Science and Industry* \hfill Fall 2016-2018
+
+> *Science Works* is an event hosted by the Museum of Science and Industry of Chicago that showcases real-life scientists and science to the general public. Alongside other Human Genetics personnel, the team organized and participated in a variety of scientific demonstrations.
+
+*Volunteer, *Stand Up for Science*, Field Museum* \hfill Spring 2018
+
+> Organized and participated in various demonstrations, and generally spoke about science to members of the general public at the Field Museum.
+
+
+# CERTIFICATES AND MINI-COURSES
+
+*Successfully Managing Your Team of Scientists, University of Chicago myCHOICE program * \hfill Summer 2018
+
+> 16-hour workshop introducing concepts in team management in industry and academia. Attendees were able to apply knowledge from each session in practical exercises under various scenarios.
+
+*Introduction to Effective Teaching in STEM, University of Chicago myCHOICE program* \hfill Spring 2018
+
+> Attendees honed their teaching skills through lectures and practical exercises in this evidence-based pedagogy course.
+
+*Beyond the Bench: The Business of Running a Lab, University of Chicago myCHOICE program* \hfill Fall 2017
+
+> A rotating panel of primary investigators and heads of facilities at the University of Chicago taught students every week about the behind-the-scenes work that went into starting and running their labs. 
+
+
+# ADDITIONAL SKILLS
+
+  * Fluent in English, Spanish, and French  
+  * Proficient in Python, R, and Unix environments  
+  * Experienced with Flow Cytometry, Confocal Microscopy, RNA-seq, ICeChIP, and various other cutting-edge techniques in molecular and cell biology.
+  
