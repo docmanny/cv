@@ -66,13 +66,13 @@ _Research Assistant, Vera Gorbunova and Andrei Seluanov, University of Rochester
 
 # SCHOLARSHIP \hrulefill
 
-### Journal Articles 
+## Journal Articles 
 
 __Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in Elephants Is Upregulated by TP53 to Induce Apoptosis in Response to DNA Damage.” Cell Reports, 24(7), 1765-1776.  
 
 Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.”, Aging, 8 (5), 841-847.  
 
-### __Manuscripts in preparation__
+## __Manuscripts in preparation__
 
 __Vazquez JM__, Chen E, Miller RA, Lynch VJ. \hfill _ETA: Fall 2019_  
 "A TP53 Locus Duplication Enhances the Stress Response of the Little Brown Bat, _Myotis lucifugus_."  
@@ -83,13 +83,13 @@ __Vazquez JM__, Lynch VJ. \hfill _ETA: Winter 2019_
 Bulls SE, __Vazquez JM__, Lynch VJ, Chiari Y, Glaberman S. \hfill _ETA: Summer 2020_  
 "Long-Lived _Testudines_ Demonstrate a High Tolerance to Various Forms of Cellular Stress."  
 
-### __Oral Presentations__  
+## __Oral Presentations__  
 
 __Vazquez JM__, Chen E, Miller RA, Lynch VJ. "Stress Response and a P53 Duplication in the Long-Lived Bat, _Myotis lucifugus_." North American Society for Bat Research,  24 October 2019, Kalamazoo, MI, USA.  
 
 __Vazquez JM__, Chen E, Miller RA, Lynch VJ. "Stress Response and a P53 Duplication in the Long-Lived Bat, _Myotis lucifugus_." Biology of Aging Gordon Research Conference,  16 July 2019, Sunday River, MA, USA.  
 
-### __Poster Presentations__  
+## __Poster Presentations__  
 
 __Vazquez JM__, Lynch VJ. "Gene Duplications and Peto's Paradox in the African Elephant and Paenungulates." 2018 SACNAS: The National Diversity in STEM Conference, 12 October 2018, San Antonio, TX, USA.  
 
@@ -99,7 +99,7 @@ __Vazquez JM__, Lynch VJ. "A Role for Gene Duplication in Peto's Paradox." Biolo
 
 # TEACHING AND MENTORING EXPERIENCE \hrulefill
 
-### __Teaching__
+## __Teaching__
 
 __Teacher__, Ideal Student Workshop and Test Prep, 8th Grade Class, Swift Elementary School. \hfill __Spring 2019__
 
@@ -134,7 +134,7 @@ __Laboratory and Lecture Teaching Assistant__, CHM 173Q Freshman Organic Chemist
 > Oversaw an organic chemistry lab of 16 freshmen students, grading reports and ensuring the proper functioning of the lab. Ran weekly workshops and lectures for students to design their experiments for the week.  
 
 
-### __Mentoring__
+## __Mentoring__
 
 __Supervisor__ for Stephanie E. Bulls, M.S, University of South Alabama. \hfill __2019 - __ 
 
@@ -152,12 +152,12 @@ __Mentor__ for Nadya Ali, Ph.D, University of Chicago. \hfill __2018 - __
 
 # MEDIA, SERVICE, AND OUTREACH \hrulefill
 
-### __Interviews__
+## __Interviews__
 
 __NPR__, Science Friday: Flatow, Ira. "How A ‘Zombie Gene’ Helped Elephants Evolve Protection From Cancer." Audio blog post. Science Friday. NPR, 08/17/2018. https://www.sciencefriday.com/segments/how-a-zombie-gene-helped-elephants-evolve-protection-from-cancer/.  
 
 
-### __Public Outreach Events__
+## __Public Outreach Events__
 
 __Volunteer Demonstrator__, _Science Works_, Museum of Science and Industry. \hfill __2016 - 2018__
 
@@ -169,7 +169,7 @@ __Volunteer Demonstrator__, _Stand Up for Science_, Field Museum. \hfill __2018_
 > Organized and participated in various demonstrations, and spoke about science to members of the general public at the Field Museum.  
 
 
-### __Panels and Presentations__
+## __Panels and Presentations__
 
 _Panelist, _Discover UChicago_, University of Chicago_ \hfill __2018__
 
@@ -179,7 +179,7 @@ _Panelist, _Discover UChicago_, University of Chicago_ \hfill __2018__
 
 # FUNDING, AWARDS, AND FELLOWSHIPS \hrulefill
 
-### __Grants__  
+## __Grants__  
 
 __Conference Grant for 2019 Biology of Aging Gordon Research Conference (NIA U-13 Supplement)__, Harvard University. \hfill $13,757.11 \hfill __2019__
 
@@ -210,7 +210,7 @@ __Diversity and Inclusion Small Projects Grant__, University of Chicago. \hfill 
 > Grant was submitted on behalf of SACNAS for the 2018 Midwest Regional SACNAS Conference, and was awarded in full.  
 
 
-### __Fellowships, Scholarships, and Training Grants__
+## __Fellowships, Scholarships, and Training Grants__
 
 __Yale Ciencia Academy Fellowship__, Yale University _(Awarding Institution)_. \hfill __2019__
 
@@ -233,7 +233,7 @@ __Howard Bryant Memorial Scholarship__, University of Rochester. \hfill __2012 -
 > "The Fund was established in 2004 to honor Howard’s legacy of caring and support by providing aid to students interested in pursuing a career in Sciences or Engineering. Two students are picked to receive the scholarship each year, beginning in their sophomore year for two years."  
 
 
-### __Awards and Recognitions__
+## __Awards and Recognitions__
 
 __SACNAS Chapter of the Year Award__, Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS). \hfill __2019__
 
@@ -247,7 +247,7 @@ __SACNAS Chapter Role Model Award for Outstanding Professional Development__, So
 
 # PROFESSIONAL ACTIVITIES \hrulefill
 
-### __Conferences__ 
+## __Conferences__ 
 
 __Chair__, Gordon Research Seminar on the Biology of Aging, Sunday River, MA, USA. \hfill __2017 - 2019__
 
@@ -268,7 +268,7 @@ __Co-chair__, Inaugural Midwest Regional SACNAS Conference, Chicago, IL, USA. \h
 > Raised $16,000 for conference expenses, with $2500 of travel funding for attendees.  
 
 
-### __Organizations__
+## __Organizations__
 
 __President__, Society for the Advancement of Chicanos and Native Americans in Science, University of Chicago. \hfill __2018 - __
 
@@ -290,14 +290,14 @@ __Student Representative__, Deparment of Human Genetics, University of Chicago. 
 > Assisted with the planning and running of the 2017 University of Chicago Molecular Biosciences Retreat.  
 
 
-### __Committees__
+## __Committees__
 
 __Committee Member__, Biological Sciences Division Diversity & Inclusion Representative Selection Committee, University of Chicago. \hfill __2017 - 2018__
 
 > Part of a 4-person committee tasked with designing the procedures for selecting a student representative for the nascent Diversity and Inclusion Committee.  
 
 
-### __Panels and Presentations__
+## __Panels and Presentations__
 
 __Panelist__, "How to be an Effective Student Leader", Midwest Regional SACNAS Conference, Chicago, IL. \hfill __April 2019__
 
