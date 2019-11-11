@@ -1,7 +1,7 @@
 ---
 output: 
   pdf_document:
-    latex_engine: pdflatex
+    latex_engine: xelatex
     template: rap-latex-cv.tex
 geometry: margin=1in
 
@@ -38,7 +38,7 @@ I have always been fascinated by aging and cancer; in particular, I am intereste
 _University of Chicago_, Ph.D. Human Genetics \hfill __2015 - __ 
 
 > Laboratory of: Vincent J Lynch, Department of Human Genetics  
-> Dissertation title: _The Role of Gene Duplicates in Resolving Peto's Paradox in Elephants and Bats_  
+> Dissertation title: _The Role of Gene Duplicates in Resolving Peto's Paradox_  
 > Committee Members: Marcelo Nobrega, Joseph Thorton, Yang Li, Vincent J Lynch, Yoav Gilad  
 
 _University of Rochester_, B.S. Biology, Molecular Genetics \hfill __2011 - 2015__
