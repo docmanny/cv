@@ -69,14 +69,13 @@ University of Rochester \hfill __May 2015__
 
 ## Journal Articles 
 
+__Vazquez JM__, and Lynch VJ (2020). “Pervasive Duplication of Tumor Suppressors in Afrotherians during the Evolution of Large Bodies and Reduced Cancer Risk.” Preprint. BioRxiv: Evolutionary Biology. 
+
 __Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in Elephants Is Upregulated by TP53 to Induce Apoptosis in Response to DNA Damage.” Cell Reports, 24(7), 1765-1776.  
 
 Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.”, Aging, 8 (5), 841-847.  
 
 ## __Manuscripts in preparation__
-
-__Vazquez JM__, Lynch VJ.
-"Pervasive duplication of tumor suppressor genes preceded parallel evolution of large bodied Atlantogenatans"  
 
 Bulls SE, __Vazquez JM__, Lynch VJ, Chiari Y, Glaberman S.
 "Long-Lived _Testudines_ Demonstrate a High Tolerance to Various Forms of Cellular Stress."  
@@ -133,12 +132,12 @@ University of Chicago.
 __Laboratory and Lecture Teaching Assistant__, CHM 210H Honors Organic Chemistry Lab, \hfill __Spring 2013__  
 University of Rochester. 
 
-> Assisted in the instruction of the lab lecture, lead workshop-style discussions to create the experimental procedures for the labs with students. Oversaw and administered the proper functioning of the lab. Aided and taught students, as well as assessed them for quality work and analytic skills in lab work and in lab reports.  
+> Instructor: Joeseph Dinnocenzo. Assisted in the instruction of the lab lecture, lead workshop-style discussions to create the experimental procedures for the labs with students. Oversaw and administered the proper functioning of the lab. Aided and taught students, as well as assessed them for quality work and analytic skills in lab work and in lab reports.  
 
 __Laboratory and Lecture Teaching Assistant__, CHM 173Q Freshman Organic Chemistry Lab, \hfill __Fall 2012__  
 University of Rochester. 
 
-> Oversaw an organic chemistry lab of 16 freshmen students, grading reports and ensuring the proper functioning of the lab. Ran weekly workshops and lectures for students to design their experiments for the week.  
+> Instructor: Bradley Nilsson. Oversaw an organic chemistry lab of 16 freshmen students, grading reports and ensuring the proper functioning of the lab. Ran weekly workshops and lectures for students to design their experiments for the week.  
 
 
 ## __Mentoring__
@@ -230,7 +229,10 @@ University of Chicago. \hfill $2,000.00
 ## __Fellowships, Scholarships, and Training Grants__
 
 __Life Sciences Research Foundation Postdoctoral Fellowship__. \hfill __2020__  
-\hfill Finalist (pending funding source identification)
+\hfill Finalist, unfunded
+
+__NSF Postdoctoral Research Fellowship in Biology__. \hfill __2020__  
+\hfill Meritorious, unfunded
 
 __Yale Ciencia Academy Fellowship__, \hfill __2019__  
 Yale University
