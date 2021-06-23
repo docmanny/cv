@@ -90,6 +90,8 @@ __Vazquez JM__, Chen E, Miller RA, Lynch VJ.
 
 ## __Oral Presentations__  
 
+__Vazquez JM__. "Western Bat Genomes Project." Bat1K Battelite Meeting, 20 May 2021, Virtual (International).
+
 __Vazquez JM__, Lynch VJ. "Como crecen los elefantes: La evolución de resistencia al cáncer en mamíferos gigantes." Puerto Rico Virtual Research Talks,  18 February 2021, Virtual (International).  
 
 __Vazquez JM__, Lynch VJ. "Gene Duplication and Peto's Paradox in Afrotherians." Aging Science in Isolation Talk Series,  19 May 2020, Virtual (International).  
@@ -268,10 +270,15 @@ University of Chicago. \hfill $2,000.00
 
 ## __Fellowships, Scholarships, and Training Grants__
 
-__Life Sciences Research Foundation Postdoctoral Fellowship__. \hfill __2020__  
+__NSF Postdoctoral Research Fellowship in Biology__. \hfill __2021-2023__  
+\hfill Proposal #2109915
+> _A Novel Model System for Studying the Evolution and Genomics of Longevity_
+
+
+__Life Sciences Research Foundation Postdoctoral Fellowship__. \hfill 2020  
 \hfill Finalist, unfunded
 
-__NSF Postdoctoral Research Fellowship in Biology__. \hfill __2020__  
+__NSF Postdoctoral Research Fellowship in Biology__. \hfill 2020  
 \hfill Meritorious, unfunded
 
 __Yale Ciencia Academy Fellowship__, \hfill __2019__  
@@ -417,7 +424,8 @@ __Languages: __ English (native), Spanish (native), French (fluent), German (con
 __Programming: __ Python (expert), R (expert), Bash (expert), Julia (novice), Rust (novice)  
 __DNA & RNA Sequencing: __ short-read (Illumina) and 3rd Generation (Oxford Nanopore and PacBio SMRT-Seq2)
 __Epigenetics: __ ChIP-seq (IcE-ChIP, native, and denatured), ATAC-seq, Hi-C
-__Single Cell Sequencing: __ 10x Multiome (ATAC+Gene Expression) protocol
+__Single Cell Sequencing: __ 10x Multiome (ATAC+Gene Expression)
+__Field Work: __ 106 hours of experience handling bats
 ___in vivo models: ___ Mice
 __Primary Cell Culture__, including primary cell line generation
 __Genetic Engineering__  via CRISPR/_Cas9_ knock-outs
