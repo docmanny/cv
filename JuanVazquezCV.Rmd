@@ -73,22 +73,27 @@ University of Rochester \hfill __May 2015__
 
 ## Journal Articles 
 
+Glaberman S, Bulls SE, __Vazquez JM__, Chiari Y, Lynch VJ (2021). "Concurrent evolution of anti-aging gene duplications and cellular phenotypes in long-lived turtles." bioRxiv 2021.07.07.451454.
+
 __Vazquez JM__, and Lynch VJ (2021). “Pervasive Duplication of Tumor Suppressors in Afrotherians during the Evolution of Large Bodies and Reduced Cancer Risk.” eLife 2021;10:e65041.
 
 __Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in Elephants Is Upregulated by TP53 to Induce Apoptosis in Response to DNA Damage.” Cell Reports, 24(7), 1765-1776.  
 
 Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.”, Aging, 8 (5), 841-847.  
 
-## __Manuscripts in preparation__
+## __Manuscripts in review__
 
-Bulls SE, __Vazquez JM__, Lynch VJ, Chiari Y, Glaberman S.
-"Long-Lived _Testudines_ Demonstrate a High Tolerance to Various Forms of Cellular Stress."  
+Kolora SRR\*, Owens GL\*, __Vazquez JM__, Stubbs A, Chatla K, Jainese C, Seeto K, McCrea M, Sandel MW, Vianna JA, Maslenikov K, Bachtrog D, Orr JW, Love M, Sudmant PH (2021). "Origins and evolution of extreme lifespan in Pacific Ocean rockfishes." Science, in review.
+
+## __Manuscripts in preparation__
 
 __Vazquez JM__, Chen E, Miller RA, Lynch VJ.
 "A TP53 Locus Duplication Enhances the Stress Response of the Little Brown Bat, _Myotis lucifugus_."  
 
 
 ## __Oral Presentations__  
+
+__Vazquez JM__. "A Novel Model System for the Study of Evolution of Longevity and Longevity-Associated Traits Using Western Bats." American Aging Associate (AGE) Annual Meeting, 20 July 2021, Madison, WI, USA.
 
 __Vazquez JM__. "Western Bat Genomes Project." Bat1K Battelite Meeting, 20 May 2021, Virtual (International).
 
@@ -232,6 +237,39 @@ _Panelist, _Discover UChicago_, University of Chicago_ \hfill __2018__
 
 # FUNDING, AWARDS, AND FELLOWSHIPS \hrulefill
 
+## __Fellowships, Scholarships, and Training Grants__
+
+__NSF Postdoctoral Research Fellowship in Biology__. \hfill __2021-2023__
+
+\hfill Proposal #2109915
+
+> _A Novel Model System for Studying the Evolution and Genomics of Longevity_
+
+__Yale Ciencia Academy Fellowship__, \hfill __2019__  
+Yale University
+
+> The YCA Fellowship provides outstanding students in the Biological Sciences with professional development and scientific outreach training in a year-long program. The program requires the completion of a scientific outreach program that is designed by the Fellow, and executed in groups throughout the year.  
+> Program pays for in-person training and attendance at the 2019 American Association for the Advancement of Science Meeting in Washington D.C, USA.  
+
+__NIGMS R25 Trainee: Initiative to Maximize Student Development__, \hfill __2015__  
+University of Chicago
+
+> Pilot Program funded by the NIH to support and enhance the training, mentoring, and education of incoming graduate students, with the goal of improving diversity in the biological sciences.  
+> Competitve entry into training grant cohort.  
+
+__Dean's Scholarship__, \hfill __2011 - 2015__  
+University of Rochester
+
+> Merit Scholarship.  
+> "Winners of Dean’s Scholarships have demonstrated both academic achievement and the potential to make unique contributions to Rochester student life. The Dean’s Scholarship is a reward for students’ hard work in high school and a statement of our trust in their continued success here on campus."  
+
+__Howard Bryant Memorial Scholarship__, \hfill __2012 - 2014__  
+University of Rochester
+
+> Merit Scholarship.  
+> "The Fund was established in 2004 to honor Howard’s legacy of caring and support by providing aid to students interested in pursuing a career in Sciences or Engineering. Two students are picked to receive the scholarship each year, beginning in their sophomore year for two years."  
+
+
 ## __Grants__  
 
 __NIA U-13 Supplement, 2019 Biology of Aging Gordon Research Conference__, \hfill __2019__  
@@ -268,45 +306,15 @@ University of Chicago. \hfill $2,000.00
 > Grant was submitted on behalf of SACNAS for the 2018 Midwest Regional SACNAS Conference, and was awarded in full.  
 
 
-## __Fellowships, Scholarships, and Training Grants__
-
-__NSF Postdoctoral Research Fellowship in Biology__. \hfill __2021-2023__  
-\hfill Proposal #2109915
-> _A Novel Model System for Studying the Evolution and Genomics of Longevity_
-
-
-__Life Sciences Research Foundation Postdoctoral Fellowship__. \hfill 2020  
-\hfill Finalist, unfunded
-
-__NSF Postdoctoral Research Fellowship in Biology__. \hfill 2020  
-\hfill Meritorious, unfunded
-
-__Yale Ciencia Academy Fellowship__, \hfill __2019__  
-Yale University
-
-> The YCA Fellowship provides outstanding students in the Biological Sciences with professional development and scientific outreach training in a year-long program. The program requires the completion of a scientific outreach program that is designed by the Fellow, and executed in groups throughout the year.  
-> Program pays for in-person training and attendance at the 2019 American Association for the Advancement of Science Meeting in Washington D.C, USA.  
-
-__NIGMS R25 Trainee: Initiative to Maximize Student Development__, \hfill __2015__  
-University of Chicago
-
-> Pilot Program funded by the NIH to support and enhance the training, mentoring, and education of incoming graduate students, with the goal of improving diversity in the biological sciences.  
-> Competitve entry into training grant cohort.  
-
-__Dean's Scholarship__, \hfill __2011 - 2015__  
-University of Rochester
-
-> Merit Scholarship.  
-> "Winners of Dean’s Scholarships have demonstrated both academic achievement and the potential to make unique contributions to Rochester student life. The Dean’s Scholarship is a reward for students’ hard work in high school and a statement of our trust in their continued success here on campus."  
-
-__Howard Bryant Memorial Scholarship__, \hfill __2012 - 2014__  
-University of Rochester
-
-> Merit Scholarship.  
-> "The Fund was established in 2004 to honor Howard’s legacy of caring and support by providing aid to students interested in pursuing a career in Sciences or Engineering. Two students are picked to receive the scholarship each year, beginning in their sophomore year for two years."  
-
-
 ## __Awards and Recognitions__
+
+__2021 Trainee Diversity, Equity, and Inclusion Legacy Award__. \hfill 2021
+
+_Life Sciences Research Foundation Postdoctoral Fellowship_. \hfill 2020  
+\hfill __Finalist__, unfunded
+
+_NSF Postdoctoral Research Fellowship in Biology_. \hfill 2020  
+\hfill __Meritorious__, unfunded
 
 __SACNAS Chapter of the Year Award__, \hfill __2019__  
 Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS).
