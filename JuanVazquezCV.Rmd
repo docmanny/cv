@@ -1,5 +1,5 @@
 ---
-output: 
+output:
   pdf_document:
     latex_engine: xelatex
     template: rap-latex-cv.tex
@@ -36,7 +36,7 @@ I have always been fascinated by aging and cancer; in particular, I am intereste
 # EDUCATION \hrulefill
 
 _University of Chicago_, Ph.D. Human Genetics \hfill __2015 - 2020__  
-_University of Chicago_, M.sc. Human Genetics \hfill __2015 - 2020__ 
+_University of Chicago_, M.sc. Human Genetics \hfill __2015 - 2020__
 
 > Laboratory of: Vincent J Lynch, Department of Human Genetics  
 > Dissertation title: _The Role of Gene Duplicates in Resolving Peto's Paradox in_ Afrotheria _and_ Chiroptera.  
@@ -53,16 +53,16 @@ _Postdoctoral Researcher_, Peter H Sudmant, \hfill __2020 - Present__
 University of California-Berkeley
 
 > Focus 1: Evolution of longevity-associated traits in Californian bats. Generating chromosome-level genomes, 30-individual cell banks, and phased population genetic data from 9 species of *Myotis*.  
-> Focus 2: Fidelity of chromatin structure in cardiac aging at the single cell level. Using multiplexed single-cell ATAC + gene expression in a trio of mouse strains. 
+> Focus 2: Fidelity of chromatin structure in cardiac aging at the single cell level. Using multiplexed single-cell ATAC + gene expression in a trio of mouse strains.
 
 _Ph.D. Candidate_, Vincent J Lynch, University of Chicago \hfill __2016 - 2020__
 
 > Thesis title: "The Role of Gene Duplication in Mediating Peto's Paradox in _Afrotheria_ and _Chiroptera_"  
-> Functional Genomics and Cell Biology in African Elephant (_Loxodonta africana_), the Bowhead Whale (_Balaena mysticetus_), and the Little Brown Bat (_Myotis lucifugus_). 
+> Functional Genomics and Cell Biology in African Elephant (_Loxodonta africana_), the Bowhead Whale (_Balaena mysticetus_), and the Little Brown Bat (_Myotis lucifugus_).
 
 _Rotation_, Alex Ruthenberg, University of Chicago \hfill __Summer 2016__
 
-> Optimized an Internally Calibrated ChIP (ICeChip) methodology in _C. elegans_ to study H3K4me3 patterns at the onset of sexual maturity. 
+> Optimized an Internally Calibrated ChIP (ICeChip) methodology in _C. elegans_ to study H3K4me3 patterns at the onset of sexual maturity.
 
 _Research Assistant_, Vera Gorbunova and Andrei Seluanov, \hfill __January 2014 - __  
 University of Rochester \hfill __May 2015__
@@ -71,9 +71,13 @@ University of Rochester \hfill __May 2015__
 
 # SCHOLARSHIP \hrulefill
 
-## Journal Articles 
+## Journal Articles
 
-Glaberman S, Bulls SE, __Vazquez JM__, Chiari Y, Lynch VJ (2021). "Concurrent evolution of anti-aging gene duplications and cellular phenotypes in long-lived turtles." bioRxiv 2021.07.07.451454.
+Yamamoto R\*, Chung R\*, __Vazquez JM__, Sheng H, Steinberg P, Ioannidis NM, Sudmant PH (2021). "Tissue-specific impacts of aging and genetics on gene expression patterns in humans." bioRxiv 10.1101/2021.11.16.468753.
+
+Kolora SRR\*, Owens GL\*, __Vazquez JM__, Stubbs A, Chatla K, Jainese C, Seeto K, McCrea M, Sandel MW, Vianna JA, Maslenikov K, Bachtrog D, Orr JW, Love M, Sudmant PH (2021). "Origins and evolution of extreme lifespan in Pacific Ocean rockfishes." Science 10.1126/science.abg5332.
+
+Glaberman S, Bulls SE, __Vazquez JM__, Chiari Y, Lynch VJ (2021). "Concurrent evolution of anti-aging gene duplications and cellular phenotypes in long-lived turtles." Genome Biology and Evolution 10.1093/gbe/evab244.
 
 __Vazquez JM__, and Lynch VJ (2021). “Pervasive Duplication of Tumor Suppressors in Afrotherians during the Evolution of Large Bodies and Reduced Cancer Risk.” eLife 2021;10:e65041.
 
@@ -81,19 +85,17 @@ __Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in
 
 Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.”, Aging, 8 (5), 841-847.  
 
-## __Manuscripts in review__
-
-Kolora SRR\*, Owens GL\*, __Vazquez JM__, Stubbs A, Chatla K, Jainese C, Seeto K, McCrea M, Sandel MW, Vianna JA, Maslenikov K, Bachtrog D, Orr JW, Love M, Sudmant PH (2021). "Origins and evolution of extreme lifespan in Pacific Ocean rockfishes." Science, in review.
 
 ## __Manuscripts in preparation__
 
-__Vazquez JM__, Chen E, Miller RA, Lynch VJ.
-"A TP53 Locus Duplication Enhances the Stress Response of the Little Brown Bat, _Myotis lucifugus_."  
+__Vazquez JM__, Morgan Kraft, Lynch VJ."A CDKN2C retroduplication is associated with the evolution of extremely long lifespans bowhead whales." \hfill ETA: Fall 2022.
 
 
 ## __Oral Presentations__  
 
 __Vazquez JM__. "A Novel Model System for the Study of Evolution of Longevity and Longevity-Associated Traits Using Western Bats." American Aging Associate (AGE) Annual Meeting, 20 July 2021, Madison, WI, USA.
+
+__Vazquez JM__. "Of Mice and Elephants: Trade-Offs of Tumor Suppressor Duplication and Body Size Evolution in Afrotheria." Club EvMed: Virtual Evolutionary Medicine Conversations. 29 June 2021, Virtual (International).  
 
 __Vazquez JM__. "Western Bat Genomes Project." Bat1K Battelite Meeting, 20 May 2021, Virtual (International).
 
@@ -116,9 +118,17 @@ __Vazquez JM__, Lynch VJ. "A Role for Gene Duplication in Peto's Paradox." Biolo
 
 ## __Teaching__
 
+__Team Leader__, Cal Summer Genomics Experience. \hfill __Spring 2021__
+
+> Organized and ran a pilot experimental field genomics class held over 3 full days. As part of the course, 12 students formed teams led by instructors to collect and
+
 __Volunteer Workshop Aide__, StdPopSim Introductory Workshop - Australasia. \hfill __2021__
 
 > Assisted a workshop focused on introducing the StdPopSim Python package for population genetics simulations.
+
+__Organizer__, Mock Interview Prep for Prospective Ph.D. Students, \hfill __01/2021__
+
+> Day-long session for Berkeley undergraduates applying to grad school programs where we provided interview training and preparation, including talks, a workshop, and mock interviews.
 
 __Tutor & Workshop Leader__, Educational Endeavors. \hfill __2016 - 2020__
 
@@ -139,7 +149,7 @@ Rauner College Prep.
 > Taught data science to a class of 12 high school biology students in the context of genomics along with 4 other volunteers.   
 
 __Teaching Assistant__, BIOS 21306 Human Genetics and Evolution, \hfill __Winter 2017__  
-University of Chicago. 
+University of Chicago.
 
 > Undergraduate course focusing on historic and modern advances in our understanding of human genetics at various scales. In addition to keeping attendance and organizing the course, he taught a lesson on classic and modern techniques for sequencing DNA & RNA; detecting epigenetic modifications in the genome; and on detecting signatures of selection in the genome.  
 
@@ -147,29 +157,31 @@ __Teaching Assistant__, BIOS 21306 Human Genetics and Evolution, \hfill __Winter
 University of Chicago.
 
 > Undergraduate course focusing on historic and modern advances in our understanding of human genetics at various scales. In addition to keeping attendance and organizing the course, he taught a lesson on classic and modern techniques for sequencing DNA & RNA; detecting epigenetic modifications in the genome; and on detecting signatures of selection in the genome.  
-  
+
 __Laboratory and Lecture Teaching Assistant__, CHM 210H Honors Organic Chemistry Lab, \hfill __Spring 2013__  
-University of Rochester. 
+University of Rochester.
 
 > Instructor: Joeseph Dinnocenzo. Assisted in the instruction of the lab lecture, lead workshop-style discussions to create the experimental procedures for the labs with students. Oversaw and administered the proper functioning of the lab. Aided and taught students, as well as assessed them for quality work and analytic skills in lab work and in lab reports.  
 
 __Laboratory and Lecture Teaching Assistant__, CHM 173Q Freshman Organic Chemistry Lab, \hfill __Fall 2012__  
-University of Rochester. 
+University of Rochester.
 
 > Instructor: Bradley Nilsson. Oversaw an organic chemistry lab of 16 freshmen students, grading reports and ensuring the proper functioning of the lab. Ran weekly workshops and lectures for students to design their experiments for the week.  
 
 
 ## __Mentoring__
 
-__Mentor__, Stacy Li, Ph. D. Student, University of California-Berkeley \hfill __2021 - Present__
+__Group leader__, _Thriving in Science_ Postdoc Support Group \hfill __2020__
 
-__Mentor__, Lily Rahnama, B.s., University of California-Davis \hfill __2020 - Present__
+__Mentor__, Gabriela De Real, B.sc., Cal State North Bridge <!--TODO confirm spelling --> \hfill __2020 - Present__
 
-__Mentor__, Nadya Ali, Ph. D. Candidate, University of Chicago \hfill __2018 - Present__ 
+__Mentor__, Katia Renault, B.sc., University of California-Berkeley \hfill __2020 - Present__
 
-> Ph.D. Candidate in the Committee on Evolutionary Biology at the University of Chicago. Her thesis is focused on the endangered Black-Footed Ferret, and how epigenetic factors contribute to infertility in this species. She has been working with to learn how to perform COMET assays to test for DNA damage in single cells, as well as for general expertise in DNA damage and other aging-related pathologies in sperm.  
+__Mentor__, Lily Rahnama, B.sc., University of California-Davis \hfill __2020 - Present__
 
-__Supervisor__, Stephanie E. Bulls, M.S, University of South Alabama. \hfill __2019__ 
+__Mentor__, Nadya Ali, Ph.D, Committee on Evolutionary Biology, University of Chicago \hfill __2018 - 2022__
+
+__Supervisor__, Stephanie E. Bulls, M.S, University of South Alabama. \hfill __2019-2022__
 
 > Masters student in the Biology Department at the University of South Alabama. She visited the University of Chicago from 01-07/2019 for me to teach and direct her investigation on Peto's Paradox and stress response in _Testudines_. The manuscript in preparation which summarizes our findings - "Long-Lived Testudines Demonstrate a High Tolerance to Various Forms of Cellular Stress" - will be released on BioRxiv at the start of 2020.  
 
@@ -182,13 +194,15 @@ __Supervisor__, Eric Chen, B.s, University of Chicago. \hfill __2018 - 2019__
 
 ## __Interviews__
 
+__Neo Life__: Donovan, Robin. "The Salty Secrets of Extreme Longevity." News article. Neo Life, 04/21/2022. https://neo.life/2022/04/the-salty-secrets-of-extreme-longevity/
+
 __Nature__, Career News: Woolston, Chris. "Junior researchers hit by coronavirus-triggered hiring freezes." News article. Nature Career News. Nature, 06/02/2020. https://www.nature.com/articles/d41586-020-01656-3.
 
 __NPR__, Science Friday: Flatow, Ira. "How A ‘Zombie Gene’ Helped Elephants Evolve Protection From Cancer." Audio blog post. Science Friday. NPR, 08/17/2018. https://www.sciencefriday.com/segments/how-a-zombie-gene-helped-elephants-evolve-protection-from-cancer/.  
 
-__CBC News__: Kachur, Torah. "This gene prevents elephants from getting cancer and scientists are taking note." News article. CBC News. CBC, 08/16/2018. https://www.cbc.ca/news/canada/this-gene-prevents-elephants-from-getting-cancer-1.4787721. 
+__CBC News__: Kachur, Torah. "This gene prevents elephants from getting cancer and scientists are taking note." News article. CBC News. CBC, 08/16/2018. https://www.cbc.ca/news/canada/this-gene-prevents-elephants-from-getting-cancer-1.4787721.
 
-__El Español__: Íñiguez De Onzoño, Javier. "El misterioso gen zombi que protege a los elefantes contra el cáncer." News article. El Español. El Español, 08/16/2018. https://www.elespanol.com/ciencia/investigacion/20180815/misterioso-gen-zombi-protege-elefantes-cancer/330218017_0.html. 
+__El Español__: Íñiguez De Onzoño, Javier. "El misterioso gen zombi que protege a los elefantes contra el cáncer." News article. El Español. El Español, 08/16/2018. https://www.elespanol.com/ciencia/investigacion/20180815/misterioso-gen-zombi-protege-elefantes-cancer/330218017_0.html.
 
 __Smithsonian Magazine__: Wu, Katherine J. "Cancer Is One Worry Elephants Can Feel Free to Forget." News article. Smithsonian Magazine. The Smithsonian Institute, 08/14/2018. https://www.smithsonianmag.com/science-nature/cancer-one-worry-elephants-forget-180969993/.
 
@@ -198,7 +212,7 @@ __Speaker__: "De Elefantes y Manatíes: La evolución de resistencia al cáncer 
 
 > A 30 minute talk geared towards middle/high schoolers with basic biology knowledge, for use in classrooms. Broadcasted online and on Puerto Rico's public TV channel.
 
-__Mentor__, METAS+ Program, Online (Puerto Rico). \hfill __2021 - Present__
+__Mentor__, METAS+ Program, Online (Puerto Rico). \hfill __2021 - 2021__
 
 > An NIH-funded, 2-year Mentor-coaching for senior undergrads at the University of Puerto Rico focused on preparing them for the transition to grad school.
 
@@ -208,15 +222,15 @@ __Mentor__, Cientifico Latino, Online (Berkeley, CA). \hfill __2020__
 
 __Organizer__, Merritt Genomics Virtual Lab Tour, Online (Berkeley, CA). \hfill __2020__
 
-> Organized and directed a 90-minute tour of 3 labs virtually, with a showcase of pre-recorded experiments for community college and high school students in Berkeley. 
+> Organized and directed a 90-minute tour of 3 labs virtually, with a showcase of pre-recorded experiments for community college and high school students in Berkeley.
 
 __Speaker__, Merritt Genomics "Scientist Feature" Class Event, Online (Berkeley, CA). \hfill __2020__
 
-> Conversations about my path and life in science with high schoolers and community college students in Berkeley, with an emphasis on career paths 
+> Conversations about my path and life in science with high schoolers and community college students in Berkeley, with an emphasis on career paths
 
 __Volunteer & Organizer__, High School Lab Tours, Department of Human Genetics, University of Chicago. \hfill __2016-2019__
 
-> Organized and assisted with seasonal visits of the lab spaces by students from local, disadvantaged high schools. 
+> Organized and assisted with seasonal visits of the lab spaces by students from local, disadvantaged high schools.
 
 __Volunteer Demonstrator & Organizer__, _Science Works_, Museum of Science and Industry, Chicago, IL. \hfill __2016 - 2018__
 
@@ -228,13 +242,6 @@ __Volunteer Demonstrator__, _Stand Up for Science_, Field Museum, Chicago, IL. \
 > Organized and participated in various demonstrations, and spoke about science to members of the general public at the Field Museum.  
 
 
-## __Panels and Presentations__
-
-_Panelist, _Discover UChicago_, University of Chicago_ \hfill __2018__
-
-> The _Discover UChicago_ program provides undergraduates with an opportunity to come to the University for a week and learn about campus life and research. At the program's conclusion, current students come to give attendees general advice about professional skills, applying to graduate programs, and selecting mentors and programs.  
-
-
 # FUNDING, AWARDS, AND FELLOWSHIPS \hrulefill
 
 ## __Fellowships, Scholarships, and Training Grants__
@@ -244,6 +251,12 @@ __NSF Postdoctoral Research Fellowship in Biology__. \hfill __2021-2023__
 \hfill Proposal #2109915
 
 > _A Novel Model System for Studying the Evolution and Genomics of Longevity_
+
+_Life Sciences Research Foundation Postdoctoral Fellowship_. \hfill 2020  
+\hfill __Finalist__, unfunded
+
+_NSF Postdoctoral Research Fellowship in Biology_. \hfill 2020  
+\hfill __Meritorious__, unfunded
 
 __Yale Ciencia Academy Fellowship__, \hfill __2019__  
 Yale University
@@ -273,35 +286,35 @@ University of Rochester
 ## __Grants__  
 
 __NIA U-13 Supplement, 2019 Biology of Aging Gordon Research Conference__, \hfill __2019__  
-Harvard University. \hfill $13,757.11 
+Harvard University. \hfill $13,757.11
 
 > Wrote a supplement to the U13 Conference Grant by Marcia Haigis and Thomas Rando for the 2019 Biology of Aging Gordon Research Conference.  
 > Funding covered the Registration fee for all 48 attendees, and travel costs for all 15 speakers. Full grant was awarded $36,242.89, of which the Gordon Research Seminar supplement was allocated $13,757.11.  
 
 __Diversity and Inclusion Pilot Program Grant__, \hfill __2019__  
-University of Chicago. \hfill $5,000.00 
+University of Chicago. \hfill $5,000.00
 
 > The Office of Diversity and Inclusion at the University of Chicago provides opportunities for members of the university to submit proposals for projects of various scales. At the largest scale, the Grant funds Pilot Programs at a maximum of $5000 for programs and projects that will further diversity and inclusion on campus.  
 > Co-written with Lauren Blake, 2019 Treasurer for the _Society for the Advancement of Chicanos/Hispanics and Native Americans in Science_ (SACNAS).  
 > Funded in full for the 2019 Midwest Regional SACNAS Conference.  
 
 __Diversity and Inclusion Small Projects Grant__, \hfill __2019__  
-University of Chicago. \hfill $2,000.00 
+University of Chicago. \hfill $2,000.00
 
-> The Biological Sciences Division of the University of Chicago offers grants for competitve proposals that will enhance diversity and inclusion in the Division.  
+> The Biological Sciences Division of the University of Chicago offers grants for competitive proposals that will enhance diversity and inclusion in the Division.  
 > Grant was submitted on behalf of SACNAS for the 2018 Midwest Regional SACNAS Conference, and was awarded in full.  
 
 __Diversity and Inclusion Pilot Program Grant__, \hfill __2018__  
-University of Chicago. \hfill $10,000.00 
+University of Chicago. \hfill $10,000.00
 
 > The Office of Diversity and Inclusion at the University of Chicago provides opportunities for members of the university to submit proposals for projects of various scales. At the largest scale, the Grant funds Pilot Programs at a maximum of $10,000.00 for programs and projects that will further diversity and inclusion on campus.  
 > Co-written with Christina Roman, 2018 President of SACNAS.  
 > Funded in full for the 2019 Midwest Regional SACNAS Conference.  
 
 __Diversity and Inclusion Small Projects Grant__, \hfill __2018__  
-University of Chicago. \hfill $2,000.00 
+University of Chicago. \hfill $2,000.00
 
-> The Biological Sciences Division of the University of Chicago offers grants for competitve proposals that will enhance diversity and inclusion in the Division.  
+> The Biological Sciences Division of the University of Chicago offers grants for competitive proposals that will enhance diversity and inclusion in the Division.  
 > Co-written with Christina Roman, 2018 President of SACNAS.  
 > Grant was submitted on behalf of SACNAS for the 2018 Midwest Regional SACNAS Conference, and was awarded in full.  
 
@@ -309,12 +322,6 @@ University of Chicago. \hfill $2,000.00
 ## __Awards and Recognitions__
 
 __2021 Trainee Diversity, Equity, and Inclusion Legacy Award__. \hfill 2021
-
-_Life Sciences Research Foundation Postdoctoral Fellowship_. \hfill 2020  
-\hfill __Finalist__, unfunded
-
-_NSF Postdoctoral Research Fellowship in Biology_. \hfill 2020  
-\hfill __Meritorious__, unfunded
 
 __SACNAS Chapter of the Year Award__, \hfill __2019__  
 Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS).
@@ -329,7 +336,7 @@ Society for the Advancement of Chicanos/Hispanics and Native Americans in Scienc
 
 # PROFESSIONAL ACTIVITIES \hrulefill
 
-## __Conferences__ 
+## __Conferences__
 
 __Chair__, Gordon Research Seminar on the Biology of Aging, Sunday River, MA, USA. \hfill __2017 - 2019__
 
@@ -356,7 +363,7 @@ __President__, \hfill __2018 - 2020__
 Society for the Advancement of Chicanos and Native Americans in Science, University of Chicago.
 
 > Received the SACNAS National Chapter of the Year Award.  
-> Organized various monthly professional development workshops catering to undergraduates, graduates, and post-docs. 
+> Organized various monthly professional development workshops catering to undergraduates, graduates, and post-docs.
 > Led the 2019 Midwest Regional SACNAS Conference Planning Team.  
 > Established the SACNAS Midwest Meeting Planning Commmittee for facilitating inter-chapter communication, organization, and conference planning.  
 
@@ -387,7 +394,7 @@ __Member__, Biological Sciences Division Diversity & Inclusion Representative Se
 
 __Board Member__, Community Service Fund, Student Government, University of Chicago. \hfill __2015-2016__
 
-> Member of a board selecting funding applications for community service projects targeted to external audiences. 
+> Member of a board selecting funding applications for community service projects targeted to external audiences.
 
 
 ## __Panels and Presentations__
@@ -400,8 +407,16 @@ __Panelist__, "How to Succeed in Grad School", Summer Graduate Research Program,
 
 > Panel focused on the experiences of panelists as underrepresented minorities in STEM, and how they navigated life through their PhDs. Panelists shared their advice and stories about how they overcame various obstacles in academia.  
 
+__Panelist__, "Discover UChicago", University of Chicago_ \hfill __2018__
+
+> The _Discover UChicago_ program provides undergraduates with an opportunity to come to the University for a week and learn about campus life and research. At the program's conclusion, current students come to give attendees general advice about professional skills, applying to graduate programs, and selecting mentors and programs.  
+
 
 # CERTIFICATES AND MINI-COURSES \hrulefill
+
+_Torrey Pines Academic Lab Management & Leadership Symposium_, \hfill __Spring 2021__
+
+> 5-day virtual symposium focused on developing a plan for future research labs, from job search to lab management, including staffing, project management, and funding.
 
 _Successfully Managing Your Team of Scientists_, \hfill __Summer 2018__  
 University of Chicago myCHOICE program
@@ -421,6 +436,9 @@ University of Chicago myCHOICE program.
 
 # PROFESSIONAL MEMBERSHIPS \hrulefill
 
+International Society for Evolution, Medicine, and Public Health \hfill __2022 - __
+Western Bat Working Group \hfill __2020 - __
+North American Society for Bat Research \hfill __2019 - __
 American Aging Association \hfill __2019 - __  
 Society for the Advancement of Chicanos/Hispanics and Native Americans in Science \hfill __2018 - __  
 American Association for the Advancement of Science \hfill __2015 - 2016__  
@@ -441,4 +459,3 @@ __Microscopy: __ Confocal Microscopy (Leica SP6, SP8); live cell imaging (Olympu
 __Flow Cytometry: __ Cell-cycle (EdU-Hoescht, Fucci), TUNEL  
 __Molecular Biology: __ qPCR (RT, ChIP); Western Blot; high molecular weight DNA extraction   
 __Other skills and interests: __ Sailing, hiking, guitar, public speaking
-  
