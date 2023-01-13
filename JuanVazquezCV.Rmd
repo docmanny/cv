@@ -75,7 +75,7 @@ University of Rochester \hfill __May 2015__
 
 __Vazquez JM__, Kraft M, Lynch VJ (2022). "A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics." _bioRxiv_ 10.1101/2022.09.07.506958.
   
-__Vazquez JM__, Pena MT, Muhammad B, Kraft M, Adams LB, Lynch VJ (2022). "Parallel evolution of reduced cancer risk and tumor suppressor duplications in Xenarthra." _bioRxiv_ (in review _eLife_) 10.1101/2022.08.04.502824.
+__Vazquez JM__, Pena MT, Muhammad B, Kraft M, Adams LB, Lynch VJ (2022). "Parallel evolution of reduced cancer risk and tumor suppressor duplications in Xenarthra." _eLife_ 10.7554/eLife.82558.
 
 Yamamoto R\*, Chung R\*, __Vazquez JM__, Sheng H, Steinberg P, Ioannidis NM, Sudmant PH (2021). "Tissue-specific impacts of aging and genetics on gene expression patterns in humans." _Nature Communications_ 10.1038/s41467-022-33509-0.
 
