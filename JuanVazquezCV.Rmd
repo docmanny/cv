@@ -30,7 +30,7 @@ urlcolor: blue
 
 # RESEARCH INTERESTS \hrulefill
 
-From single-celled prokaryotes to mammals, lifespan is one of the most diverse and omniprescent life history traits. Aging is both implicated in and affected by a number of biological processes at all scales of life; yet our understanding of the genetics and directionality of aging-associated traits is limited in scope. The advent of cost-effective genomics at tree-of-life scale has enabled new frontiers in the study of aging using comparative biology. My work focuses on tackling interdisciplinary questions aging with equally interdisciplinary approaches, ranging from cellular and molecular biology to comparative evolutionary genomics and population genetics. I am currently developing a system for the study of the evolution of longevity-associated traits in bats using modern functional genomics by generating chromomesome-scale genomes, primary cell lines, and induced pluripotent stem cells for over 10 species of closely-related bats with a diversity of lifespans. This system will enable us to not only identify genes and regulatory pathways associated with the evolution of increased or decreased longevity; but also understand how the mechanisms behind these findings in a native context. 
+From prokaryotes to mammals, lifespan is one of the most diverse and omniprescent life history traits. Aging is both implicated in and affected by a number of biological processes at all scales of life; yet our understanding of the genetics and directionality of aging-associated traits is limited in scope. The advent of cost-effective genomics at tree-of-life scale has enabled new frontiers in the study of aging and aging-associated traits using functional and comparative biology. My work focuses on tackling interdisciplinary questions aging with equally interdisciplinary approaches, ranging from cellular and molecular biology to comparative evolutionary genomics and population genetics. I have developed a system for studying the evolution of longevity-associated traits in bats using modern functional genomics by generating chromosome-scale reference genomes and over 200 primary cell lines for over 10 species of closely-related bats with a diversity of lifespans. This system will enable us to not only identify genes and regulatory pathways associated with the evolution of increased or decreased longevity; but also understand how the mechanisms behind these findings in a native context. 
 
 
 # EDUCATION \hrulefill
@@ -52,7 +52,7 @@ _University of Rochester_, B.A. Chemistry \hfill __2011 - 2015__
 _Postdoctoral Researcher_, Peter H Sudmant, \hfill __2020 - Present__  
 University of California-Berkeley
 
-> Focus 1: Evolution of longevity-associated traits in Californian bats. Generating chromosome-level genomes, 30-individual cell banks, and phased population genetic data from 9 species of *Myotis*.  
+> Focus 1: Evolution of longevity-associated traits in Californian bats. Generating chromosome-level genomes, primary cell library for >200 individuals, and phased population genetic data from 9 species of *Myotis*.  
 > Focus 2: Fidelity of chromatin structure in muscle aging at the single cell level. Using multiplexed single-cell ATAC + gene expression in a trio of mouse strains.
 
 _Ph.D. Candidate_, Vincent J Lynch, University of Chicago \hfill __2016 - 2020__
@@ -73,6 +73,11 @@ University of Rochester \hfill __May 2015__
 
 ## Journal Articles
 
+
+Karin BR, Arellano S, Wang L, Walzer K, Pomerantz A, __Vazquez JM__, Chatla K, Sudmant PH, Bach BH, Smith LL, McGuire JA. (2023). "Highly-multiplexed and efficient long-amplicon PacBio and Nanopore sequencing of hundreds of full mitochondrial genomes." _BMC Genomics_ 10.1186/s12864-023-09277-6.
+
+Lauterbur ME, Cavassim Alves MI, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Obšteter J, Corrêa Pavinato VA, Pearson A, Peede D, Perez MF, Rodrigues MF, Smith CCR, Spence JP, Teterina A, Tittes S, Unneberg P, __Vazquez JM__, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I. (2023). "Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations." _eLife_ 10.7554/eLife.84874.1.
+
 __Vazquez JM__, Kraft M, Lynch VJ (2022). "A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics." _bioRxiv_ 10.1101/2022.09.07.506958.
   
 __Vazquez JM__, Pena MT, Muhammad B, Kraft M, Adams LB, Lynch VJ (2022). "Parallel evolution of reduced cancer risk and tumor suppressor duplications in Xenarthra." _eLife_ 10.7554/eLife.82558.
@@ -90,9 +95,11 @@ __Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in
 Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.”, _Aging_, 8 (5), 841-847.  
 
 
-## __Invited Talks__
+## __Invited Talks & Lectures__
 
-San Jose State University, _A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics_, 04 October 2022.
+University of California, Berkeley, __IB 169: Evolutionary Medicine__. _Evolutionary Dynamics of Cancer I: From Single Cells to Elephants and Whales_. 11 April 2023.
+
+San Jose State University, _A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics_. 04 October 2022.
 
 North American Society for Bat Research. _Bat to the Future: Bat Biology Beyond Genomes._ 07 August 2022, Austin, TX, USA.
 
@@ -100,8 +107,11 @@ Stanford University, _Resolving the Evolution of Longevity and Associated Traits
 
 Cal Poly Humboldt, _Resolving the Evolution of Longevity and Associated Traits in Bats Using Functional and Population Genomics_, 10 November 2021.
 
-
 ## __Oral Presentations__  
+
+Marine Mammal Symposium, University of California-Berkeley. _A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics_. 25 May 2023, Berkeley, CA, USA.
+
+Bay Area Aging Meeting. _Evolution of Non-Allometric Longevity in a Clade of Long-Lived Bats Resolved Using Chromosome-Length Genome Assemblies_. 11 May 2023, Novato, CA, USA
 
 UCB Center for Computation Biology Retreat. _Building a Model System for Studying the Evolution of Extraordinary Longevity in Bats Using Functional Genomics._ 05 November 2022, Green Mountain Retreat, CA, USA.
 
@@ -140,10 +150,13 @@ Biology of Aging Gordon Research Seminar and Conference. __Vazquez JM__, Lynch V
 
 ## __Fellowships, Scholarships, and Training Grants__
 
-__NSF Postdoctoral Research Fellowship in Biology__. \hfill __2021-2023__
+__NIA T32 Trainee__ \hfill __2023 - 2024__
 
-_A Novel Model System for Studying the Evolution and Genomics of Longevity_\hfill Proposal #2109915  
+NIH \hfill R13AG063483-01
 
+__NSF Postdoctoral Research Fellowship in Biology (#2109915)__. \hfill __2021-2023__
+
+_A Novel Model System for Studying the Evolution and Genomics of Longevity_
 
 __Life Sciences Research Foundation Postdoctoral Fellowship.__ \hfill __2020__  
 \hfill __Finalist__, unfunded (no sponsors).
@@ -152,71 +165,40 @@ __NSF Postdoctoral Research Fellowship in Biology.__ \hfill __2020__
 \hfill __Meritorious__, unfunded.
 
 __Yale Ciencia Academy Fellowship__, \hfill __2019__  
-Yale University
+Yale University  
 
-> The YCA Fellowship provides outstanding students in the Biological Sciences with professional development and scientific outreach training in a year-long program. The program requires the completion of a scientific outreach program that is designed by the Fellow, and executed in groups throughout the year.  
-> Program pays for in-person training and attendance at the 2019 American Association for the Advancement of Science Meeting in Washington D.C, USA.  
-
-__NIGMS R25 Trainee: Initiative to Maximize Student Development__, \hfill __2015__  
-University of Chicago
-
-> Pilot Program funded by the NIH to support and enhance the training, mentoring, and education of incoming graduate students, with the goal of improving diversity in the biological sciences.  
-> Competitve entry into training grant cohort.  
-
-__Dean's Scholarship__, \hfill __2011 - 2015__  
-University of Rochester
-
-> Merit Scholarship.  
-> "Winners of Dean’s Scholarships have demonstrated both academic achievement and the potential to make unique contributions to Rochester student life. The Dean’s Scholarship is a reward for students’ hard work in high school and a statement of our trust in their continued success here on campus."  
+__NIGMS R25 Trainee: Initiative to Maximize Student Development __, \hfill __2015-2017__  
+University of Chicago \hfill 5R25GM109439-03
 
 __Howard Bryant Memorial Scholarship__, \hfill __2012 - 2014__  
 University of Rochester
 
-> Merit Scholarship.  
-> "The Fund was established in 2004 to honor Howard’s legacy of caring and support by providing aid to students interested in pursuing a career in Sciences or Engineering. Two students are picked to receive the scholarship each year, beginning in their sophomore year for two years."  
-
+__Dean's Scholarship__, \hfill __2011 - 2015__  
+University of Rochester
 
 ## __Grants__  
 
 __NIA U-13 Supplement, 2019 Biology of Aging Gordon Research Conference__, \hfill __2019__  
-Harvard University. \hfill $13,757.11
-
-> Wrote a supplement to the U13 Conference Grant by Marcia Haigis and Thomas Rando for the 2019 Biology of Aging Gordon Research Conference.  
-> Funding covered the Registration fee for all 48 attendees, and travel costs for all 15 speakers. Full grant was awarded $36,242.89, of which the Gordon Research Seminar supplement was allocated $13,757.11.  
+NIA R13AG063483-01. \hfill $13,757.11
 
 __Diversity and Inclusion Pilot Program Grant__, \hfill __2019__  
 University of Chicago. \hfill $5,000.00
 
-> The Office of Diversity and Inclusion at the University of Chicago provides opportunities for members of the university to submit proposals for projects of various scales. At the largest scale, the Grant funds Pilot Programs at a maximum of $5000 for programs and projects that will further diversity and inclusion on campus.  
-> Co-written with Lauren Blake, 2019 Treasurer for the _Society for the Advancement of Chicanos/Hispanics and Native Americans in Science_ (SACNAS).  
-> Funded in full for the 2019 Midwest Regional SACNAS Conference.  
-
 __Diversity and Inclusion Small Projects Grant__, \hfill __2019__  
 University of Chicago. \hfill $2,000.00
-
-> The Biological Sciences Division of the University of Chicago offers grants for competitive proposals that will enhance diversity and inclusion in the Division.  
-> Grant was submitted on behalf of SACNAS for the 2018 Midwest Regional SACNAS Conference, and was awarded in full.  
 
 __Diversity and Inclusion Pilot Program Grant__, \hfill __2018__  
 University of Chicago. \hfill $10,000.00
 
-> The Office of Diversity and Inclusion at the University of Chicago provides opportunities for members of the university to submit proposals for projects of various scales. At the largest scale, the Grant funds Pilot Programs at a maximum of $10,000.00 for programs and projects that will further diversity and inclusion on campus.  
-> Co-written with Christina Roman, 2018 President of SACNAS.  
-> Funded in full for the 2019 Midwest Regional SACNAS Conference.  
-
 __Diversity and Inclusion Small Projects Grant__, \hfill __2018__  
 University of Chicago. \hfill $2,000.00
-
-> The Biological Sciences Division of the University of Chicago offers grants for competitive proposals that will enhance diversity and inclusion in the Division.  
-> Co-written with Christina Roman, 2018 President of SACNAS.  
-> Grant was submitted on behalf of SACNAS for the 2018 Midwest Regional SACNAS Conference, and was awarded in full.  
 
 
 ## __Awards and Recognitions__
 
 __2022 Best Lighting Talk__. UCB Center for Computational Biology Retreat. \hfill __2022__
 
-__2021 Trainee Diversity, Equity, and Inclusion Legacy Award__. \hfill __2021__
+__2021 Trainee Diversity, Equity, and Inclusion Legacy Award__. University of Chicago \hfill __2021__
 
 __SACNAS Chapter of the Year Award__, \hfill __2019__  
 Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS).
@@ -227,6 +209,75 @@ __SACNAS Chapter Role Model Award for Outstanding Professional Development__, \h
 Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS).
 
 > In recognition of the UChicago SACNAS Chapter's exceptional work in organizing and executing the first-ever Midwest Regional SACNAS Conference.  
+
+
+# PROFESSIONAL ACTIVITIES \hrulefill
+
+## __Conferences__
+
+__Chair__, Gordon Research Seminar on the Biology of Aging, Sunday River, MA, USA. \hfill __2017 - 2019__
+
+> Co-chair: Victor Bustos.  
+> Funded by NIA R13AG063483-01
+
+__Chair__, Midwest Regional SACNAS Conference, Chicago, IL, USA. \hfill __2019__
+
+> A full-day, 200-person, free conference with multiple panels, workshops, student speakers, poster session, and keynote address; target audience is underrepresented groups in STEM and STEM-allied fields.  
+> Lead a team of 5 co-chairs.  
+> Raised $14,000 for conference expenses, with $2000 of travel funding for attendees.  
+
+__Co-chair__, Inaugural Midwest Regional SACNAS Conference, Chicago, IL, USA. \hfill __2018__
+
+> A full-day, 220-person, free conference with multiple panels, workshops, student speakers, poster session, and keynote address; target audience is underrepresented groups in STEM and STEM-allied fields.  
+> One of 5 co-chairs working with Conference Chair.  
+> Raised $16,000 for conference expenses, with $2500 of travel funding for attendees.  
+
+
+## __Organizations__
+
+__Project Co-Lead__, Bat1K: Longevity and Aging Working Group.\hfill __2023 - Present__
+
+__Working Group Leader__, GBatNet: "How Old is this Bat" Methylation Aging Working Group. \hfill __2022 - Present__
+
+__Regional Chair__, Bat1K: Western North America.\hfill __2021 - Present__
+
+__President__, \hfill __2018 - 2020__  
+Society for the Advancement of Chicanos and Native Americans in Science, University of Chicago.
+
+> Received the SACNAS National Chapter of the Year Award.  
+> Led the 2019 Midwest Regional SACNAS Conference Planning Team.  
+> Established the SACNAS Midwest Meeting Planning Commmittee for facilitating inter-chapter communication, organization, and conference planning.  
+
+__Treasurer__, \hfill __2017 - 2018__  
+Society for the Advancement of Chicanos and Native Americans in Science, University of Chicago.
+
+__Student Representative__, \hfill __2017 - 2018__  
+Deparment of Human Genetics, University of Chicago.
+
+## __Committees__
+
+__Member__, AGE Trainee Chapter: Diversity, Equity, Inclusion, and Outreach Committee. \hfill __2020 - 2022__
+
+__Member__, AGE Trainee Chapter: Grants, Meetings, and Opportunities Committee Member. \hfill __2020 - 2022__
+
+__Member__, Biological Sciences Division Diversity & Inclusion Representative Selection Committee, University of Chicago. \hfill __2017 - 2018__
+
+__Board Member__, Community Service Fund, Student Government, University of Chicago. \hfill __2015-2016__
+
+## __Panels and Presentations__
+
+__Panelist__, "How to be an Effective Student Leader", Midwest Regional SACNAS Conference, Chicago, IL.  \hfill __April 2019__
+
+> Part of a larger talk on how to start-up and lead an organization, panelists consisted of student leaders from across the Midwest answering questions from attendees.  
+
+__Panelist__, "How to Succeed in Grad School", Summer Graduate Research Program, University of Chicago.  \hfill __August 2018__
+
+> Panel focused on the experiences of panelists as underrepresented minorities in STEM, and how they navigated life through their PhDs. Panelists shared their advice and stories about how they overcame various obstacles in academia.  
+
+__Panelist__, "Discover UChicago", University of Chicago_ \hfill __2018__
+
+> The _Discover UChicago_ program provides undergraduates with an opportunity to come to the University for a week and learn about campus life and research. At the program's conclusion, current students come to give attendees general advice about professional skills, applying to graduate programs, and selecting mentors and programs.  
+
 
 # TEACHING AND MENTORING EXPERIENCE \hrulefill
 
@@ -287,11 +338,13 @@ University of Rochester.
 
 ## __Mentoring__
 
+__Supervisor__, Sarah Gabrielle Villa, B.sc., University of California-Berkeley  \hfill __2023 - Present__
+
 __Group leader__, _Thriving in Science_ Postdoc Support Group \hfill __2020__
 
-__Supervisor__, Diana Sam, B.sc., University of California-Berkeley  \hfill __2020 - Present__
+__Supervisor__, Diana Sam, B.sc., University of California-Berkeley  \hfill __2020 - 2021__
 
-__Supervisor__, Katia Renault, B.sc., University of California-Berkeley \hfill __2020 - Present__
+__Supervisor__, Katia Renault, B.sc., University of California-Berkeley \hfill __2020 - 2023__
 
 __Mentor__, Lily Rahnama, Ph.D., Molecular and Cellular Biology, University of California-Berkeley \hfill __2020 - Present__
 
@@ -353,84 +406,6 @@ __Volunteer Demonstrator__, _Stand Up for Science_, Field Museum, Chicago, IL. \
 
 > Organized and participated in various demonstrations, and spoke about science to members of the general public at the Field Museum.  
 
-# PROFESSIONAL ACTIVITIES \hrulefill
-
-## __Conferences__
-
-__Chair__, Gordon Research Seminar on the Biology of Aging, Sunday River, MA, USA. \hfill __2017 - 2019__
-
-> Organized the 2019 Biology of Aging Gordon Research Seminar, with 48 attendees.  
-> Co-chair: Victor Bustos.  
-> Raised $14,257.11, allowing reimbursements of registration and conference fees for all attendees; and travel reimbursements for speakers.  
-
-__Chair__, Midwest Regional SACNAS Conference, Chicago, IL, USA. \hfill __2019__
-
-> A full-day, 200-person, free conference with multiple panels, workshops, student speakers, poster session, and keynote address; target audience is underrepresented groups in STEM and STEM-allied fields.  
-> Lead a team of 5 co-chairs.  
-> Raised $14,000 for conference expenses, with $2000 of travel funding for attendees.  
-
-__Co-chair__, Inaugural Midwest Regional SACNAS Conference, Chicago, IL, USA. \hfill __2018__
-
-> A full-day, 220-person, free conference with multiple panels, workshops, student speakers, poster session, and keynote address; target audience is underrepresented groups in STEM and STEM-allied fields.  
-> One of 5 co-chairs working with Conference Chair.  
-> Raised $16,000 for conference expenses, with $2500 of travel funding for attendees.  
-
-
-## __Organizations__
-
-__President__, \hfill __2018 - 2020__  
-Society for the Advancement of Chicanos and Native Americans in Science, University of Chicago.
-
-> Received the SACNAS National Chapter of the Year Award.  
-> Organized various monthly professional development workshops catering to undergraduates, graduates, and post-docs.
-> Led the 2019 Midwest Regional SACNAS Conference Planning Team.  
-> Established the SACNAS Midwest Meeting Planning Commmittee for facilitating inter-chapter communication, organization, and conference planning.  
-
-__Treasurer__, \hfill __2017 - 2018__  
-Society for the Advancement of Chicanos and Native Americans in Science, University of Chicago.
-
-> Raised over $16,000.00.  
-> Received the SACNAS National Chapter Role Model Award for Outstanding Professional Development.  
-> Assisted in organizing various workshops for a primarily undergraduate audience; assisted team with organizing the first-ever Midwest Regional SACNAS Conference.  
-
-__Student Representative__, \hfill __2017 - 2018__  
-Deparment of Human Genetics, University of Chicago.
-
-> Planned and ran various events for Human Genetics students.  
-> Assisted with recruitment activities and planning.  
-> Assisted with the planning and running of the 2017 University of Chicago Molecular Biosciences Retreat.  
-
-
-## __Committees__
-
-__Member__, AGE Trainee Chapter: Diversity, Equity, Inclusion, and Outreach Committee. \hfill __2020 - 2022__
-
-__Member__, AGE Trainee Chapter: Grants, Meetings, and Opportunities Committee Member. \hfill __2020 - 2022__
-
-__Member__, Biological Sciences Division Diversity & Inclusion Representative Selection Committee, University of Chicago. \hfill __2017 - 2018__
-
-> Part of a 4-person committee tasked with designing the procedures for selecting a student representative for the nascent Diversity and Inclusion Committee.  
-
-__Board Member__, Community Service Fund, Student Government, University of Chicago. \hfill __2015-2016__
-
-> Member of a board selecting funding applications for community service projects targeted to external audiences.
-
-
-## __Panels and Presentations__
-
-__Panelist__, "How to be an Effective Student Leader", Midwest Regional SACNAS Conference, Chicago, IL.  \hfill __April 2019__
-
-> Part of a larger talk on how to start-up and lead an organization, panelists consisted of student leaders from across the Midwest answering questions from attendees.  
-
-__Panelist__, "How to Succeed in Grad School", Summer Graduate Research Program, University of Chicago.  \hfill __August 2018__
-
-> Panel focused on the experiences of panelists as underrepresented minorities in STEM, and how they navigated life through their PhDs. Panelists shared their advice and stories about how they overcame various obstacles in academia.  
-
-__Panelist__, "Discover UChicago", University of Chicago_ \hfill __2018__
-
-> The _Discover UChicago_ program provides undergraduates with an opportunity to come to the University for a week and learn about campus life and research. At the program's conclusion, current students come to give attendees general advice about professional skills, applying to graduate programs, and selecting mentors and programs.  
-
-
 # CERTIFICATES AND MINI-COURSES \hrulefill
 
 _Torrey Pines Academic Lab Management & Leadership Symposium_, \hfill __Spring 2021__
@@ -454,6 +429,8 @@ University of Chicago myCHOICE program.
 
 
 # PROFESSIONAL MEMBERSHIPS \hrulefill
+
+GBatNet \hfill __2022 - __
 
 International Society for Evolution, Medicine, and Public Health \hfill __2022 - __
 
@@ -480,11 +457,11 @@ __Epigenetics: __ ChIP-seq (IcE-ChIP, native, and denatured), ATAC-seq, Hi-C
 
 __Single Cell Sequencing: __ 10x Multiome (ATAC+Gene Expression)
 
-__Field Work: __ 106 hours of experience handling bats
+__Field Work: __ 413 hours of experience handling bats
 
 ___in vivo models: ___ Mice
 
-__Primary Cell Culture__, including primary cell line generation
+__Primary Cell Culture__, including primary cell line generation and iPSC generation
 
 __Genetic Engineering__  via CRISPR/_Cas9_ knock-outs
 
