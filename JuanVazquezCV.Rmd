@@ -137,6 +137,9 @@ Biology of Aging Gordon Research Conference. _Stress Response and a P53 Duplicat
 
 ## __Poster Presentations__  
 
+Biology of Aging Gordon Research Conference. __Vazquez JM__, Lauterbur ME, Fraser D, Buchalski M, Enard D, Sudmant PH. "A Model System for Studying the Evolution of Longevity-Associated Traits Using Functional Genomics." 01 - 07 July 2023, Castelldefels, Catalonia, Spain.
+
+
 Systems Biology of Aging Gordon Research Conference. __Vazquez JM__, Lauterbur ME, Fraser D, Buchalski M, Enard D, Sudmant PH. "A Model System for Studying the Evolution of Longevity-Associated Traits Using Functional Genomics." 29 May - 03 June 2022, Sunday River, MA, USA.
 
 Biology of Genomes. __Vazquez JM__, Lauterbur ME, Fraser D, Buchalski M, Enard D, Sudmant PH. "A Model System for Studying the Evolution of Longevity-Associated Traits Using Functional Genomics." 10-14 May 2022, Cold Spring Harbor, NY, USA.
@@ -215,7 +218,11 @@ Society for the Advancement of Chicanos/Hispanics and Native Americans in Scienc
 
 ## __Conferences__
 
-__Chair__, Gordon Research Seminar on the Biology of Aging, Sunday River, MA, USA. \hfill __2017 - 2019__
+__Discussion Leader__, Gordon Research Seminar - Biology of Aging, Castelldefels, Catalonia, Spain \hfill 2023
+
+> Session: Mentorship and Career Development
+
+__Chair__, Gordon Research Seminar - Biology of Aging, Sunday River, MA, USA. \hfill __2017 - 2019__
 
 > Co-chair: Victor Bustos.  
 > Funded by NIA R13AG063483-01
@@ -234,6 +241,8 @@ __Co-chair__, Inaugural Midwest Regional SACNAS Conference, Chicago, IL, USA. \h
 
 
 ## __Organizations__
+
+__Co-Lead__, Marine Mammal Research Collaborative Network. \hfill __2023 - Present__
 
 __Project Co-Lead__, Bat1K: Longevity and Aging Working Group.\hfill __2023 - Present__
 
