@@ -106,7 +106,7 @@ Capel S, Hamilton NM, Fraser D, Escalona M, Nguyen O, Sacco S, Sahasrabudhe R, S
 
 ## Manuscripts in preparation
 
-_ETA: Q4 2023_    __Vazquez JM__, Lauterbur ME, Maesen S, Rey C, Lo J, Etienne L, Enard D, Sudmant PH. "Evolution of non-allometric longevity and anti-viral immunity in nine Neartic _Myotis_ species revealed using chromosome-scale genome assemblies."
+_ETA: Q4 2023_    __Vazquez JM__, Lauterbur ME, Mottaghinia S, Rey C, Lo J, Etienne L, Enard D, Sudmant PH. "Evolution of non-allometric longevity and anti-viral immunity in nine Neartic _Myotis_ species revealed using chromosome-scale genome assemblies."
 
 
 _ETA: Q2 2024_    Lauterbur ME, __Vazquez JM__, Sandoval G, Etienne L, Sudmant PH, Enard D. "Rapid adaptation and conservation of immune and longevity genes in populations of Neartic _Myotis_ species."
