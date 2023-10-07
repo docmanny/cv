@@ -39,6 +39,7 @@ _University of Chicago_, Ph.D. Human Genetics \hfill __2015 - 2020__
 _University of Chicago_, M.sc. Human Genetics \hfill __2015 - 2020__
 
 > Laboratory of: Vincent J Lynch, Department of Human Genetics  
+> ___Department of Human Genetics "Thesis of the Year Award 2020"___  
 > Dissertation title: _The Role of Gene Duplicates in Resolving Peto's Paradox in_ Afrotheria _and_ Chiroptera.  
 > Committee Members: Marcelo Nobrega, Joseph Thorton, Yang Li, Vincent J Lynch, Yoav Gilad  
 
@@ -62,21 +63,22 @@ _Ph.D. Candidate_, Vincent J Lynch, University of Chicago \hfill __2016 - 2020__
 
 _Rotation_, Alex Ruthenberg, University of Chicago \hfill __Summer 2016__
 
-> Optimized an Internally Calibrated ChIP (ICeChip) methodology in _C. elegans_ to study H3K4me3 patterns at the onset of sexual maturity.
+> Optimized Internally Calibrated ChIP (ICeChip) in _C. elegans_ to study H3K4me3 patterns at the onset of sexual maturity.
 
 _Research Assistant_, Vera Gorbunova and Andrei Seluanov, \hfill __January 2014 - __  
 University of Rochester \hfill __May 2015__
 
-> Researched: oxidative stress tolerance across rodents using primary fibroblasts; the effects of SIRT6-knockouts on cell growth and tumorigenesis; self-assembled hydrogels using Naked Mole Rat-derived hyaluronic acid and their use in cancer and pluripotent stem cells; and the molecular mechanism of hyaluronic acid-mediated cancer resistance in the Naked Mole Rat (_Heterocephalus glaber_).  
+> Oxidative stress tolerance across rodents using primary fibroblasts; the effects of SIRT6-knockouts on cell growth and tumorigenesis; self-assembled hydrogels using Naked Mole Rat-derived hyaluronic acid and their use in cancer and pluripotent stem cells; and the molecular mechanism of hyaluronic acid-mediated cancer resistance in the Naked Mole Rat (_Heterocephalus glaber_).  
 
 # SCHOLARSHIP \hrulefill
 
 ## Journal Articles
 
+Curti J, Fraser D, Escalona M, Fairbairn CW, Sacco S, Sahasrabudhe R, Nguyen O, Seligmann W, Sudmant PH, Toffelmier E, __Vazquez JM__, Wayne R, Shaffer HB, Buchalski MR (2023). "A genome assembly of the Yuma myotis bat, _Myotis yumanensis_." _Journal of Heredity_ 10.1093/jhered/esad053.
 
-Karin BR, Arellano S, Wang L, Walzer K, Pomerantz A, __Vazquez JM__, Chatla K, Sudmant PH, Bach BH, Smith LL, McGuire JA. (2023). "Highly-multiplexed and efficient long-amplicon PacBio and Nanopore sequencing of hundreds of full mitochondrial genomes." _BMC Genomics_ 10.1186/s12864-023-09277-6.
+Karin BR, Arellano S, Wang L, Walzer K, Pomerantz A, __Vazquez JM__, Chatla K, Sudmant PH, Bach BH, Smith LL, McGuire JA (2023). "Highly-multiplexed and efficient long-amplicon PacBio and Nanopore sequencing of hundreds of full mitochondrial genomes." _BMC Genomics_ 10.1186/s12864-023-09277-6.
 
-Lauterbur ME, Cavassim Alves MI, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Obšteter J, Corrêa Pavinato VA, Pearson A, Peede D, Perez MF, Rodrigues MF, Smith CCR, Spence JP, Teterina A, Tittes S, Unneberg P, __Vazquez JM__, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I. (2023). "Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations." _eLife_ 10.7554/eLife.84874.1.
+Lauterbur ME, Cavassim Alves MI, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Obšteter J, Corrêa Pavinato VA, Pearson A, Peede D, Perez MF, Rodrigues MF, Smith CCR, Spence JP, Teterina A, Tittes S, Unneberg P, __Vazquez JM__, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I (2023). "Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations." _eLife_ 10.7554/eLife.84874.1.
 
 __Vazquez JM__, Kraft M, Lynch VJ (2022). "A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics." _bioRxiv_ 10.1101/2022.09.07.506958.
   
@@ -94,8 +96,24 @@ __Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in
 
 Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.”, _Aging_, 8 (5), 841-847.  
 
+## Reviews
+
+Li S, __Vazquez JM__, Sudmant PH (2023). "The Evolution of Aging and Lifespan." _Trends in Genetics_ 10.1016/j.tig.2023.08.005.
+
+## Manuscripts in Review
+
+Capel S, Hamilton NM, Fraser D, Escalona M, Nguyen O, Sacco S, Sahasrabudhe R, Seligmann W, __Vazquez JM__, Sudmant PH, Morison ML, Wayne R, Buchalski MR (2023). "Reference genome of Townsend’s big-eared bat, _Corynorhinus townsendii_." _Journal of Heredity_. _In review_.
+
+## Manuscripts in preparation
+
+_ETA: Q4 2023_    __Vazquez JM__, Lauterbur ME, Maesen S, Rey C, Lo J, Etienne L, Enard D, Sudmant PH. "Evolution of non-allometric longevity and anti-viral immunity in nine Neartic _Myotis_ species revealed using chromosome-scale genome assemblies."
+
+
+_ETA: Q2 2024_    Lauterbur ME, __Vazquez JM__, Sandoval G, Etienne L, Sudmant PH, Enard D. "Rapid adaptation and conservation of immune and longevity genes in populations of Neartic _Myotis_ species."
 
 ## __Invited Talks & Lectures__
+
+University of California, Berkeley, __IB 41: Marine Mammals__. _Cancer: A whale of a problem_. 25 October 2023.
 
 École Normale Supérieure de Lyon, Molecular Evolution Seminar Series. __A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics__. 11 July 2023.
 
@@ -110,6 +128,8 @@ Stanford University, _Resolving the Evolution of Longevity and Associated Traits
 Cal Poly Humboldt, _Resolving the Evolution of Longevity and Associated Traits in Bats Using Functional and Population Genomics_, 10 November 2021.
 
 ## __Oral Presentations__  
+
+Biodiversity Genomics Conference. _Evolution of Non-Allometric Longevity in a Clade of Long-Lived Bats Resolved Using Chromosome-Length Genome Assemblies_. 3 October 2023,  Virtual (International).
 
 Marine Mammal Symposium, University of California-Berkeley. _A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics_. 25 May 2023, Berkeley, CA, USA.
 
@@ -140,7 +160,6 @@ Biology of Aging Gordon Research Conference. _Stress Response and a P53 Duplicat
 ## __Poster Presentations__  
 
 Biology of Aging Gordon Research Conference. __Vazquez JM__, Lauterbur ME, Fraser D, Buchalski M, Enard D, Sudmant PH. "A Model System for Studying the Evolution of Longevity-Associated Traits Using Functional Genomics." 01 - 07 July 2023, Castelldefels, Catalonia, Spain.
-
 
 Systems Biology of Aging Gordon Research Conference. __Vazquez JM__, Lauterbur ME, Fraser D, Buchalski M, Enard D, Sudmant PH. "A Model System for Studying the Evolution of Longevity-Associated Traits Using Functional Genomics." 29 May - 03 June 2022, Sunday River, MA, USA.
 
@@ -294,6 +313,9 @@ __Panelist__, "Discover UChicago", University of Chicago_ \hfill __2018__
 
 ## __Teaching__
 
+
+__Instructor__, CCB Skills Seminar: _An overview of skills and pipelines for A-Z reproducible manuscripts_. \hfill __11/2023__
+
 __Organizer and Team Leader__, Cal Summer Genomics Experience. \hfill __Spring 2022__
 
 __Team Leader__, Cal Summer Genomics Experience. \hfill __Spring 2021__
@@ -351,19 +373,25 @@ University of Rochester.
 
 __Supervisor__, Sarah Gabrielle Villa, B.sc., University of California-Berkeley  \hfill __2023 - Present__
 
-__Group leader__, _Thriving in Science_ Postdoc Support Group \hfill __2020__
+__Group leader__, _Thriving in Science_ Postdoc Support Group \hfill __2020 - 2021__
 
 __Supervisor__, Diana Sam, B.sc., University of California-Berkeley  \hfill __2020 - 2021__
 
 __Supervisor__, Katia Renault, B.sc., University of California-Berkeley \hfill __2020 - 2023__
 
+> PhD Student, Department of Developmental and Regenerative Biology, Harvard University.
+> Mentor for 2023 NSF GRFP - Awarded.
+
 __Mentor__, Lily Rahnama, Ph.D., Molecular and Cellular Biology, University of California-Berkeley \hfill __2020 - Present__
 
-__Mentor__, Nadya Ali, Ph.D, Committee on Evolutionary Biology, University of Chicago \hfill __2018 - 2022__
+__Supervisor__, Nadya Ali, Ph.D, Committee on Evolutionary Biology, University of Chicago \hfill __2018 - 2022__
 
 __Supervisor__, Stephanie E. Bulls, M.S, University of South Alabama. \hfill __2019-2020__
 
 __Supervisor__, Eric Chen, B.s, University of Chicago. \hfill __2018 - 2019__
+
+> PhD Student, Department of Developmental and Regenerative Biology, Harvard University
+> Mentor for 2019 NSF GRFP - Honorable Mention.
 
 
 # MEDIA, SERVICE, AND OUTREACH \hrulefill
@@ -462,24 +490,24 @@ __Languages: __ English (native), Spanish (native), French (fluent)
 
 __Programming: __ Python (expert), R (expert), Bash (expert), Julia (novice), Rust (novice)
 
-__DNA & RNA Sequencing: __ short-read (Illumina) and 3rd Generation (Oxford Nanopore and PacBio SMRT-Seq2)
+__DNA & RNA Sequencing: __ short-read (Illumina) and 3rd Generation (Oxford Nanopore, PacBio CCS)
 
-__Epigenetics: __ ChIP-seq (IcE-ChIP, native, and denatured), ATAC-seq, Hi-C
+__Epigenetics: __ ChIP-seq (IcE-ChIP, native, and denatured), ATAC-seq, Hi-C, bisulfite-seq
 
 __Single Cell Sequencing: __ 10x Multiome (ATAC+Gene Expression)
 
-__Field Work: __ 413 hours of experience handling bats
+__Field Work: __ 425 hours of experience handling bats
 
 ___in vivo models: ___ Mice
 
 __Primary Cell Culture__, including primary cell line generation and iPSC generation
 
-__Genetic Engineering__  via CRISPR/_Cas9_ knock-outs
+__Genetic Engineering__  via CRISPR-_Cas9_ knock-outs
 
 __Microscopy: __ Confocal Microscopy (Leica SP6, SP8); live cell imaging (Olympus Viva View FL)
 
-__Flow Cytometry: __ Cell-cycle (EdU-Hoescht, Fucci), TUNEL, FACS
+__Flow Cytometry & FACS: __ Cell-cycle (EdU-Hoescht, Fucci), TUNEL, Flow Karyotyping
 
-__Molecular Biology: __ qPCR (RT, ChIP); Western Blot; high molecular weight DNA extraction
+__Molecular Biology: __ qPCR; western blot; high molecular weight DNA extraction
 
-__Other skills and interests: __ Sailing, hiking, guitar, public speaking
+__Other skills and interests: __ Sailing, backpacking, guitar, public speaking
