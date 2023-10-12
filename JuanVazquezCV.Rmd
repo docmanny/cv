@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Juan Manuel Vazquez
 orcid: "orcid.org/0000-0002-8341-2390"
-jobtitle: "Postdoctoral Researcher - Sudmant Lab · University of California, Berkeley"
+jobtitle: "Postdoctoral Fellow - Sudmant Lab · University of California, Berkeley"
 address: "4111 Valley Life Sciences MC3140 · Berkeley · CA 94720-3140"
 fontawesome: yes
 email: juan@vazquez.bio
@@ -74,42 +74,42 @@ University of Rochester \hfill __May 2015__
 
 ## Journal Articles
 
-Curti J, Fraser D, Escalona M, Fairbairn CW, Sacco S, Sahasrabudhe R, Nguyen O, Seligmann W, Sudmant PH, Toffelmier E, __Vazquez JM__, Wayne R, Shaffer HB, Buchalski MR (2023). "A genome assembly of the Yuma myotis bat, _Myotis yumanensis_." _Journal of Heredity_ 10.1093/jhered/esad053.
+1. Curti J, Fraser D, Escalona M, Fairbairn CW, Sacco S, Sahasrabudhe R, Nguyen O, Seligmann W, Sudmant PH, Toffelmier E, __Vazquez JM__, Wayne R, Shaffer HB, Buchalski MR (2023). "A genome assembly of the Yuma myotis bat, _Myotis yumanensis_." _Journal of Heredity_ 10.1093/jhered/esad053.
 
-Karin BR, Arellano S, Wang L, Walzer K, Pomerantz A, __Vazquez JM__, Chatla K, Sudmant PH, Bach BH, Smith LL, McGuire JA (2023). "Highly-multiplexed and efficient long-amplicon PacBio and Nanopore sequencing of hundreds of full mitochondrial genomes." _BMC Genomics_ 10.1186/s12864-023-09277-6.
+1. Karin BR, Arellano S, Wang L, Walzer K, Pomerantz A, __Vazquez JM__, Chatla K, Sudmant PH, Bach BH, Smith LL, McGuire JA (2023). "Highly-multiplexed and efficient long-amplicon PacBio and Nanopore sequencing of hundreds of full mitochondrial genomes." _BMC Genomics_ 10.1186/s12864-023-09277-6.
 
-Lauterbur ME, Cavassim Alves MI, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Obšteter J, Corrêa Pavinato VA, Pearson A, Peede D, Perez MF, Rodrigues MF, Smith CCR, Spence JP, Teterina A, Tittes S, Unneberg P, __Vazquez JM__, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I (2023). "Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations." _eLife_ 10.7554/eLife.84874.1.
+1. Lauterbur ME, Cavassim Alves MI, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Obšteter J, Corrêa Pavinato VA, Pearson A, Peede D, Perez MF, Rodrigues MF, Smith CCR, Spence JP, Teterina A, Tittes S, Unneberg P, __Vazquez JM__, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I (2023). "Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations." _eLife_ 10.7554/eLife.84874.1.
 
-__Vazquez JM__, Kraft M, Lynch VJ (2022). "A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics." _bioRxiv_ 10.1101/2022.09.07.506958.
+1. __Vazquez JM__, Kraft M, Lynch VJ (2022). "A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics." _bioRxiv_ 10.1101/2022.09.07.506958.
   
-__Vazquez JM__, Pena MT, Muhammad B, Kraft M, Adams LB, Lynch VJ (2022). "Parallel evolution of reduced cancer risk and tumor suppressor duplications in Xenarthra." _eLife_ 10.7554/eLife.82558.
+1. __Vazquez JM__, Pena MT, Muhammad B, Kraft M, Adams LB, Lynch VJ (2022). "Parallel evolution of reduced cancer risk and tumor suppressor duplications in Xenarthra." _eLife_ 10.7554/eLife.82558.
 
-Yamamoto R\*, Chung R\*, __Vazquez JM__, Sheng H, Steinberg P, Ioannidis NM, Sudmant PH (2021). "Tissue-specific impacts of aging and genetics on gene expression patterns in humans." _Nature Communications_ 10.1038/s41467-022-33509-0.
+1. Yamamoto R\*, Chung R\*, __Vazquez JM__, Sheng H, Steinberg P, Ioannidis NM, Sudmant PH (2021). "Tissue-specific impacts of aging and genetics on gene expression patterns in humans." _Nature Communications_ 10.1038/s41467-022-33509-0.
 
-Kolora SRR\*, Owens GL\*, __Vazquez JM__, Stubbs A, Chatla K, Jainese C, Seeto K, McCrea M, Sandel MW, Vianna JA, Maslenikov K, Bachtrog D, Orr JW, Love M, Sudmant PH (2021). "Origins and evolution of extreme lifespan in Pacific Ocean rockfishes." _Science_ 10.1126/science.abg5332.
+1. Kolora SRR\*, Owens GL\*, __Vazquez JM__, Stubbs A, Chatla K, Jainese C, Seeto K, McCrea M, Sandel MW, Vianna JA, Maslenikov K, Bachtrog D, Orr JW, Love M, Sudmant PH (2021). "Origins and evolution of extreme lifespan in Pacific Ocean rockfishes." _Science_ 10.1126/science.abg5332.
 
-Glaberman S, Bulls SE, __Vazquez JM__, Chiari Y, Lynch VJ (2021). "Concurrent evolution of anti-aging gene duplications and cellular phenotypes in long-lived turtles." _Genome Biology and Evolution_ 10.1093/gbe/evab244.
+1. Glaberman S, Bulls SE, __Vazquez JM__, Chiari Y, Lynch VJ (2021). "Concurrent evolution of anti-aging gene duplications and cellular phenotypes in long-lived turtles." _Genome Biology and Evolution_ 10.1093/gbe/evab244.
 
-__Vazquez JM__, and Lynch VJ (2021). “Pervasive Duplication of Tumor Suppressors in Afrotherians during the Evolution of Large Bodies and Reduced Cancer Risk.” _eLife_ 2021;10:e65041.
+1. __Vazquez JM__, and Lynch VJ (2021). “Pervasive Duplication of Tumor Suppressors in Afrotherians during the Evolution of Large Bodies and Reduced Cancer Risk.” _eLife_ 2021;10:e65041.
 
-__Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in Elephants Is Upregulated by TP53 to Induce Apoptosis in Response to DNA Damage.” _Cell Reports_, 24(7), 1765-1776.  
+1. __Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in Elephants Is Upregulated by TP53 to Induce Apoptosis in Response to DNA Damage.” _Cell Reports_, 24(7), 1765-1776.  
 
-Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.”, _Aging_, 8 (5), 841-847.  
+1. Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.”, _Aging_, 8 (5), 841-847.  
 
 ## Reviews
 
-Li S, __Vazquez JM__, Sudmant PH (2023). "The Evolution of Aging and Lifespan." _Trends in Genetics_ 10.1016/j.tig.2023.08.005.
+1. Li S, __Vazquez JM__, Sudmant PH (2023). "The Evolution of Aging and Lifespan." _Trends in Genetics_ 10.1016/j.tig.2023.08.005.
 
 ## Manuscripts in Review
 
-Capel S, Hamilton NM, Fraser D, Escalona M, Nguyen O, Sacco S, Sahasrabudhe R, Seligmann W, __Vazquez JM__, Sudmant PH, Morison ML, Wayne R, Buchalski MR (2023). "Reference genome of Townsend’s big-eared bat, _Corynorhinus townsendii_." _Journal of Heredity_. _In review_.
+1. Capel S, Hamilton NM, Fraser D, Escalona M, Nguyen O, Sacco S, Sahasrabudhe R, Seligmann W, __Vazquez JM__, Sudmant PH, Morison ML, Wayne R, Buchalski MR (2023). "Reference genome of Townsend’s big-eared bat, _Corynorhinus townsendii_." _Journal of Heredity_. _In review_.
 
 ## Manuscripts in preparation
 
-_ETA: Q4 2023_    __Vazquez JM__, Lauterbur ME, Mottaghinia S, Rey C, Lo J, Etienne L, Enard D, Sudmant PH. "Evolution of non-allometric longevity and anti-viral immunity in nine Neartic _Myotis_ species revealed using chromosome-scale genome assemblies."
+1. _ETA: Q4 2023_    __Vazquez JM__, Lauterbur ME, Mottaghinia S, Rey C, Lo J, Etienne L, Enard D, Sudmant PH. "Evolution of non-allometric longevity and anti-viral immunity in nine Neartic _Myotis_ species revealed using chromosome-scale genome assemblies."
 
 
-_ETA: Q2 2024_    Lauterbur ME, __Vazquez JM__, Sandoval G, Etienne L, Sudmant PH, Enard D. "Rapid adaptation and conservation of immune and longevity genes in populations of Neartic _Myotis_ species."
+1. _ETA: Q2 2024_    Lauterbur ME, __Vazquez JM__, Sandoval G, Etienne L, Sudmant PH, Enard D. "Rapid adaptation and conservation of immune and longevity genes in populations of Neartic _Myotis_ species."
 
 ## __Invited Talks & Lectures__
 
@@ -237,6 +237,17 @@ Society for the Advancement of Chicanos/Hispanics and Native Americans in Scienc
 
 # PROFESSIONAL ACTIVITIES \hrulefill
 
+## Peer Review
+
+__Reviewer__, Scientific Data \hfill 2023 - Present
+
+__Review Editor__, Frontiers in Aging, Genomics and Epigenomics of Aging Section \hfill 2021 - Present
+
+__Reviewer__, Gene \hfill 2021 - Present
+
+__Reviewer__, Yale Ciencia Academy Fellowship \hfill 2020 - Present
+
+
 ## __Conferences__
 
 __Discussion Leader__, Gordon Research Seminar - Biology of Aging, Castelldefels, Catalonia, Spain \hfill 2023
@@ -259,7 +270,6 @@ __Co-chair__, Inaugural Midwest Regional SACNAS Conference, Chicago, IL, USA. \h
 > A full-day, 220-person, free conference with multiple panels, workshops, student speakers, poster session, and keynote address; target audience is underrepresented groups in STEM and STEM-allied fields.  
 > One of 5 co-chairs working with Conference Chair.  
 > Raised $16,000 for conference expenses, with $2500 of travel funding for attendees.  
-
 
 ## __Organizations__
 

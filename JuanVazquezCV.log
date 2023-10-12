@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.7)  7 OCT 2023 07:43
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.7)  11 OCT 2023 21:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -479,12 +479,12 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 115.
 [1
 
-] [2] [3] [4] [5] [6] [7]
-Underfull \hbox (badness 1107) in paragraph at lines 850--854
+] [2] [3] [4] [5] [6] [7] [8]
+Underfull \hbox (badness 1107) in paragraph at lines 883--887
 []\TU/lmr/bx/n/10 Nature\TU/lmr/m/n/10 , Career News: Woolston, Chris. “Junior researchers hit by coronavirus-triggered hiring
  []
 
-[8] [9] [10] [11] 
+[9] [10] [11] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./JuanVazquezCV.aux)
  ***********
@@ -492,15 +492,15 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `JuanVazquezCV.out' has not changed.
-(rerunfilecheck)             Checksum: 53F749225E9A0C1A8FE79566F0CC03C9;4545.
+(rerunfilecheck)             Checksum: BA777ADF9A5128A7AC97B6CF83D12E76;4663.
  ) 
 Here is how much of TeX's memory you used:
- 15095 strings out of 477590
- 279592 string characters out of 5818396
- 1934422 words of memory out of 5000000
- 36084 multiletter control sequences out of 15000+600000
+ 15098 strings out of 477590
+ 279667 string characters out of 5818396
+ 1935422 words of memory out of 5000000
+ 36087 multiletter control sequences out of 15000+600000
  565827 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 93i,12n,132p,1202b,387s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,12n,132p,1202b,413s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on JuanVazquezCV.pdf (11 pages).
