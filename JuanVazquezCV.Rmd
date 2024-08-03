@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Juan Manuel Vazquez
 orcid: "orcid.org/0000-0002-8341-2390"
-jobtitle: "Postdoctoral Fellow - Sudmant Lab · University of California, Berkeley"
+jobtitle: "K99 Postdoctoral Fellow - Sudmant Lab · University of California, Berkeley"
 address: "4111 Valley Life Sciences MC3140 · Berkeley · CA 94720-3140"
 fontawesome: yes
 email: juan@vazquez.bio
@@ -74,23 +74,29 @@ University of Rochester \hfill __May 2015__
 
 ## Journal Articles
 
-1. Curti J, Fraser D, Escalona M, Fairbairn CW, Sacco S, Sahasrabudhe R, Nguyen O, Seligmann W, Sudmant PH, Toffelmier E, __Vazquez JM__, Wayne R, Shaffer HB, Buchalski MR (2023). "A genome assembly of the Yuma myotis bat, _Myotis yumanensis_." _Journal of Heredity_ 10.1093/jhered/esad053.
+1. Ali N, Amelkina O, Santymire RM, Koepfli KP, Comizzoli P & __Vazquez JM__ (2024). "Semen proteome and transcriptome of the endangered black-footed ferret (_Mustela nigripes_) show association with the environment and fertility outcome." _Scientific Reports_, 10.1038/s41598-024-57096-w.
 
-1. Karin BR, Arellano S, Wang L, Walzer K, Pomerantz A, __Vazquez JM__, Chatla K, Sudmant PH, Bach BH, Smith LL, McGuire JA (2023). "Highly-multiplexed and efficient long-amplicon PacBio and Nanopore sequencing of hundreds of full mitochondrial genomes." _BMC Genomics_ 10.1186/s12864-023-09277-6.
+1. Capel S, Hamilton NM, Fraser D, Escalona M, Nguyen O, Sacco S, Sahasrabudhe R, Seligmann W, __Vazquez JM__, Sudmant PH, Morison ML, Wayne R, Buchalski MR (2024). "Reference genome of Townsend’s big-eared bat, _Corynorhinus townsendii_." _Journal of Heredity_, 10.1093/jhered/esad078.
 
-1. Lauterbur ME, Cavassim Alves MI, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Obšteter J, Corrêa Pavinato VA, Pearson A, Peede D, Perez MF, Rodrigues MF, Smith CCR, Spence JP, Teterina A, Tittes S, Unneberg P, __Vazquez JM__, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I (2023). "Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations." _eLife_ 10.7554/eLife.84874.1.
+1.  Allen KA, Torres-Velarde JM, __Vazquez JM__, Moreno-Santillan DD, Sudmant PH, Vazquez-Medina JP (2024). "Hypoxia blunts angiogenic signaling and upregulates the antioxidant system in elephant seal endothelial cells." _BMC Biology_, 10.1186/s12915-024-01892-3.
 
-1. __Vazquez JM__, Kraft M, Lynch VJ (2022). "A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics." _bioRxiv_ 10.1101/2022.09.07.506958.
+1. Curti J, Fraser D, Escalona M, Fairbairn CW, Sacco S, Sahasrabudhe R, Nguyen O, Seligmann W, Sudmant PH, Toffelmier E, __Vazquez JM__, Wayne R, Shaffer HB, Buchalski MR (2023). "A genome assembly of the Yuma myotis bat, _Myotis yumanensis_." _Journal of Heredity_, 10.1093/jhered/esad053.
+
+1. Karin BR, Arellano S, Wang L, Walzer K, Pomerantz A, __Vazquez JM__, Chatla K, Sudmant PH, Bach BH, Smith LL, McGuire JA (2023). "Highly-multiplexed and efficient long-amplicon PacBio and Nanopore sequencing of hundreds of full mitochondrial genomes." _BMC Genomics_, 10.1186/s12864-023-09277-6.
+
+1. Lauterbur ME, Cavassim Alves MI, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Obšteter J, Corrêa Pavinato VA, Pearson A, Peede D, Perez MF, Rodrigues MF, Smith CCR, Spence JP, Teterina A, Tittes S, Unneberg P, __Vazquez JM__, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I (2023). "Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations." _eLife_, 10.7554/eLife.84874.1.
+
+1. __Vazquez JM__, Kraft M, Lynch VJ (2022). "A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics." _bioRxiv_, 10.1101/2022.09.07.506958.
   
-1. __Vazquez JM__, Pena MT, Muhammad B, Kraft M, Adams LB, Lynch VJ (2022). "Parallel evolution of reduced cancer risk and tumor suppressor duplications in Xenarthra." _eLife_ 10.7554/eLife.82558.
+1. __Vazquez JM__, Pena MT, Muhammad B, Kraft M, Adams LB, Lynch VJ (2022). "Parallel evolution of reduced cancer risk and tumor suppressor duplications in Xenarthra." _eLife_, 10.7554/eLife.82558.
 
-1. Yamamoto R\*, Chung R\*, __Vazquez JM__, Sheng H, Steinberg P, Ioannidis NM, Sudmant PH (2021). "Tissue-specific impacts of aging and genetics on gene expression patterns in humans." _Nature Communications_ 10.1038/s41467-022-33509-0.
+1. Yamamoto R\*, Chung R\*, __Vazquez JM__, Sheng H, Steinberg P, Ioannidis NM, Sudmant PH (2021). "Tissue-specific impacts of aging and genetics on gene expression patterns in humans." _Nature Communications_, 10.1038/s41467-022-33509-0.
 
-1. Kolora SRR\*, Owens GL\*, __Vazquez JM__, Stubbs A, Chatla K, Jainese C, Seeto K, McCrea M, Sandel MW, Vianna JA, Maslenikov K, Bachtrog D, Orr JW, Love M, Sudmant PH (2021). "Origins and evolution of extreme lifespan in Pacific Ocean rockfishes." _Science_ 10.1126/science.abg5332.
+1. Kolora SRR\*, Owens GL\*, __Vazquez JM__, Stubbs A, Chatla K, Jainese C, Seeto K, McCrea M, Sandel MW, Vianna JA, Maslenikov K, Bachtrog D, Orr JW, Love M, Sudmant PH (2021). "Origins and evolution of extreme lifespan in Pacific Ocean rockfishes." _Science_, 10.1126/science.abg5332.
 
-1. Glaberman S, Bulls SE, __Vazquez JM__, Chiari Y, Lynch VJ (2021). "Concurrent evolution of anti-aging gene duplications and cellular phenotypes in long-lived turtles." _Genome Biology and Evolution_ 10.1093/gbe/evab244.
+1. Glaberman S, Bulls SE, __Vazquez JM__, Chiari Y, Lynch VJ (2021). "Concurrent evolution of anti-aging gene duplications and cellular phenotypes in long-lived turtles." _Genome Biology and Evolution_, 10.1093/gbe/evab244.
 
-1. __Vazquez JM__, and Lynch VJ (2021). “Pervasive Duplication of Tumor Suppressors in Afrotherians during the Evolution of Large Bodies and Reduced Cancer Risk.” _eLife_ 2021;10:e65041.
+1. __Vazquez JM__, and Lynch VJ (2021). “Pervasive Duplication of Tumor Suppressors in Afrotherians during the Evolution of Large Bodies and Reduced Cancer Risk.” _eLife_, 2021;10:e65041.
 
 1. __Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in Elephants Is Upregulated by TP53 to Induce Apoptosis in Response to DNA Damage.” _Cell Reports_, 24(7), 1765-1776.  
 
@@ -100,34 +106,26 @@ University of Rochester \hfill __May 2015__
 
 1. Li S, __Vazquez JM__, Sudmant PH (2023). "The Evolution of Aging and Lifespan." _Trends in Genetics_ 10.1016/j.tig.2023.08.005.
 
+<!--
 ## Manuscripts in Review
 
-1. Capel S, Hamilton NM, Fraser D, Escalona M, Nguyen O, Sacco S, Sahasrabudhe R, Seligmann W, __Vazquez JM__, Sudmant PH, Morison ML, Wayne R, Buchalski MR (2023). "Reference genome of Townsend’s big-eared bat, _Corynorhinus townsendii_." _Journal of Heredity_. _In review_.
+-->
 
 ## Manuscripts in preparation
 
-1. _ETA: Q4 2023_    __Vazquez JM__, Lauterbur ME, Mottaghinia S, Rey C, Lo J, Etienne L, Enard D, Sudmant PH. "Evolution of non-allometric longevity and anti-viral immunity in nine Neartic _Myotis_ species revealed using chromosome-scale genome assemblies."
+1. _ETA: September 2024_    __Vazquez JM__, Lauterbur ME, Mottaghinia S, Rey C, Lo J, Etienne L, Enard D, Sudmant PH. "Extensive longevity and DNA virus-driven adaptation in nearctic Myotis."
 
+## Invited Talks
 
-1. _ETA: Q2 2024_    Lauterbur ME, __Vazquez JM__, Sandoval G, Etienne L, Sudmant PH, Enard D. "Rapid adaptation and conservation of immune and longevity genes in populations of Neartic _Myotis_ species."
-
-## __Invited Talks & Lectures__
-
-University of California, Berkeley, __IB 41: Marine Mammals__. _Cancer: A whale of a problem_. 25 October 2023.
+Stanford-Berkeley-UCSF Next-Generation Faculty Symposium. _Uncovering novel pathways to longevity by studying lifespan at its extremes_. 17 November 2023, Virtual.
 
 École Normale Supérieure de Lyon, Molecular Evolution Seminar Series. __A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics__. 11 July 2023.
-
-University of California, Berkeley, __IB 169: Evolutionary Medicine__. _Evolutionary Dynamics of Cancer I: From Single Cells to Elephants and Whales_. 11 April 2023.
-
-San Jose State University, _A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics_. 04 October 2022.
 
 North American Society for Bat Research. _Bat to the Future: Bat Biology Beyond Genomes._ 07 August 2022, Austin, TX, USA.
 
 Stanford University, _Resolving the Evolution of Longevity and Associated Traits in Bats Using Functional and Population Genomics_, 13 June 2022.
 
-Cal Poly Humboldt, _Resolving the Evolution of Longevity and Associated Traits in Bats Using Functional and Population Genomics_, 10 November 2021.
-
-## __Oral Presentations__  
+## Oral Presentations  
 
 Biodiversity Genomics Conference. _Evolution of non-allometric longevity and anti-viral immunity in nine Neartic_ Myotis _species revealed using chromosome-scale genome assemblies_. 3 October 2023,  Virtual (International).
 
@@ -173,6 +171,8 @@ Biology of Aging Gordon Research Seminar and Conference. __Vazquez JM__, Lynch V
 # FUNDING, AWARDS, AND FELLOWSHIPS \hrulefill
 
 ## __Fellowships, Scholarships, and Training Grants__
+
+__NIH K99/R00 MOSAIC (1K99AG088361)__ \hfill __2024-2026__
 
 __NIA T32 Trainee__ \hfill __2023 - 2024__
 
@@ -321,16 +321,37 @@ __Panelist__, "Discover UChicago", University of Chicago_ \hfill __2018__
 
 # TEACHING AND MENTORING EXPERIENCE \hrulefill
 
-## __Teaching__
 
+## __Guest Lectures__
 
-__Instructor__, CCB Skills Seminar: _An overview of skills and pipelines for A-Z reproducible manuscripts_. \hfill __11/2023__
+Skyline College, __BIOL 230: 	Introduction to Cell Biology: Core II__. _Introduction to Cellular Stress Response_. 13 May 2024.
+
+University of California, Berkeley, __IB 41: Marine Mammals__. _Cancer: A whale of a problem_. 25 October 2023.
+
+University of California, Berkeley, __IB 169: Evolutionary Medicine__. _Evolutionary Dynamics of Cancer I: From Single Cells to Elephants and Whales_. 11 April 2023.
+
+San Jose State University, _A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics_. 04 October 2022.
+
+Cal Poly Humboldt, _Resolving the Evolution of Longevity and Associated Traits in Bats Using Functional and Population Genomics_, 10 November 2021.
+
+## Classes
 
 __Organizer and Team Leader__, Cal Summer Genomics Experience. \hfill __Spring 2022__
 
 __Team Leader__, Cal Summer Genomics Experience. \hfill __Spring 2021__
 
 > Organized and ran a pilot experimental field genomics class held over 3 days. 12 students formed teams led by instructors to address unique genetics questions. Students collected samples in the field, then extracted DNA and sequenced genes of interest using Nanopore sequencing.
+
+__Teacher__, Ideal Student Workshop and Test Prep, 8th Grade Class, \hfill __Spring 2019__  
+Swift Elementary School.
+
+> Taught a 10-week, 1-hour series on executive life skills, study skills, and practice for taking standardize tests such as the NWEA-MAP exam. Classes were a combination of experiential, game-based learning; group work; and interactive lectures.  
+
+
+## __Workshops__
+
+__Instructor__, CCB Skills Seminar: _An overview of skills and pipelines for A-Z reproducible manuscripts_. \hfill __11/2023__
+
 
 __Volunteer Workshop Aide__, StdPopSim Introductory Workshop - Australasia. \hfill __2021__
 
@@ -343,11 +364,6 @@ __Organizer__, Mock Interview Prep for Prospective Ph.D. Students, \hfill __01/2
 __Tutor & Workshop Leader__, Educational Endeavors. \hfill __2016 - 2020__
 
 > Over 670 hours of experience teaching and tutoring students at the high school and undergraduate levels. Tutored in all subjects ranging from STEM fields (Biology, Physical Sciences, Math, Forensics), to language arts (English, Spanish, French) and social sciences (History, Economics) at regular, AP, and collegiate levels. Assisted with and led various tutoring workshops with students from the Daniel Murphy Scholarship Fund and LINK Unlimited.  
-
-__Teacher__, Ideal Student Workshop and Test Prep, 8th Grade Class, \hfill __Spring 2019__  
-Swift Elementary School.
-
-> Taught a 10-week, 1-hour series on executive life skills, study skills, and practice for taking standardize tests such as the NWEA-MAP exam. Classes were a combination of experiential, game-based learning; group work; and interactive lectures.  
 
 __Teaching Assistant__, BIOS 20235 Biological Systems, University of Chicago. \hfill __Winter 2019__
 
