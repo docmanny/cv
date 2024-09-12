@@ -74,7 +74,9 @@ University of Rochester \hfill __May 2015__
 
 ## Journal Articles
 
-1. Ali N, Amelkina O, Santymire RM, Koepfli KP, Comizzoli P & __Vazquez JM__ (2024). "Semen proteome and transcriptome of the endangered black-footed ferret (_Mustela nigripes_) show association with the environment and fertility outcome." _Scientific Reports_, 10.1038/s41598-024-57096-w.
+_\* indicates equal contribution_; ___^†^__ indicates senior author_
+
+1. Ali N\*, Amelkina O\*, Santymire RM, Koepfli KP, Comizzoli P & __Vazquez JM^†^__ (2024). "Semen proteome and transcriptome of the endangered black-footed ferret (_Mustela nigripes_) show association with the environment and fertility outcome." _Scientific Reports_, 10.1038/s41598-024-57096-w.
 
 1. Capel S, Hamilton NM, Fraser D, Escalona M, Nguyen O, Sacco S, Sahasrabudhe R, Seligmann W, __Vazquez JM__, Sudmant PH, Morison ML, Wayne R, Buchalski MR (2024). "Reference genome of Townsend’s big-eared bat, _Corynorhinus townsendii_." _Journal of Heredity_, 10.1093/jhered/esad078.
 
@@ -111,9 +113,15 @@ University of Rochester \hfill __May 2015__
 
 -->
 
-## Manuscripts in preparation
+## Accepted Manuscripts
 
-1. _ETA: September 2024_    __Vazquez JM__, Lauterbur ME, Mottaghinia S, Rey C, Lo J, Etienne L, Enard D, Sudmant PH. "Extensive longevity and DNA virus-driven adaptation in nearctic Myotis."
+1. __Vazquez JM__, Khudyakov J, Madelaire CB, Godard-Codding CA, Lam EK, Piotrowski E, Merrill GB, Routti H, Conner J, Wisse J,Allen KN, Blevin P, Spyropoulos DD, Goksøyr A and Vazquez-Medina JP (2024). "_Ex vivo_ and _In vitro_ Methods as a Platform for Studying Anthropogenic Effects on Marine Mammals: Four challenges and how to meet them." _Frontiers in Marine Science_.
+
+## Manuscripts in Preparation
+
+1. _ETA: September 2024_\hfill__Vazquez JM__, Lauterbur ME, Mottaghinia S, Bucci M, Fraser D, Gray-Sandoval G, Haidar ZR, Kohler W, Lama T, LeCorf A, Maesen S, McMillan D, Lo J, Miller R, Rey C, Singer M, Slocum K, Thomas W, Tyburek J, Buchalski M, Etienne L, Enard D, Sudmant PH. "Extensive longevity and DNA virus-driven adaptation in nearctic Myotis."
+
+1. _ETA: September 2024_\hfill Le Corf A, Maesen S, Loyer C, __Vazquez JM__, Lauterbur M, Grey-Sandoval G, Cimarelli A, Rey C, Sudmant PH, Enard D, Etienne L. "Genomic and functional adaptations in guanylate-binding protein 5 (GBP5) highlight specificities of bat antiviral innate immunity."
 
 ## Invited Talks
 
@@ -172,13 +180,13 @@ Biology of Aging Gordon Research Seminar and Conference. __Vazquez JM__, Lynch V
 
 ## __Fellowships, Scholarships, and Training Grants__
 
-__NIH K99/R00 MOSAIC (1K99AG088361)__ \hfill __2024-2026__
+__NIH K99/R00 MOSAIC (1K99AG088361)__ \hfill __2024 - 2026__
 
 __NIA T32 Trainee__ \hfill __2023 - 2024__
 
-NIH \hfill R13AG063483-01
+> NIH \hfill R13AG063483-01
 
-__NSF Postdoctoral Research Fellowship in Biology (#2109915)__. \hfill __2021-2023__
+__NSF Postdoctoral Research Fellowship in Biology (#2109915)__. \hfill __2021 - 2023__
 
 _A Novel Model System for Studying the Evolution and Genomics of Longevity_
 
@@ -191,7 +199,7 @@ __NSF Postdoctoral Research Fellowship in Biology.__ \hfill __2020__
 __Yale Ciencia Academy Fellowship__, \hfill __2019__  
 Yale University  
 
-__NIGMS R25 Trainee: Initiative to Maximize Student Development __, \hfill __2015-2017__  
+__NIGMS R25 Trainee: Initiative to Maximize Student Development __, \hfill __2015 - 2017__  
 University of Chicago \hfill 5R25GM109439-03
 
 __Howard Bryant Memorial Scholarship__, \hfill __2012 - 2014__  
@@ -302,7 +310,7 @@ __Member__, AGE Trainee Chapter: Grants, Meetings, and Opportunities Committee M
 
 __Member__, Biological Sciences Division Diversity & Inclusion Representative Selection Committee, University of Chicago. \hfill __2017 - 2018__
 
-__Board Member__, Community Service Fund, Student Government, University of Chicago. \hfill __2015-2016__
+__Board Member__, Community Service Fund, Student Government, University of Chicago. \hfill __2015 - 2016__
 
 ## __Panels and Presentations__
 
@@ -412,7 +420,7 @@ __Mentor__, Lily Rahnama, Ph.D., Molecular and Cellular Biology, University of C
 
 __Supervisor__, Nadya Ali, Ph.D, Committee on Evolutionary Biology, University of Chicago \hfill __2018 - 2022__
 
-__Supervisor__, Stephanie E. Bulls, M.S, University of South Alabama. \hfill __2019-2020__
+__Supervisor__, Stephanie E. Bulls, M.S, University of South Alabama. \hfill __2019 - 2020__
 
 __Supervisor__, Eric Chen, B.s, University of Chicago. \hfill __2018 - 2019__
 
@@ -438,7 +446,11 @@ __Smithsonian Magazine__: Wu, Katherine J. "Cancer Is One Worry Elephants Can Fe
 
 ## __Public Outreach Events__
 
-__Speaker__: "De Elefantes y Manatíes: La evolución de resistencia al cáncer en mamíferos gigantes." Cientificos en Linea. \hfill __2021/03/16__
+__Speaker__: GBatNet My Field for Dummies, "Aging at a Glance: Enabling Age Estimation of Bats." \hfill __2024/08/07__
+
+> Organized by GBatNet, "My Field for Dummies" is a talk series geared towards a general audience on the types of field work bat scientists undertake and its impact.  
+
+__Speaker__: Cientificos en Linea, "De Elefantes y Manatíes: La evolución de resistencia al cáncer en mamíferos gigantes." \hfill __2021/03/16__
 
 > A 30-minute talk for Puerto Rico public TV, geared towards middle/high schoolers with basic biology knowledge as a learning supplement during the COVID-19 pandemic.
 
@@ -495,6 +507,10 @@ University of Chicago myCHOICE program.
 
 # PROFESSIONAL MEMBERSHIPS \hrulefill
 
+American Society for Human Genetics \hfill __2024 - __
+
+Society for Molecular Biology and Evolution \hfill __2024 - __
+
 GBatNet \hfill __2022 - __
 
 International Society for Evolution, Medicine, and Public Health \hfill __2022 - __
@@ -516,13 +532,13 @@ __Languages: __ English (native), Spanish (native), French (fluent)
 
 __Programming: __ Python (expert), R (expert), Bash (expert), Julia (novice), Rust (novice)
 
-__DNA & RNA Sequencing: __ short-read (Illumina) and 3rd Generation (Oxford Nanopore, PacBio CCS)
+__DNA & RNA Sequencing: __ short-read (Illumina) and long-read (Oxford Nanopore, PacBio CCS); genome assembly & variant calling
 
 __Epigenetics: __ ChIP-seq (IcE-ChIP, native, and denatured), ATAC-seq, Hi-C, bisulfite-seq
 
 __Single Cell Sequencing: __ 10x Multiome (ATAC+Gene Expression)
 
-__Field Work: __ 425 hours of experience handling bats
+__Field Work: __ >800 hours of experience handling bats
 
 ___in vivo models: ___ Mice
 
