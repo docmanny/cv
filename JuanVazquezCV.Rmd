@@ -74,7 +74,9 @@ University of Rochester \hfill __May 2015__
 
 ## Journal Articles
 
-_\* indicates equal contribution_; ___^†^__ indicates senior author_
+_\* indicates equal contribution_; __^†^__ indicates senior author_
+
+1. __Vazquez JM__, Khudyakov J, Madelaire CB, Godard-Codding CA, Lam EK, Piotrowski E, Merrill GB, Routti H, Conner J, Wisse J, Allen KN, Blevin P, Spyropoulos DD, Goksøyr A and Vazquez-Medina JP (2024). “Ex vivo and In vitro Methods as a Platform for Studying Anthropogenic Effects on Marine Mammals: Four challenges and how to meet them.” Frontiers in Marine Science. Accepted 10/09/2024.
 
 1. Ali N\*, Amelkina O\*, Santymire RM, Koepfli KP, Comizzoli P & __Vazquez JM^†^__ (2024). "Semen proteome and transcriptome of the endangered black-footed ferret (_Mustela nigripes_) show association with the environment and fertility outcome." _Scientific Reports_, 10.1038/s41598-024-57096-w.
 
@@ -113,15 +115,12 @@ _\* indicates equal contribution_; ___^†^__ indicates senior author_
 
 -->
 
-## Accepted Manuscripts
-
-1. __Vazquez JM__, Khudyakov J, Madelaire CB, Godard-Codding CA, Lam EK, Piotrowski E, Merrill GB, Routti H, Conner J, Wisse J,Allen KN, Blevin P, Spyropoulos DD, Goksøyr A and Vazquez-Medina JP (2024). "_Ex vivo_ and _In vitro_ Methods as a Platform for Studying Anthropogenic Effects on Marine Mammals: Four challenges and how to meet them." _Frontiers in Marine Science_.
 
 ## Manuscripts in Preparation
 
-1. _ETA: September 2024_\hfill__Vazquez JM__, Lauterbur ME, Mottaghinia S, Bucci M, Fraser D, Gray-Sandoval G, Haidar ZR, Kohler W, Lama T, LeCorf A, Maesen S, McMillan D, Lo J, Miller R, Rey C, Singer M, Slocum K, Thomas W, Tyburek J, Buchalski M, Etienne L, Enard D, Sudmant PH. "Extensive longevity and DNA virus-driven adaptation in nearctic Myotis."
+1. _ETA: October 8 2024_\hfill__Vazquez JM__, Lauterbur ME, Mottaghinia S, Bucci M, Fraser D, Gray-Sandoval G, Haidar ZR, Kohler W, Lama T, LeCorf A, Maesen S, McMillan D, Lo J, Miller R, Rey C, Singer M, Slocum K, Thomas W, Tyburek J, Buchalski M, Etienne L, Enard D, Sudmant PH. "Extensive longevity and DNA virus-driven adaptation in nearctic Myotis."
 
-1. _ETA: September 2024_\hfill Le Corf A, Maesen S, Loyer C, __Vazquez JM__, Lauterbur M, Grey-Sandoval G, Cimarelli A, Rey C, Sudmant PH, Enard D, Etienne L. "Genomic and functional adaptations in guanylate-binding protein 5 (GBP5) highlight specificities of bat antiviral innate immunity."
+1. _ETA: Winter 2024_\hfill Le Corf A, Maesen S, Loyer C, __Vazquez JM__, Lauterbur M, Grey-Sandoval G, Cimarelli A, Rey C, Sudmant PH, Enard D, Etienne L. "Genomic and functional adaptations in guanylate-binding protein 5 (GBP5) highlight specificities of bat antiviral innate immunity."
 
 ## Invited Talks
 
