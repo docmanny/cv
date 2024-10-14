@@ -74,9 +74,9 @@ University of Rochester \hfill __May 2015__
 
 ## Journal Articles
 
-_\* indicates equal contribution_; __^†^__ indicates senior author_
+_\* indicates equal contribution; __^†^__ indicates senior author_
 
-1. __Vazquez JM__, Khudyakov J, Madelaire CB, Godard-Codding CA, Lam EK, Piotrowski E, Merrill GB, Routti H, Conner J, Wisse J, Allen KN, Blevin P, Spyropoulos DD, Goksøyr A and Vazquez-Medina JP (2024). “Ex vivo and In vitro Methods as a Platform for Studying Anthropogenic Effects on Marine Mammals: Four challenges and how to meet them.” Frontiers in Marine Science. Accepted 10/09/2024.
+1. __Vazquez JM\*__, Lauterbur ME\*, Mottaghinia S, Bucci M,  Fraser D, Gray-Sandoval S, Gaucherand L,  Haidar ZR, Han M,  Kohler W,  Lama TM,  Le Corf A,  Maesen S, McMillan D, Li S, Lo J,  Rey C,  Capel SLR,  Singer M,  Slocum K, Thomas W, Debelak Tyburec J, Villa S, Miller R, Buchalski M, Vazquez-Medina JP, Pfeffer S, Etienne L, Enard D, and Sudmant PH (2024). "Extensive longevity and DNA virus-driven adaptation in nearctic _Myotis_ bats." _Biorxiv_, 10.1101/2024.10.10.617725.
 
 1. Ali N\*, Amelkina O\*, Santymire RM, Koepfli KP, Comizzoli P & __Vazquez JM^†^__ (2024). "Semen proteome and transcriptome of the endangered black-footed ferret (_Mustela nigripes_) show association with the environment and fertility outcome." _Scientific Reports_, 10.1038/s41598-024-57096-w.
 
@@ -104,11 +104,15 @@ _\* indicates equal contribution_; __^†^__ indicates senior author_
 
 1. __Vazquez JM__, Sulak M, Chigurupati S, Lynch VJ (2018). “A Zombie LIF Gene in Elephants Is Upregulated by TP53 to Induce Apoptosis in Response to DNA Damage.” _Cell Reports_, 24(7), 1765-1776.  
 
-1. Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.”, _Aging_, 8 (5), 841-847.  
+1. Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.” _Aging_, 8 (5), 841-847.  
 
-## Reviews
+## Reviews & Perspectives
 
-1. Li S, __Vazquez JM__, Sudmant PH (2023). "The Evolution of Aging and Lifespan." _Trends in Genetics_ 10.1016/j.tig.2023.08.005.
+
+1. __Vazquez JM__, Khudyakov J, Madelaire CB, Godard-Codding CA, Lam EK, Piotrowski E, Merrill GB, Routti H, Conner J, Wisse J, Allen KN, Blevin P, Spyropoulos DD, Goksøyr A and Vazquez-Medina JP (2024). “Ex vivo and In vitro Methods as a Platform for Studying Anthropogenic Effects on Marine Mammals: Four challenges and how to meet them.” _Frontiers in Marine Science_, 11, 10.3389/fmars.2024.1466968.
+
+1. Li S, __Vazquez JM__, Sudmant PH (2023). "The Evolution of Aging and Lifespan." _Trends in Genetics_, 10.1016/j.tig.2023.08.005.
+
 
 <!--
 ## Manuscripts in Review
@@ -118,9 +122,12 @@ _\* indicates equal contribution_; __^†^__ indicates senior author_
 
 ## Manuscripts in Preparation
 
-1. _ETA: October 8 2024_\hfill__Vazquez JM__, Lauterbur ME, Mottaghinia S, Bucci M, Fraser D, Gray-Sandoval G, Haidar ZR, Kohler W, Lama T, LeCorf A, Maesen S, McMillan D, Lo J, Miller R, Rey C, Singer M, Slocum K, Thomas W, Tyburek J, Buchalski M, Etienne L, Enard D, Sudmant PH. "Extensive longevity and DNA virus-driven adaptation in nearctic Myotis."
-
 1. _ETA: Winter 2024_\hfill Le Corf A, Maesen S, Loyer C, __Vazquez JM__, Lauterbur M, Grey-Sandoval G, Cimarelli A, Rey C, Sudmant PH, Enard D, Etienne L. "Genomic and functional adaptations in guanylate-binding protein 5 (GBP5) highlight specificities of bat antiviral innate immunity."
+
+1. _ETA: Winter 2024_\hfill __Vazquez JM__, Bahry DN, Schaffer LR, Birkemeier M, Chang S, Louisor Kimberly, Chen E, Pajic P, Kassem S, Gokcumen O, Leija R, Vonhof M, Vazquez-Medina JP, Krabbenhoft T, Sudmant PH, and Lynch VJ. "A polymorphic TP53-WRAP53 locus duplication is associated with an enhanced p53-mediated DNA-damage response in little brown bats (_Myotis lucifugus_)." 
+
+1. _ETA: Spring 2025_\hfill Sui M, Teh J, Fort K, Jackson S, Wilbrecht L, Sudmant PH, Koide T, Good JM, __Vazquez JM__ & Brem RB. "Variation across Mus in cellular senescence"
+
 
 ## Invited Talks
 
@@ -181,9 +188,7 @@ Biology of Aging Gordon Research Seminar and Conference. __Vazquez JM__, Lynch V
 
 __NIH K99/R00 MOSAIC (1K99AG088361)__ \hfill __2024 - 2026__
 
-__NIA T32 Trainee__ \hfill __2023 - 2024__
-
-> NIH \hfill R13AG063483-01
+__NIA T32 Trainee (T32AG000266)__ \hfill __2023 - 2024__
 
 __NSF Postdoctoral Research Fellowship in Biology (#2109915)__. \hfill __2021 - 2023__
 
@@ -195,17 +200,14 @@ __Life Sciences Research Foundation Postdoctoral Fellowship.__ \hfill __2020__
 __NSF Postdoctoral Research Fellowship in Biology.__ \hfill __2020__  
 \hfill __Meritorious__, unfunded.
 
-__Yale Ciencia Academy Fellowship__, \hfill __2019__  
-Yale University  
+__Yale Ciencia Academy Fellowship__, \hfill __2019__
 
 __NIGMS R25 Trainee: Initiative to Maximize Student Development __, \hfill __2015 - 2017__  
 University of Chicago \hfill 5R25GM109439-03
 
-__Howard Bryant Memorial Scholarship__, \hfill __2012 - 2014__  
-University of Rochester
+__Howard Bryant Memorial Scholarship__, \hfill __2012 - 2014__
 
-__Dean's Scholarship__, \hfill __2011 - 2015__  
-University of Rochester
+__Dean's Scholarship__, \hfill __2011 - 2015__
 
 ## __Grants__  
 

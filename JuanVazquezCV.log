@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.7)  1 OCT 2024 09:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.7)  14 OCT 2024 12:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -480,7 +480,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 [1
 
 ] [2] [3] [4] [5] [6] [7] [8]
-Underfull \hbox (badness 1107) in paragraph at lines 914--918
+Underfull \hbox (badness 1107) in paragraph at lines 918--922
 []\TU/lmr/bx/n/10 Nature\TU/lmr/m/n/10 , Career News: Woolston, Chris. “Junior researchers hit by coronavirus-triggered hiring
  []
 
@@ -492,15 +492,15 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `JuanVazquezCV.out' has not changed.
-(rerunfilecheck)             Checksum: 318BCC19A5A6D69F3F43BCF9F011412F;4662.
+(rerunfilecheck)             Checksum: 4662FA248BEFDCEAC3944080A97D1BFC;4746.
  ) 
 Here is how much of TeX's memory you used:
- 15102 strings out of 477590
- 279742 string characters out of 5818396
+ 15104 strings out of 477590
+ 279811 string characters out of 5818396
  1934422 words of memory out of 5000000
- 36089 multiletter control sequences out of 15000+600000
- 565835 words of font info for 77 fonts, out of 8000000 for 9000
+ 36090 multiletter control sequences out of 15000+600000
+ 565843 words of font info for 78 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 93i,12n,132p,1202b,409s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,132p,1202b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on JuanVazquezCV.pdf (11 pages).
