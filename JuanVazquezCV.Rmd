@@ -122,14 +122,18 @@ _\* indicates equal contribution; __^†^__ indicates senior author_
 
 ## Manuscripts in Preparation
 
-1. _ETA: Winter 2024_\hfill Le Corf A, Maesen S, Loyer C, __Vazquez JM__, Lauterbur M, Grey-Sandoval G, Cimarelli A, Rey C, Sudmant PH, Enard D, Etienne L. "Genomic and functional adaptations in guanylate-binding protein 5 (GBP5) highlight specificities of bat antiviral innate immunity."
+1. Le Corf A, Maesen S, Loyer C, __Vazquez JM__, Lauterbur M, Grey-Sandoval G, Cimarelli A, Rey C, Sudmant PH, Enard D, Etienne L. "Genomic and functional adaptations in guanylate-binding protein 5 (GBP5) highlight specificities of bat antiviral innate immunity."\hfill _ETA: Winter 2024_
 
-1. _ETA: Winter 2024_\hfill __Vazquez JM__, Bahry DN, Schaffer LR, Birkemeier M, Chang S, Louisor Kimberly, Chen E, Pajic P, Kassem S, Gokcumen O, Leija R, Vonhof M, Vazquez-Medina JP, Krabbenhoft T, Sudmant PH, and Lynch VJ. "A polymorphic TP53-WRAP53 locus duplication is associated with an enhanced p53-mediated DNA-damage response in little brown bats (_Myotis lucifugus_)." 
+1. __Vazquez JM__, Bahry DN, Schaffer LR, Birkemeier M, Chang S, Louisor Kimberly, Chen E, Pajic P, Kassem S, Gokcumen O, Leija R, Vonhof M, Vazquez-Medina JP, Krabbenhoft T, Sudmant PH, and Lynch VJ. "A polymorphic TP53-WRAP53 locus duplication is associated with an enhanced p53-mediated DNA-damage response in little brown bats (_Myotis lucifugus_)." \hfill _ETA: Winter 2024_
 
-1. _ETA: Spring 2025_\hfill Sui M, Teh J, Fort K, Jackson S, Wilbrecht L, Sudmant PH, Koide T, Good JM, __Vazquez JM__ & Brem RB. "Variation across Mus in cellular senescence"
+1. Sui M, Teh J, Fort K, Jackson S, Wilbrecht L, Sudmant PH, Koide T, Good JM, __Vazquez JM__ & Brem RB. "Variation across Mus in cellular senescence" \hfill _ETA: Spring 2025_
 
 
 ## Invited Talks
+
+NYU Grossman School of Medicine. _Complex, segregating genetic variation govern the stress responses of long-lived bats_. 14 November 2024, New York City, NY, USA.
+
+North American Socitey for Bat Research. _Bat1K: Evolution of longevity and longevity-associated traits working group_. 27 October 2024, Guadalajara, MX. 
 
 Stanford-Berkeley-UCSF Next-Generation Faculty Symposium. _Uncovering novel pathways to longevity by studying lifespan at its extremes_. 17 November 2023, Virtual.
 
@@ -192,13 +196,11 @@ __NIA T32 Trainee (T32AG000266)__ \hfill __2023 - 2024__
 
 __NSF Postdoctoral Research Fellowship in Biology (#2109915)__. \hfill __2021 - 2023__
 
-_A Novel Model System for Studying the Evolution and Genomics of Longevity_
-
 __Life Sciences Research Foundation Postdoctoral Fellowship.__ \hfill __2020__  
-\hfill __Finalist__, unfunded (no sponsors).
+\hfill ___Finalist___, no sponsors.
 
 __NSF Postdoctoral Research Fellowship in Biology.__ \hfill __2020__  
-\hfill __Meritorious__, unfunded.
+\hfill ___Meritorious___, unfunded.
 
 __Yale Ciencia Academy Fellowship__, \hfill __2019__
 
@@ -359,8 +361,9 @@ Swift Elementary School.
 
 ## __Workshops__
 
-__Instructor__, CCB Skills Seminar: _An overview of skills and pipelines for A-Z reproducible manuscripts_. \hfill __11/2023__
+__Instructor__, Colorado State University Training Grant Skills Seminar: _An overview of skills and pipelines for A-Z reproducible manuscripts using Snakemake and R_. \hfill __11/2024__
 
+__Instructor__, CCB Skills Seminar: _An overview of skills and pipelines for A-Z reproducible manuscripts_. \hfill __11/2023__
 
 __Volunteer Workshop Aide__, StdPopSim Introductory Workshop - Australasia. \hfill __2021__
 
@@ -446,6 +449,10 @@ __El Español__: Íñiguez De Onzoño, Javier. "El misterioso gen zombi que prot
 __Smithsonian Magazine__: Wu, Katherine J. "Cancer Is One Worry Elephants Can Feel Free to Forget." News article. Smithsonian Magazine. The Smithsonian Institute, 08/14/2018. https://www.smithsonianmag.com/science-nature/cancer-one-worry-elephants-forget-180969993/.
 
 ## __Public Outreach Events__
+
+__Speaker__: Conversación virtual con estudiantes Costarricenses, "Todos envejecemos, algunos más lentos que otros: ¿Qué podemos aprender de los murciélagos?." \hfill __2024/10/16__
+
+> Organized by Ecology Project International for a high school audience, these conversations shine a light on the work and life of scientists.
 
 __Speaker__: GBatNet My Field for Dummies, "Aging at a Glance: Enabling Age Estimation of Bats." \hfill __2024/08/07__
 
