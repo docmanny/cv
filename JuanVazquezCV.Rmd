@@ -19,7 +19,7 @@ linkedin: juanvazquezbio
 web: 'vazquez.bio'
 updated: yes
 
-keywords: aging, stress response, Peto's Paradox, comparative biology, functional genomics, R, Python, molecular biology, bats, elephants, whales, open science, diversity and inclusion
+keywords: aging, pangenomics, stress response, comparative biology, functional genomics, Peto's Paradox, R, Python, molecular biology, bats, elephants, whales, open science, diversity and inclusion
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -76,9 +76,14 @@ University of Rochester \hfill __May 2015__
 
 _\* indicates equal contribution; __^†^__ indicates senior author_
 
+
+1. Sui M, Teh J, Fort K, Shaw D, Sudmant PH, Koide T, Good JM, __Vazquez JM^†^__, and Brem RB (2025). "Avid lysosomal acidification in fibroblasts of the Mediterranean mouse Mus spretus." _Biorxiv_, 10.1101/2025.02.05.636718.
+
+1. Le Corf A, Maesen S, Loyer C, __Vazquez JM__, Lauterbur ME, Sareoua L, Grey-Sandoval G, Cimarelli A, Rey C, Sudmant PH, Enard D, Etienne L (2025). "Genomic and functional adaptations in guanylate-binding protein 5 (GBP5) highlight specificities of bat antiviral innate immunity." _Biorxiv_, 10.1101/2025.02.11.637683.
+
 1. __Vazquez JM\*__, Lauterbur ME\*, Mottaghinia S, Bucci M,  Fraser D, Gray-Sandoval S, Gaucherand L,  Haidar ZR, Han M,  Kohler W,  Lama TM,  Le Corf A,  Maesen S, McMillan D, Li S, Lo J,  Rey C,  Capel SLR,  Singer M,  Slocum K, Thomas W, Debelak Tyburec J, Villa S, Miller R, Buchalski M, Vazquez-Medina JP, Pfeffer S, Etienne L, Enard D, and Sudmant PH (2024). "Extensive longevity and DNA virus-driven adaptation in nearctic _Myotis_ bats." _Biorxiv_, 10.1101/2024.10.10.617725.
 
-1. Ali N\*, Amelkina O\*, Santymire RM, Koepfli KP, Comizzoli P & __Vazquez JM^†^__ (2024). "Semen proteome and transcriptome of the endangered black-footed ferret (_Mustela nigripes_) show association with the environment and fertility outcome." _Scientific Reports_, 10.1038/s41598-024-57096-w.
+1. Ali N\*, Amelkina O\*, Santymire RM, Koepfli KP, Comizzoli P, and __Vazquez JM^†^__ (2024). "Semen proteome and transcriptome of the endangered black-footed ferret (_Mustela nigripes_) show association with the environment and fertility outcome." _Scientific Reports_, 10.1038/s41598-024-57096-w.
 
 1. Capel S, Hamilton NM, Fraser D, Escalona M, Nguyen O, Sacco S, Sahasrabudhe R, Seligmann W, __Vazquez JM__, Sudmant PH, Morison ML, Wayne R, Buchalski MR (2024). "Reference genome of Townsend’s big-eared bat, _Corynorhinus townsendii_." _Journal of Heredity_, 10.1093/jhered/esad078.
 
@@ -122,14 +127,17 @@ _\* indicates equal contribution; __^†^__ indicates senior author_
 
 ## Manuscripts in Preparation
 
-1. _ETA: Winter 2024_\hfill Le Corf A, Maesen S, Loyer C, __Vazquez JM__, Lauterbur M, Grey-Sandoval G, Cimarelli A, Rey C, Sudmant PH, Enard D, Etienne L. "Genomic and functional adaptations in guanylate-binding protein 5 (GBP5) highlight specificities of bat antiviral innate immunity."
 
-1. _ETA: Winter 2024_\hfill __Vazquez JM__, Bahry DN, Schaffer LR, Birkemeier M, Chang S, Louisor Kimberly, Chen E, Pajic P, Kassem S, Gokcumen O, Leija R, Vonhof M, Vazquez-Medina JP, Krabbenhoft T, Sudmant PH, and Lynch VJ. "A polymorphic TP53-WRAP53 locus duplication is associated with an enhanced p53-mediated DNA-damage response in little brown bats (_Myotis lucifugus_)." 
-
-1. _ETA: Spring 2025_\hfill Sui M, Teh J, Fort K, Jackson S, Wilbrecht L, Sudmant PH, Koide T, Good JM, __Vazquez JM__ & Brem RB. "Variation across Mus in cellular senescence"
+1. _ETA: Winter 2025_\hfill __Vazquez JM__, Bahry DN, Schaffer LR, Birkemeier M, Chang S, Louisor Kimberly, Chen E, Pajic P, Kassem S, Gokcumen O, Leija R, Vonhof M, Vazquez-Medina JP, Krabbenhoft T, Sudmant PH, and Lynch VJ. "A polymorphic TP53-WRAP53 locus duplication is associated with an enhanced p53-mediated DNA-damage response in little brown bats (_Myotis lucifugus_)." 
 
 
 ## Invited Talks
+
+International Society for Evolutionary Medicine and Public Health. _Extensive structural variation and longevity-associated adaptations in nearctic Myotis bats_. 08 July 2025, Nashville, TN, USA. 
+
+National Institute of Aging, Division of Aging Biology: New Investigators Forum. _Patterns and Mechanisms Underlying Somatic Mutations Across Long-Lived Bats_. 26 June 2025, Virtual.
+
+Center for Theoretical and Evolutionary Genomics, UC Berkeley. _Extensive Structural Variation and Longevity-Associated Adaptations in Nearctic Myotis Bats_. 21 May 2025, Berkeley, CA, USA.
 
 Stanford-Berkeley-UCSF Next-Generation Faculty Symposium. _Uncovering novel pathways to longevity by studying lifespan at its extremes_. 17 November 2023, Virtual.
 
@@ -145,7 +153,9 @@ Biodiversity Genomics Conference. _Evolution of non-allometric longevity and ant
 
 Marine Mammal Symposium, University of California-Berkeley. _A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics_. 25 May 2023, Berkeley, CA, USA.
 
-Bay Area Aging Meeting. _Evolution of Non-Allometric Longevity in a Clade of Long-Lived Bats Resolved Using Chromosome-Length Genome Assemblies_. 11 May 2023, Novato, CA, USA
+Buck Institute of Aging T32 Symposium. _Enhanced DNA Damage Response in a Clade of Long-Lived Bats_. 01 March 2024, Novato, CA, USA.
+
+Bay Area Aging Meeting. _Evolution of Non-Allometric Longevity in a Clade of Long-Lived Bats Resolved Using Chromosome-Length Genome Assemblies_. 11 May 2023, Novato, CA, USA.
 
 UCB Center for Computation Biology Retreat. _Building a Model System for Studying the Evolution of Extraordinary Longevity in Bats Using Functional Genomics._ 05 November 2022, Green Mountain Retreat, CA, USA.
 
@@ -171,6 +181,8 @@ Biology of Aging Gordon Research Conference. _Stress Response and a P53 Duplicat
 
 ## __Poster Presentations__  
 
+Biology of Genomes. __Vazquez JM__, Birkemeier M, Chang S,  Louisor K, Pajic P, Kassem S, Gokcumen O, Leija R, Villa S, Lauterbur ME, Rey C, Vonhof M, Vazquez-Medina JP, Etienne L, Enard D, Lynch VJ, and Sudmant PH. "Extensive structural variation and longevity-associated adaptations in nearctic Myotis bats." 6-9 May 2025, Cold Spring Harbor, NY, USA.
+
 Biology of Aging Gordon Research Conference. __Vazquez JM__, Lauterbur ME, Fraser D, Buchalski M, Enard D, Sudmant PH. "A Model System for Studying the Evolution of Longevity-Associated Traits Using Functional Genomics." 01 - 07 July 2023, Castelldefels, Catalonia, Spain.
 
 Systems Biology of Aging Gordon Research Conference. __Vazquez JM__, Lauterbur ME, Fraser D, Buchalski M, Enard D, Sudmant PH. "A Model System for Studying the Evolution of Longevity-Associated Traits Using Functional Genomics." 29 May - 03 June 2022, Sunday River, MA, USA.
@@ -186,7 +198,7 @@ Biology of Aging Gordon Research Seminar and Conference. __Vazquez JM__, Lynch V
 
 ## __Fellowships, Scholarships, and Training Grants__
 
-__NIH K99/R00 MOSAIC (1K99AG088361)__ \hfill __2024 - 2026__
+__NIH K99/R00 MOSAIC (K99AG088361)__ \hfill __2024 - 2025__
 
 __NIA T32 Trainee (T32AG000266)__ \hfill __2023 - 2024__
 
@@ -232,6 +244,8 @@ University of Chicago. \hfill $2,000.00
 __2022 Best Lighting Talk__. UCB Center for Computational Biology Retreat. \hfill __2022__
 
 __2021 Trainee Diversity, Equity, and Inclusion Legacy Award__. University of Chicago \hfill __2021__
+
+__2020 Thesis of the Year Award in the Department of Human Genetics__. University of Chicago \hfill __2020__
 
 __SACNAS Chapter of the Year Award__, \hfill __2019__  
 Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS).
@@ -359,6 +373,8 @@ Swift Elementary School.
 
 ## __Workshops__
 
+__Instructor__, Colorado State University Computational Biology Workshop Series: _An overview of skills and pipelines for A-Z reproducible manuscripts_. \hfill __11/2024__
+
 __Instructor__, CCB Skills Seminar: _An overview of skills and pipelines for A-Z reproducible manuscripts_. \hfill __11/2023__
 
 
@@ -406,13 +422,15 @@ University of Rochester.
 
 ## __Mentoring__
 
-__Supervisor__, Sarah Gabrielle Villa, B.sc., University of California-Berkeley  \hfill __2023 - Present__
+__Supervisor__, Sarah Gabrielle Villa, B.Sc., University of California-Berkeley  \hfill __2023 - 2025__
 
 __Group leader__, _Thriving in Science_ Postdoc Support Group \hfill __2020 - 2021__
 
-__Supervisor__, Diana Sam, B.sc., University of California-Berkeley  \hfill __2020 - 2021__
+__Supervisor__, Diana Sam, B.Sc., University of California-Berkeley  \hfill __2020 - 2021__
 
-__Supervisor__, Katia Renault, B.sc., University of California-Berkeley \hfill __2020 - 2023__
+> MD Student, University of Houston.
+
+__Supervisor__, Katia Renault, B.Sc., University of California-Berkeley \hfill __2020 - 2023__
 
 > PhD Student, Department of Developmental and Regenerative Biology, Harvard University.
 > Mentor for 2023 NSF GRFP - Awarded.
@@ -423,7 +441,7 @@ __Supervisor__, Nadya Ali, Ph.D, Committee on Evolutionary Biology, University o
 
 __Supervisor__, Stephanie E. Bulls, M.S, University of South Alabama. \hfill __2019 - 2020__
 
-__Supervisor__, Eric Chen, B.s, University of Chicago. \hfill __2018 - 2019__
+__Supervisor__, Eric Chen, B.Sc, University of Chicago. \hfill __2018 - 2019__
 
 > PhD Student, Department of Developmental and Regenerative Biology, Harvard University
 > Mentor for 2019 NSF GRFP - Honorable Mention.
@@ -433,17 +451,19 @@ __Supervisor__, Eric Chen, B.s, University of Chicago. \hfill __2018 - 2019__
 
 ## __Interviews__
 
-__Neo Life__: Donovan, Robin. "The Salty Secrets of Extreme Longevity." News article. Neo Life, 04/21/2022. https://neo.life/2022/04/the-salty-secrets-of-extreme-longevity/
+Pierce Stevens, Alison. "Meet some of the longest-lived animals." News article. _Science News Explores_. Science News, 30 January 2025. https://www.snexplores.org/article/long-lifespan-oldest-animals-aging
 
-__Nature__, Career News: Woolston, Chris. "Junior researchers hit by coronavirus-triggered hiring freezes." News article. Nature Career News. Nature, 06/02/2020. https://www.nature.com/articles/d41586-020-01656-3.
+Donovan, Robin. "The Salty Secrets of Extreme Longevity." News article. _Neo Life_, 21 April 2022. https://neo.life/2022/04/the-salty-secrets-of-extreme-longevity/
 
-__NPR__, Science Friday: Flatow, Ira. "How A ‘Zombie Gene’ Helped Elephants Evolve Protection From Cancer." Audio blog post. Science Friday. NPR, 08/17/2018. https://www.sciencefriday.com/segments/how-a-zombie-gene-helped-elephants-evolve-protection-from-cancer/.  
+Woolston, Chris. "Junior researchers hit by coronavirus-triggered hiring freezes." News article. _Nature Career News_. Nature, 02 June 2020. https://www.nature.com/articles/d41586-020-01656-3.
 
-__CBC News__: Kachur, Torah. "This gene prevents elephants from getting cancer and scientists are taking note." News article. CBC News. CBC, 08/16/2018. https://www.cbc.ca/news/canada/this-gene-prevents-elephants-from-getting-cancer-1.4787721.
+Flatow, Ira. "How A ‘Zombie Gene’ Helped Elephants Evolve Protection From Cancer." Audio blog post. _Science Friday_. NPR, 17 August 2018. https://www.sciencefriday.com/segments/how-a-zombie-gene-helped-elephants-evolve-protection-from-cancer/.  
 
-__El Español__: Íñiguez De Onzoño, Javier. "El misterioso gen zombi que protege a los elefantes contra el cáncer." News article. El Español. El Español, 08/16/2018. https://www.elespanol.com/ciencia/investigacion/20180815/misterioso-gen-zombi-protege-elefantes-cancer/330218017_0.html.
+Kachur, Torah. "This gene prevents elephants from getting cancer and scientists are taking note." News article. CBC News. CBC, 16 August 2018. https://www.cbc.ca/news/canada/this-gene-prevents-elephants-from-getting-cancer-1.4787721.
 
-__Smithsonian Magazine__: Wu, Katherine J. "Cancer Is One Worry Elephants Can Feel Free to Forget." News article. Smithsonian Magazine. The Smithsonian Institute, 08/14/2018. https://www.smithsonianmag.com/science-nature/cancer-one-worry-elephants-forget-180969993/.
+Íñiguez De Onzoño, Javier. "El misterioso gen zombi que protege a los elefantes contra el cáncer." News article. El Español. El Español, 16 August 2018. https://www.elespanol.com/ciencia/investigacion/20180815/misterioso-gen-zombi-protege-elefantes-cancer/330218017_0.html.
+
+Wu, Katherine J. "Cancer Is One Worry Elephants Can Feel Free to Forget." News article. Smithsonian Magazine. The Smithsonian Institute, 14 August 2018. https://www.smithsonianmag.com/science-nature/cancer-one-worry-elephants-forget-180969993/.
 
 ## __Public Outreach Events__
 
