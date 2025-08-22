@@ -8,10 +8,11 @@ geometry: margin=1in
 title: "CV"
 author: Juan Manuel Vazquez
 orcid: "orcid.org/0000-0002-8341-2390"
-jobtitle: "K99 Postdoctoral Fellow - Sudmant Lab · University of California, Berkeley"
-address: "4111 Valley Life Sciences MC3140 · Berkeley · CA 94720-3140"
+jobtitle: 
+  -  "Assistant Professor, Department of Biology, The Pennsylvania State University"
+address: "220 Mueller Laboratory · 168 Curtin Rd · University Park · PA 16802"
 fontawesome: yes
-email: juan@vazquez.bio
+email: vazquez@psu.edu
 github: docmanny
 twitter: TheMainManManny
 linkedin: juanvazquezbio
@@ -50,7 +51,7 @@ _University of Rochester_, B.A. Chemistry \hfill __2011 - 2015__
 
 # RESEARCH EXPERIENCE \hrulefill
 
-_Postdoctoral Researcher_, Peter H Sudmant, \hfill __2020 - Present__  
+_Postdoctoral Researcher_, Peter H Sudmant, \hfill __2020 - 2025__  
 University of California-Berkeley
 
 > Focus 1: Evolution of longevity-associated traits in Californian bats. Generating chromosome-level genomes, primary cell library for >200 individuals, and phased population genetic data from 9 species of *Myotis*.  
@@ -125,10 +126,7 @@ _\* indicates equal contribution; __^†^__ indicates senior author_
 -->
 
 
-## Manuscripts in Preparation
-
-
-1. _ETA: Winter 2025_\hfill __Vazquez JM__, Bahry DN, Schaffer LR, Birkemeier M, Chang S, Louisor Kimberly, Chen E, Pajic P, Kassem S, Gokcumen O, Leija R, Vonhof M, Vazquez-Medina JP, Krabbenhoft T, Sudmant PH, and Lynch VJ. "A polymorphic TP53-WRAP53 locus duplication is associated with an enhanced p53-mediated DNA-damage response in little brown bats (_Myotis lucifugus_)." 
+<!-- ## Manuscripts in Preparation -->
 
 
 ## Invited Talks
@@ -149,7 +147,9 @@ Stanford University, _Resolving the Evolution of Longevity and Associated Traits
 
 ## Oral Presentations  
 
-Biodiversity Genomics Conference. _Evolution of non-allometric longevity and anti-viral immunity in nine Neartic_ Myotis _species revealed using chromosome-scale genome assemblies_. 3 October 2023,  Virtual (International).
+International Bat Research Society. _Extensive structural variation and longevity-associated adaptations in nearctic Myotis bats_. 10 August 2025, Cairns, QLD, Australia. 
+
+Biodiversity Genomics Conference. _Evolution of non-allometric longevity and anti-viral immunity in nine Neartic_ Myotis _species revealed using chromosome-scale genome assemblies_. 3 October 2023,  Virtual.
 
 Marine Mammal Symposium, University of California-Berkeley. _A CDKN2C retroduplication in Bowhead whales is associated with the evolution of extremely long lifespans and alerted cell cycle dynamics_. 25 May 2023, Berkeley, CA, USA.
 
@@ -198,13 +198,13 @@ Biology of Aging Gordon Research Seminar and Conference. __Vazquez JM__, Lynch V
 
 ## __Fellowships, Scholarships, and Training Grants__
 
-__NIH K99/R00 MOSAIC (K99AG088361)__ \hfill __2024 - 2025__
+__NIH R00 MOSAIC (NIA R00AG088361)__ \hfill __2025 - Present__
 
-__NIA T32 Trainee (T32AG000266)__ \hfill __2023 - 2024__
+__NIH K99/R00 MOSAIC (NIA K99AG088361)__ \hfill __2024 - 2025__
+
+__NIH T32 Trainee (NIA T32AG000266)__ \hfill __2023 - 2024__
 
 __NSF Postdoctoral Research Fellowship in Biology (#2109915)__. \hfill __2021 - 2023__
-
-_A Novel Model System for Studying the Evolution and Genomics of Longevity_
 
 __Life Sciences Research Foundation Postdoctoral Fellowship.__ \hfill __2020__  
 \hfill __Finalist__, unfunded (no sponsors).
@@ -260,7 +260,7 @@ Society for the Advancement of Chicanos/Hispanics and Native Americans in Scienc
 
 # PROFESSIONAL ACTIVITIES \hrulefill
 
-## Peer Review
+## __Peer Review__
 
 __Reviewer__, Scientific Data \hfill 2023 - Present
 
@@ -268,7 +268,7 @@ __Review Editor__, Frontiers in Aging, Genomics and Epigenomics of Aging Section
 
 __Reviewer__, Gene \hfill 2021 - Present
 
-__Reviewer__, Yale Ciencia Academy Fellowship \hfill 2020 - Present
+__Reviewer__, Yale Ciencia Academy Fellowship \hfill 2020 - 2025__
 
 
 ## __Conferences__
@@ -344,7 +344,6 @@ __Panelist__, "Discover UChicago", University of Chicago_ \hfill __2018__
 
 # TEACHING AND MENTORING EXPERIENCE \hrulefill
 
-
 ## __Guest Lectures__
 
 Skyline College, __BIOL 230: 	Introduction to Cell Biology: Core II__. _Introduction to Cellular Stress Response_. 13 May 2024.
@@ -357,7 +356,7 @@ San Jose State University, _A CDKN2C retroduplication in Bowhead whales is assoc
 
 Cal Poly Humboldt, _Resolving the Evolution of Longevity and Associated Traits in Bats Using Functional and Population Genomics_, 10 November 2021.
 
-## Classes
+## __Classes__
 
 __Organizer and Team Leader__, Cal Summer Genomics Experience. \hfill __Spring 2022__
 
@@ -450,6 +449,12 @@ __Supervisor__, Eric Chen, B.Sc, University of Chicago. \hfill __2018 - 2019__
 # MEDIA, SERVICE, AND OUTREACH \hrulefill
 
 ## __Interviews__
+
+Lee, Stephanie. "Their NIH Grants Are Back. But Nothing Is Back to Normal. _The Chronicle of Higher Education_. The Chronicle of Higher Education, 30 July 2025. https://www.chronicle.com/article/their-nih-grants-are-back-but-nothing-is-back-to-normal
+
+Tremper, Aaron. "Loss inspired this biologist to study aging. _Science News Explores_. Science News, 30 January 2025. https://www.snexplores.org/article/biologist-aging-genes-animals-bats
+
+Pierce Stevens, Alison. "Meet some of the longest-lived animals." News article. _Science News Explores_. Science News, 30 January 2025. https://www.snexplores.org/article/long-lifespan-oldest-animals-aging
 
 Pierce Stevens, Alison. "Meet some of the longest-lived animals." News article. _Science News Explores_. Science News, 30 January 2025. https://www.snexplores.org/article/long-lifespan-oldest-animals-aging
 
