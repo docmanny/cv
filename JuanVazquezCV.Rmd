@@ -31,7 +31,7 @@ urlcolor: blue
 
 # RESEARCH INTERESTS \hrulefill
 
-From prokaryotes to mammals, lifespan is one of the most diverse and omniprescent life history traits. Aging is both implicated in and affected by a number of biological processes at all scales of life; yet our understanding of the genetics and directionality of aging-associated traits is limited in scope. The advent of cost-effective genomics at tree-of-life scale has enabled new frontiers in the study of aging and aging-associated traits using functional and comparative biology. My work focuses on tackling interdisciplinary questions aging with equally interdisciplinary approaches, ranging from cellular and molecular biology to comparative evolutionary genomics and population genetics. I have developed a system for studying the evolution of longevity-associated traits in bats using modern functional genomics by generating chromosome-scale reference genomes and over 200 primary cell lines for over 10 species of closely-related bats with a diversity of lifespans. This system will enable us to not only identify genes and regulatory pathways associated with the evolution of increased or decreased longevity; but also understand how the mechanisms behind these findings in a native context. 
+From prokaryotes to mammals, lifespan is one of the most diverse and omniprescent life history traits. Aging is both implicated in and affected by a number of biological processes at all scales of life; yet our understanding of the genetics and directionality of aging-associated traits is limited in scope. The advent of cost-effective genomics at tree-of-life scale has enabled new frontiers in the study of aging and aging-associated traits using functional and comparative biology. My work focuses on tackling interdisciplinary questions aging with equally interdisciplinary approaches, ranging from cellular and molecular biology to comparative evolutionary genomics and population genetics. I have developed a system for studying the evolution of longevity-associated traits in bats using modern functional genomics by generating chromosome-scale reference genomes and over 250 primary cell lines for over 30 species of closely-related bats with a diversity of lifespans. This system will enable us to not only identify genes and regulatory pathways associated with the evolution of increased or decreased longevity; but also understand how the mechanisms behind these findings in a native context. 
 
 
 # EDUCATION \hrulefill
@@ -78,7 +78,11 @@ University of Rochester \hfill __May 2015__
 _\* indicates equal contribution; __^†^__ indicates senior author_
 
 
-1. Sui M, Teh J, Fort K, Shaw D, Sudmant PH, Koide T, Good JM, __Vazquez JM^†^__, and Brem RB (2025). "Avid lysosomal acidification in fibroblasts of the Mediterranean mouse Mus spretus." _Biorxiv_, 10.1101/2025.02.05.636718.
+1. Sui M, Teh J, Fort K, Shaw D, Sudmant PH, Koide T, Good JM, __Vazquez JM^†^__, and Brem RB^†^ (2026). "Avid lysosomal acidification in fibroblasts of the Mediterranean mouse Mus spretus." _Biology Letters_, 10.1098/rsbl.2025.0479.
+
+1. Corl A, Guzman A, Bi K, __Vazquez JM__, Smith LL, Blaimont P, Spranger R, Cooper RD, Miles D, Goldberg A, Gao J, Xiang X, Zhou Y, Li Q, Zhang G, Sudmant PH, Bowie RCK, McGuire JA, Sinervo B, and Nielsen R (2026). "The genetics, evolution, and maintenance of a biological rock-paper-scissors game." _Science_, 10.1126/science.adw8265.
+
+1. De-Kayne R, Li S, Escalona M, Lou RN, Vazquez JM, Owens GL, Kolora SRR, Jainese C, Seeto K, McCrea M, Nguyen O,Chumchim N, Sahasrabudhe R, Fairbairn CW, Green RE, Seligmann WE, Love M, Sudmant PH (2025). "A haplotype-resolved genome assembly of the bocaccio rockfish, _Sebastes paucispinis_."_Journal of Heredity_, 10.1093/jhered/esaf026.
 
 1. Le Corf A, Maesen S, Loyer C, __Vazquez JM__, Lauterbur ME, Sareoua L, Grey-Sandoval G, Cimarelli A, Rey C, Sudmant PH, Enard D, Etienne L (2025). "Genomic and functional adaptations in guanylate-binding protein 5 (GBP5) highlight specificities of bat antiviral innate immunity." _Biorxiv_, 10.1101/2025.02.11.637683.
 
@@ -112,8 +116,8 @@ _\* indicates equal contribution; __^†^__ indicates senior author_
 
 1. Patrick A, Seluanov M, Hwang C, Tam J, Khan T, Morgenstern A, Wiener L, __Vazquez JM__, Zafar H, Wen R, Muratkalyeva M, Doerig K, Zagorulya M, Cole L, Catalano S, Ladd A, Coppi A, Coşkun Y, Tian, X, Ablaeva J, Nevo E, Gladyshev V, Zhang Z, Vijg J, Seluanov A, Gorbunova V (2016). “Sensitivity of primary fibroblasts in culture to atmospheric oxygen does not correlate with species lifespan.” _Aging_, 8 (5), 841-847.  
 
-## Reviews & Perspectives
 
+## Reviews & Perspectives
 
 1. __Vazquez JM__, Khudyakov J, Madelaire CB, Godard-Codding CA, Lam EK, Piotrowski E, Merrill GB, Routti H, Conner J, Wisse J, Allen KN, Blevin P, Spyropoulos DD, Goksøyr A and Vazquez-Medina JP (2024). “Ex vivo and In vitro Methods as a Platform for Studying Anthropogenic Effects on Marine Mammals: Four challenges and how to meet them.” _Frontiers in Marine Science_, 11, 10.3389/fmars.2024.1466968.
 
@@ -131,6 +135,8 @@ _\* indicates equal contribution; __^†^__ indicates senior author_
 
 ## Invited Talks
 
+20th International Bat Research Conference. _Complex, Segregating Structural Variation Alters the Stress Response of the Long-Lived Bat Myotis lucifugus_. 08 August 2025, Carins, QLD, Australia.
+
 International Society for Evolutionary Medicine and Public Health. _Extensive structural variation and longevity-associated adaptations in nearctic Myotis bats_. 08 July 2025, Nashville, TN, USA. 
 
 National Institute of Aging, Division of Aging Biology: New Investigators Forum. _Patterns and Mechanisms Underlying Somatic Mutations Across Long-Lived Bats_. 26 June 2025, Virtual.
@@ -146,8 +152,6 @@ North American Society for Bat Research. _Bat to the Future: Bat Biology Beyond 
 Stanford University, _Resolving the Evolution of Longevity and Associated Traits in Bats Using Functional and Population Genomics_, 13 June 2022.
 
 ## Oral Presentations  
-
-International Bat Research Society. _Extensive structural variation and longevity-associated adaptations in nearctic Myotis bats_. 10 August 2025, Cairns, QLD, Australia. 
 
 Biodiversity Genomics Conference. _Evolution of non-allometric longevity and anti-viral immunity in nine Neartic_ Myotis _species revealed using chromosome-scale genome assemblies_. 3 October 2023,  Virtual.
 
@@ -196,9 +200,19 @@ Biology of Aging Gordon Research Seminar and Conference. __Vazquez JM__, Lynch V
 
 # FUNDING, AWARDS, AND FELLOWSHIPS \hrulefill
 
-## __Fellowships, Scholarships, and Training Grants__
+## __Grants__  
 
 __NIH R00 MOSAIC (NIA R00AG088361)__ \hfill __2025 - Present__
+
+Tennessee Valley Authority Bat Fund Grant \hfill Applied Jan 2026
+
+Simons Foundation "Collaborations in Ecology and Evolution": \hfill 2025  
+LS-SCEE-00022909: _Proteins, Populations and Pandemics in Infectious Disease_\hfill Not selected  
+LS-SCEE-00021395: _Aging in the Wild: Aging Impacts on Dynamics from Molecules to Communities_\hfill Not selected  
+LS-SCEE-########: _Bat’s as a new model organism to determine the mechanisms that underlie healthy lifespans_ \hfill Not selected  
+
+
+## __Fellowships, Scholarships, and Training Grants__
 
 __NIH K99/R00 MOSAIC (NIA K99AG088361)__ \hfill __2024 - 2025__
 
@@ -206,11 +220,11 @@ __NIH T32 Trainee (NIA T32AG000266)__ \hfill __2023 - 2024__
 
 __NSF Postdoctoral Research Fellowship in Biology (#2109915)__. \hfill __2021 - 2023__
 
-__Life Sciences Research Foundation Postdoctoral Fellowship.__ \hfill __2020__  
-\hfill __Finalist__, unfunded (no sponsors).
+Life Sciences Research Foundation Postdoctoral Fellowship. \hfill 2020  
+\hfill _Finalist_, unfunded (no sponsors).
 
-__NSF Postdoctoral Research Fellowship in Biology.__ \hfill __2020__  
-\hfill __Meritorious__, unfunded.
+NSF Postdoctoral Research Fellowship in Biology. \hfill 2020  
+\hfill _Meritorious_, unfunded.
 
 __Yale Ciencia Academy Fellowship__, \hfill __2019__
 
@@ -221,7 +235,7 @@ __Howard Bryant Memorial Scholarship__, \hfill __2012 - 2014__
 
 __Dean's Scholarship__, \hfill __2011 - 2015__
 
-## __Grants__  
+## __Other Grants__  
 
 __NIA U-13 Supplement, 2019 Biology of Aging Gordon Research Conference__, \hfill __2019__  
 NIA R13AG063483-01. \hfill $13,757.11
@@ -345,6 +359,10 @@ __Panelist__, "Discover UChicago", University of Chicago_ \hfill __2018__
 # TEACHING AND MENTORING EXPERIENCE \hrulefill
 
 ## __Guest Lectures__
+
+Penn State University, __BIOL 409: Biology of Aging__. _Evolution of lifespan and cancer_. 22 January 2026.
+
+University of California, Berkeley, __IB 41: Marine Mammals__. _Cancer: A whale of a problem_. 25 October 2025.
 
 Skyline College, __BIOL 230: 	Introduction to Cell Biology: Core II__. _Introduction to Cellular Stress Response_. 13 May 2024.
 
