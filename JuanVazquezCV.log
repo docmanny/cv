@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.7)  5 FEB 2026 17:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.7)  23 JUL 2026 10:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -479,17 +479,17 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 116.
 [1
 
-] [2] [3] [4] [5] [6] [7] [8] [9]
-Underfull \hbox (badness 1292) in paragraph at lines 1000--1004
+] [2] [3] [4] [5] [6] [7] [8] [9] [10]
+Underfull \hbox (badness 1292) in paragraph at lines 1043--1047
 []\TU/lmr/m/n/10 Flatow, Ira. “How A ‘Zombie Gene’ Helped Elephants Evolve Protection From Cancer.” Au-
  []
 
 
-Overfull \hbox (81.93393pt too wide) in paragraph at lines 1005--1009
+Overfull \hbox (81.93393pt too wide) in paragraph at lines 1048--1052
 \TU/lmr/m/n/10 cle. CBC News. CBC, 16 August 2018. [][]$[][][][][] [] [] [] [][][] [] [][][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
-[10] [11] [12] 
+[11] [12] [13] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./JuanVazquezCV.aux)
  ***********
@@ -497,15 +497,15 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `JuanVazquezCV.out' has not changed.
-(rerunfilecheck)             Checksum: 43D42AC6AD44AA0E7A18E6518FB27D12;4674.
+(rerunfilecheck)             Checksum: 0DE5C447F68F8534C3FDCBC96BED4AA4;5621.
  ) 
 Here is how much of TeX's memory you used:
- 15107 strings out of 477590
- 279883 string characters out of 5818396
- 1940422 words of memory out of 5000000
- 36091 multiletter control sequences out of 15000+600000
+ 15116 strings out of 477590
+ 280059 string characters out of 5818396
+ 1941422 words of memory out of 5000000
+ 36100 multiletter control sequences out of 15000+600000
  565851 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  93i,12n,132p,1202b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on JuanVazquezCV.pdf (12 pages).
+Output written on JuanVazquezCV.pdf (13 pages).
