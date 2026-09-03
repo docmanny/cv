@@ -77,7 +77,7 @@ University of Rochester \hfill __May 2015__
 
 _\* indicates equal contribution; __^†^__ indicates senior author_
 
-1. __Vazquez JM\*__, Lauterbur ME\*, Mottaghinia S, Bucci M,  Fraser D, Gray-Sandoval S, Gaucherand L,  Haidar ZR, Han M,  Kohler W,  Lama TM,  Le Corf A,  Maesen S, McMillan D, Li S, Lo J,  Rey C,  Capel SLR,  Singer M,  Slocum K, Thomas W, Debelak Tyburec J, Villa S, Miller R, Buchalski M, Vazquez-Medina JP, Pfeffer S, Etienne L, Enard D, and Sudmant PH (2026). "Insights into longevity and virus-driven adaptation from _Myotis_ bat genomes." _Nature_, in press. (_BioRxiv_ DOI: 10.1101/2024.10.10.617725)
+1. __Vazquez JM\*__, Lauterbur ME\*, Mottaghinia S, Bucci M,  Fraser D, Gray-Sandoval S, Gaucherand L,  Haidar ZR, Han M,  Kohler W,  Lama TM,  Le Corf A,  Maesen S, McMillan D, Li S, Lo J,  Rey C,  Capel SLR,  Singer M,  Slocum K, Thomas W, Debelak Tyburec J, Villa S, Miller R, Buchalski M, Vazquez-Medina JP, Pfeffer S, Etienne L, Enard D, and Sudmant PH (2026). "Insights into longevity and virus-driven adaptation from _Myotis_ bat genomes." _Nature_, 10.1038/s41586-026-10932-7.
 
 1. Sui M, Teh J, Fort K, Shaw D, Sudmant PH, Koide T, Good JM, __Vazquez JM^†^__, and Brem RB^†^ (2026). "Avid lysosomal acidification in fibroblasts of the Mediterranean mouse Mus spretus." _Biology Letters_, 10.1098/rsbl.2025.0479.
 
@@ -375,6 +375,10 @@ San Jose State University, _A CDKN2C retroduplication in Bowhead whales is assoc
 Cal Poly Humboldt, _Resolving the Evolution of Longevity and Associated Traits in Bats Using Functional and Population Genomics_, 10 November 2021.
 
 ## __Classes__
+
+__Instructor__, __BIOL 409: Biology of Aging__. Penn State University. \hfill Spring 2027
+
+__Co-Instructor__, __BIOL 220M: Honors Biology, Populations and Communities__. Penn State University. \hfill Spring 2027
 
 __Organizer and Team Leader__, Cal Summer Genomics Experience. \hfill __Spring 2022__
 
