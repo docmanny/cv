@@ -79,6 +79,8 @@ _\* indicates equal contribution; __^†^__ indicates senior author_
 
 1. __Vazquez JM\*__, Lauterbur ME\*, Mottaghinia S, Bucci M,  Fraser D, Gray-Sandoval S, Gaucherand L,  Haidar ZR, Han M,  Kohler W,  Lama TM,  Le Corf A,  Maesen S, McMillan D, Li S, Lo J,  Rey C,  Capel SLR,  Singer M,  Slocum K, Thomas W, Debelak Tyburec J, Villa S, Miller R, Buchalski M, Vazquez-Medina JP, Pfeffer S, Etienne L, Enard D, and Sudmant PH (2026). "Insights into longevity and virus-driven adaptation from _Myotis_ bat genomes." _Nature_, 10.1038/s41586-026-10932-7.
 
+1. Morales ME, Liang Y  (梁妍), Thomas WR, ... __Vazquez JM__, ..., and Emma C. Teeling (2026). "Reference genomes and fossils revise bat family phylogeny and biogeography." _Nature_, 10.1038/s41586-026-11007-3.
+
 1. Sui M, Teh J, Fort K, Shaw D, Sudmant PH, Koide T, Good JM, __Vazquez JM^†^__, and Brem RB^†^ (2026). "Avid lysosomal acidification in fibroblasts of the Mediterranean mouse Mus spretus." _Biology Letters_, 10.1098/rsbl.2025.0479.
 
 1. Corl A, Guzman A, Bi K, __Vazquez JM__, Smith LL, Blaimont P, Spranger R, Cooper RD, Miles D, Goldberg A, Gao J, Xiang X, Zhou Y, Li Q, Zhang G, Sudmant PH, Bowie RCK, McGuire JA, Sinervo B, and Nielsen R (2026). "The genetics, evolution, and maintenance of a biological rock-paper-scissors game." _Science_, 10.1126/science.adw8265.
